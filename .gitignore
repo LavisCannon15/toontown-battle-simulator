@@ -1,0 +1,24 @@
+# Local environments and generated files
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+work/
+*.log
+.env
+.env.*
+!.env.example
+# Local extracted game resources and generated media
+assets/ttr/
+assets/audio/
+assets/*.png
+assets/*manifest*.json
+*.mf
+*.bam
+*.egg
+*.ogg
+*.wav
+*.mp4
+reports/**/*.png
+reports/**/*.jpg
