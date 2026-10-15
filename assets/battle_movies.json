@@ -1,0 +1,3240 @@
+{
+  "toon": {
+    "happy-dance": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_happy-dance.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_happy-dance.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_happy-dance.bam"
+    },
+    "hold-magnet": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_hold-magnet.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_hold-magnet.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_hold-magnet.bam"
+    },
+    "sidestep-left": {
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_sidestep-left.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_sidestep-left.bam",
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_sidestep-left.bam"
+    },
+    "pushbutton": {
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_press-button.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_press-button.bam",
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_press-button.bam"
+    },
+    "throw": {
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_pie-throw.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_pie-throw.bam",
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_pie-throw.bam"
+    },
+    "climb": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_climb.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_climb.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_climb.bam"
+    },
+    "conked": {
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_conked.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_conked.bam",
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_conked.bam"
+    },
+    "duck": {
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_duck.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_duck.bam",
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_duck.bam"
+    },
+    "takePhone": {
+      "legs": "phase_5.5/models/char/tt_a_chr_dgm_shorts_legs_takePhone.bam",
+      "torso": "phase_5.5/models/char/tt_a_chr_dgm_shorts_torso_takePhone.bam",
+      "head": "phase_5.5/models/char/tt_a_chr_dgm_shorts_head_takePhone.bam"
+    },
+    "callPet": {
+      "legs": "phase_5.5/models/char/tt_a_chr_dgm_shorts_legs_callPet.bam",
+      "torso": "phase_5.5/models/char/tt_a_chr_dgm_shorts_torso_callPet.bam",
+      "head": "phase_5.5/models/char/tt_a_chr_dgm_shorts_head_callPet.bam"
+    },
+    "hypnotize": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_hypnotize.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_hypnotize.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_hypnotize.bam"
+    },
+    "cringe": {
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_cringe.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_cringe.bam",
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_cringe.bam"
+    },
+    "water-gun": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_water-gun.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_water-gun.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_water-gun.bam"
+    },
+    "firehose": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_firehose.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_firehose.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_firehose.bam"
+    },
+    "battlecast": {
+      "legs": "phase_4/models/char/tt_a_chr_dgm_shorts_legs_fish.bam",
+      "torso": "phase_4/models/char/tt_a_chr_dgm_shorts_torso_fish.bam",
+      "head": "phase_4/models/char/tt_a_chr_dgm_shorts_head_fish.bam"
+    },
+    "phoneBack": {
+      "legs": "phase_5.5/models/char/tt_a_chr_dgm_shorts_legs_phoneBack.bam",
+      "torso": "phase_5.5/models/char/tt_a_chr_dgm_shorts_torso_phoneBack.bam",
+      "head": "phase_5.5/models/char/tt_a_chr_dgm_shorts_head_phoneBack.bam"
+    },
+    "sprinkle-dust": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_sprinkle-dust.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_sprinkle-dust.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_sprinkle-dust.bam"
+    },
+    "walk": {
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_walk.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_walk.bam",
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_walk.bam"
+    },
+    "sound": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_shout.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_shout.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_shout.bam"
+    },
+    "toss": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_toss.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_toss.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_toss.bam"
+    },
+    "hold-bottle": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_hold-bottle.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_hold-bottle.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_hold-bottle.bam"
+    },
+    "spit": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_spit.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_spit.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_spit.bam"
+    },
+    "tickle": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_tickle.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_tickle.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_tickle.bam"
+    },
+    "smooch": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_smooch.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_smooch.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_smooch.bam"
+    },
+    "phoneNeutral": {
+      "legs": "phase_5.5/models/char/tt_a_chr_dgm_shorts_legs_phoneNeutral.bam",
+      "torso": "phase_5.5/models/char/tt_a_chr_dgm_shorts_torso_phoneNeutral.bam",
+      "head": "phase_5.5/models/char/tt_a_chr_dgm_shorts_head_phoneNeutral.bam"
+    },
+    "juggle": {
+      "legs": "phase_5/models/char/tt_a_chr_dgm_shorts_legs_juggle.bam",
+      "torso": "phase_5/models/char/tt_a_chr_dgm_shorts_torso_juggle.bam",
+      "head": "phase_5/models/char/tt_a_chr_dgm_shorts_head_juggle.bam"
+    },
+    "teleport": {
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_teleport.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_teleport.bam",
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_teleport.bam"
+    },
+    "jump": {
+      "head": "phase_3.5/models/char/tt_a_chr_dgm_shorts_head_jump.bam",
+      "torso": "phase_3.5/models/char/tt_a_chr_dgm_shorts_torso_jump.bam",
+      "legs": "phase_3.5/models/char/tt_a_chr_dgm_shorts_legs_jump.bam"
+    },
+    "remoteAttack": {
+      "legs": "phase_5/models/char/ttr_a_chr_dgm_legs_remoteAttack.bam",
+      "torso": "phase_5/models/char/ttr_a_chr_dgm_torso_remoteAttack.bam",
+      "head": "phase_5/models/char/ttr_a_chr_avt_dog_remoteAttack.bam"
+    },
+    "run": {
+      "legs": "phase_3/models/char/ttr_a_chr_dgm_legs_run.bam",
+      "torso": "phase_3/models/char/ttr_a_chr_dgm_torso_run.bam",
+      "head": "phase_3/models/char/ttr_a_chr_avt_dog_run.bam"
+    },
+    "struggle": {
+      "legs": "phase_5/models/char/ttr_a_chr_dgm_legs_struggle.bam",
+      "torso": "phase_5/models/char/ttr_a_chr_dgm_torso_struggle.bam",
+      "head": "phase_5/models/char/ttr_a_chr_avt_dog_struggle.bam"
+    },
+    "slip-backward": {
+      "legs": "phase_4/models/char/ttr_a_chr_dgm_legs_slip-backward.bam",
+      "torso": "phase_4/models/char/ttr_a_chr_dgm_torso_slip-backward.bam",
+      "head": "phase_4/models/char/ttr_a_chr_avt_dog_slip-backward.bam"
+    },
+    "slip-forward": {
+      "legs": "phase_4/models/char/ttr_a_chr_dgm_legs_slip-forward.bam",
+      "torso": "phase_4/models/char/ttr_a_chr_dgm_torso_slip-forward.bam",
+      "head": "phase_4/models/char/ttr_a_chr_avt_dog_slip-forward.bam"
+    },
+    "swim": {
+      "legs": "phase_4/models/char/ttr_a_chr_dgm_legs_swim.bam",
+      "torso": "phase_4/models/char/ttr_a_chr_dgm_torso_swim.bam"
+    }
+  },
+  "suits": {
+    "Flunky": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "throw-paper": "phase_3.5/models/char/suitC-throw-paper.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "phone": "phase_3.5/models/char/suitC-phone.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "shredder": "phase_3.5/models/char/suitC-shredder.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Pound Key": "phone",
+        "Shred": "shredder",
+        "Clip on Tie": "throw-paper"
+      }
+    },
+    "Pencil Pusher": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "finger-wag": "phase_5/models/char/suitB-finger-wag.bam",
+        "hold-pencil": "phase_5/models/char/suitB-hold-pencil.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "pencil-sharpener": "phase_5/models/char/suitB-pencil-sharpener.bam",
+        "pen-squirt": "phase_5/models/char/suitB-pen-squirt.bam",
+        "hold-eraser": "phase_5/models/char/suitB-hold-eraser.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Fountain Pen": "pen-squirt",
+        "Rub Out": "hold-eraser",
+        "Finger Wag": "finger-wag",
+        "Write Off": "hold-pencil",
+        "Fill With Lead": "pencil-sharpener"
+      }
+    },
+    "Yesman": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "rubber-stamp": "phase_5/models/char/suitA-rubber-stamp.bam",
+        "smile": "phase_5/models/char/suitA-smile.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "magic3": "phase_5/models/char/suitA-magic3.bam",
+        "golf-club-swing": "phase_5/models/char/suitA-golf-club-swing.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Rubber Stamp": "rubber-stamp",
+        "Razzle Dazzle": "smile",
+        "Synergy": "magic3",
+        "Tee Off": "golf-club-swing"
+      }
+    },
+    "Micromanager": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "magic1": "phase_5/models/char/suitC-magic1.bam",
+        "effort": "phase_5/models/char/suitC-effort.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "finger-wag": "phase_5/models/char/suitC-finger-wag.bam",
+        "speak": "phase_5/models/char/suitC-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "pen-squirt": "phase_5/models/char/suitC-fountain-pen.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Fountain Pen": "pen-squirt",
+        "Brain Storm": "effort",
+        "Finger Wag": "finger-wag",
+        "Buzz Word": "speak",
+        "Demotion": "magic1",
+        "Close the Loop": "finger-wag"
+      }
+    },
+    "Downsizer": {
+      "anims": {
+        "magic2": "phase_5/models/char/suitB-magic2.bam",
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitB-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Pink Slip": "throw-paper",
+        "Sacked": "throw-paper",
+        "Canned": "throw-paper",
+        "Downsize": "magic2"
+      }
+    },
+    "Head Hunter": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "roll-o-dex": "phase_5/models/char/suitA-roll-o-dex.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "pen-squirt": "phase_7/models/char/suitA-fountain-pen.bam",
+        "throw-paper": "phase_5/models/char/suitA-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Fountain Pen": "pen-squirt",
+        "Rolodex": "roll-o-dex",
+        "Glower Power": "glower",
+        "Half Windsor": "throw-paper",
+        "Head Shrink": "magic1"
+      }
+    },
+    "Corporate Raider": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "glower": "phase_5/models/char/suitC-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "throw-paper": "phase_3.5/models/char/suitC-throw-paper.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Canned": "throw-paper",
+        "Evil Eye": "glower",
+        "Play Hardball": "throw-paper",
+        "Power Tie": "throw-paper",
+        "Hostile Takeover": "glower"
+      }
+    },
+    "The Big Cheese": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "golf-club-swing": "phase_5/models/char/suitA-golf-club-swing.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Tee Off": "golf-club-swing",
+        "Glower Power": "glower",
+        "Power Trip": "magic1",
+        "Flood the Market": "magic1"
+      }
+    },
+    "Bottom Feeder": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "watercooler": "phase_5/models/char/suitC-watercooler.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "rubber-stamp": "phase_5/models/char/suitC-rubber-stamp.bam",
+        "pickpocket": "phase_5/models/char/suitC-pickpocket.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "shredder": "phase_3.5/models/char/suitC-shredder.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Rubber Stamp": "rubber-stamp",
+        "Shred": "shredder",
+        "Watercooler": "watercooler",
+        "Pick Pocket": "pickpocket"
+      }
+    },
+    "Bloodsucker": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "magic1": "phase_5/models/char/suitB-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitB-throw-paper.bam",
+        "throw-object": "phase_5/models/char/suitB-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Eviction Notice": "throw-paper",
+        "Liquidate": "magic1",
+        "Red Tape": "throw-object",
+        "Withdrawal": "magic1"
+      }
+    },
+    "Double Talker": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "rubber-stamp": "phase_5/models/char/suitA-rubber-stamp.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "speak": "phase_5/models/char/suitA-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitA-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Rubber Stamp": "rubber-stamp",
+        "Bounce Check": "throw-paper",
+        "Buzz Word": "speak",
+        "Mumbo Jumbo": "speak",
+        "Jargon": "speak",
+        "Double Talk": "speak"
+      }
+    },
+    "Ambulance Chaser": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "roll-o-dex": "phase_5/models/char/suitB-roll-o-dex.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "phone": "phase_5/models/char/suitB-phone.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-object": "phase_5/models/char/suitB-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "stomp": "phase_5/models/char/suitB-stomp.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Hang Up": "phone",
+        "Rolodex": "roll-o-dex",
+        "Shake": "stomp",
+        "Red Tape": "throw-object"
+      }
+    },
+    "Back Stabber": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "finger-wag": "phase_5/models/char/suitA-fingerwag.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitA-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Finger Wag": "finger-wag",
+        "Restraining Order": "throw-paper",
+        "Guilt Trip": "magic1"
+      }
+    },
+    "Spin Doctor": {
+      "anims": {
+        "magic2": "phase_5/models/char/suitB-magic2.bam",
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "quick-jump": "phase_6/models/char/suitB-jump.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "hold-pencil": "phase_5/models/char/suitB-hold-pencil.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "magic3": "phase_5/models/char/suitB-magic3.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Paradigm Shift": "magic2",
+        "Quake": "quick-jump",
+        "Spin": "magic3",
+        "Write Off": "hold-pencil"
+      }
+    },
+    "Legal Eagle": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "speak": "phase_5/models/char/suitA-speak.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-object": "phase_5/models/char/suitA-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Jargon": "speak",
+        "Evil Eye": "glower",
+        "Legalese": "speak",
+        "Pecking Order": "throw-object"
+      }
+    },
+    "Big Wig": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "rubber-stamp": "phase_5/models/char/suitA-rubber-stamp.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "finger-wag": "phase_5/models/char/suitA-fingerwag.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-object": "phase_5/models/char/suitA-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Power Trip": "magic1",
+        "Finger Wag": "finger-wag",
+        "Throw Book": "throw-object",
+        "Quash": "rubber-stamp"
+      }
+    },
+    "Short Change": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "watercooler": "phase_5/models/char/suitC-watercooler.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "pickpocket": "phase_5/models/char/suitC-pickpocket.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "throw-paper": "phase_3.5/models/char/suitC-throw-paper.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Clip on Tie": "throw-paper",
+        "Watercooler": "watercooler",
+        "Pick Pocket": "pickpocket",
+        "Bounce Check": "throw-paper"
+      }
+    },
+    "Penny Pincher": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "pickpocket": "phase_5/models/char/suitA-pickpocket.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "finger-wag": "phase_5/models/char/suitA-fingerwag.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitA-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Finger Wag": "finger-wag",
+        "Freeze Assets": "glower",
+        "Bounce Check": "throw-paper",
+        "Nickel and Dime": "pickpocket"
+      }
+    },
+    "Tightwad": {
+      "anims": {
+        "magic2": "phase_5/models/char/suitC-magic2.bam",
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "finger-wag": "phase_5/models/char/suitC-finger-wag.bam",
+        "glower": "phase_5/models/char/suitC-glower.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "throw-paper": "phase_3.5/models/char/suitC-throw-paper.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Finger Wag": "finger-wag",
+        "Fired": "magic2",
+        "Freeze Assets": "glower",
+        "Glower Power": "glower",
+        "Bounce Check": "throw-paper"
+      }
+    },
+    "Bean Counter": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "phone": "phase_5/models/char/suitB-phone.bam",
+        "hold-pencil": "phase_5/models/char/suitB-hold-pencil.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Audit": "phone",
+        "Calculate": "phone",
+        "Tabulate": "phone",
+        "Write Off": "hold-pencil"
+      }
+    },
+    "Number Cruncher": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "phone": "phase_5/models/char/suitA-phone.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-object": "phase_5/models/char/suitA-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Tabulate": "phone",
+        "Audit": "phone",
+        "Calculate": "phone",
+        "Crunch": "throw-object"
+      }
+    },
+    "Money Bags": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "magic1": "phase_5/models/char/suitC-magic1.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "speak": "phase_5/models/char/suitC-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "throw-paper": "phase_3.5/models/char/suitC-throw-paper.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Liquidate": "magic1",
+        "Market Crash": "throw-paper",
+        "Power Tie": "throw-paper",
+        "Money Talks": "speak"
+      }
+    },
+    "Loan Shark": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "hold-pencil": "phase_5/models/char/suitB-hold-pencil.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitB-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Bite": "throw-paper",
+        "Chomp": "throw-paper",
+        "Play Hardball": "throw-paper",
+        "Write Off": "hold-pencil"
+      }
+    },
+    "Robber Baron": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pickpocket": "phase_5/models/char/suitA-pickpocket.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "magic3": "phase_5/models/char/suitA-magic3.bam",
+        "golf-club-swing": "phase_5/models/char/suitA-golf-club-swing.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Power Trip": "magic1",
+        "Tee Off": "golf-club-swing",
+        "Synergy": "magic3",
+        "Embezzle": "pickpocket"
+      }
+    },
+    "Cold Caller": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "glower": "phase_5/models/char/suitC-glower.bam",
+        "phone": "phase_3.5/models/char/suitC-phone.bam",
+        "speak": "phase_5/models/char/suitC-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Freeze Assets": "glower",
+        "Pound Key": "phone",
+        "Double Talk": "speak",
+        "Hot Air": "speak"
+      }
+    },
+    "Telemarketer": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "roll-o-dex": "phase_5/models/char/suitB-roll-o-dex.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "pickpocket": "phase_5/models/char/suitB-pickpocket.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "speak": "phase_5/models/char/suitB-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitB-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Clip on Tie": "throw-paper",
+        "Pick Pocket": "pickpocket",
+        "Rolodex": "roll-o-dex",
+        "Double Talk": "speak"
+      }
+    },
+    "Name Dropper": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "roll-o-dex": "phase_5/models/char/suitA-roll-o-dex.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "smile": "phase_5/models/char/suitA-smile.bam",
+        "pickpocket": "phase_5/models/char/suitA-pickpocket.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "magic3": "phase_5/models/char/suitA-magic3.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Razzle Dazzle": "smile",
+        "Rolodex": "roll-o-dex",
+        "Synergy": "magic3",
+        "Pick Pocket": "pickpocket"
+      }
+    },
+    "Glad Hander": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitC-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitC-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitC-sidestep-left.bam",
+        "walk": "phase_3.5/models/char/suitC-walk.bam",
+        "rubber-stamp": "phase_5/models/char/suitC-rubber-stamp.bam",
+        "pie-small-react": "phase_3.5/models/char/suitC-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitC-rake.bam",
+        "speak": "phase_5/models/char/suitC-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitC-squirt-large.bam",
+        "pen-squirt": "phase_5/models/char/suitC-fountain-pen.bam",
+        "squirt-small-react": "phase_3.5/models/char/suitC-squirt-small.bam",
+        "flail": "phase_4/models/char/suitC-flailing.bam"
+      },
+      "attacks": {
+        "Rubber Stamp": "rubber-stamp",
+        "Fountain Pen": "pen-squirt",
+        "Filibuster": "speak",
+        "Schmooze": "speak"
+      }
+    },
+    "Mover & Shaker": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitB-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitB-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitB-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitB-walk.bam",
+        "quick-jump": "phase_6/models/char/suitB-jump.bam",
+        "effort": "phase_5/models/char/suitB-effort.bam",
+        "pie-small-react": "phase_4/models/char/suitB-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitB-rake.bam",
+        "squirt-large-react": "phase_5/models/char/suitB-squirt-large.bam",
+        "throw-paper": "phase_5/models/char/suitB-throw-paper.bam",
+        "squirt-small-react": "phase_4/models/char/suitB-squirt-small.bam",
+        "stomp": "phase_5/models/char/suitB-stomp.bam",
+        "flail": "phase_4/models/char/suitB-flailing.bam"
+      },
+      "attacks": {
+        "Brain Storm": "effort",
+        "Half Windsor": "throw-paper",
+        "Quake": "quick-jump",
+        "Shake": "stomp",
+        "Tremor": "stomp"
+      }
+    },
+    "Two-Face": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "smile": "phase_5/models/char/suitA-smile.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam",
+        "phone": "phase_5/models/char/suitA-phone.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "throw-object": "phase_5/models/char/suitA-throw-object.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Evil Eye": "glower",
+        "Hang Up": "phone",
+        "Razzle Dazzle": "smile",
+        "Red Tape": "throw-object"
+      }
+    },
+    "The Mingler": {
+      "anims": {
+        "magic2": "phase_5/models/char/suitA-magic2.bam",
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "speak": "phase_5/models/char/suitA-speak.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "golf-club-swing": "phase_5/models/char/suitA-golf-club-swing.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam"
+      },
+      "attacks": {
+        "Buzz Word": "speak",
+        "Paradigm Shift": "magic2",
+        "Schmooze": "speak",
+        "Tee Off": "golf-club-swing"
+      }
+    },
+    "Mr. Hollywood": {
+      "anims": {
+        "hypnotized": "phase_5/models/char/suitA-hypnotize.bam",
+        "drop-react": "phase_5/models/char/suitA-anvil-drop.bam",
+        "sidestep-left": "phase_5/models/char/suitA-sidestep-left.bam",
+        "walk": "phase_4/models/char/suitA-walk.bam",
+        "smile": "phase_5/models/char/suitA-smile.bam",
+        "magic1": "phase_5/models/char/suitA-magic1.bam",
+        "pie-small-react": "phase_4/models/char/suitA-pie-small.bam",
+        "rake-react": "phase_5/models/char/suitA-rake.bam",
+        "finger-wag": "phase_5/models/char/suitA-fingerwag.bam",
+        "squirt-large-react": "phase_5/models/char/suitA-squirt-large.bam",
+        "squirt-small-react": "phase_4/models/char/suitA-squirt-small.bam",
+        "flail": "phase_4/models/char/suitA-flailing.bam",
+        "glower": "phase_5/models/char/suitA-glower.bam"
+      },
+      "attacks": {
+        "Power Trip": "magic1",
+        "Razzle Dazzle": "smile",
+        "Finger Wag": "finger-wag",
+        "Beguile": "glower"
+      }
+    }
+  },
+  "tracks": {
+    "Toon-Up": [
+      [
+        "tickle",
+        "sound",
+        "smooch",
+        "happy-dance",
+        "sprinkle-dust",
+        "juggle",
+        "climb"
+      ],
+      [
+        "feather",
+        "megaphone",
+        "lipstick",
+        "cane",
+        "dust",
+        "cubes",
+        "ladder"
+      ]
+    ],
+    "Trap": [
+      [
+        "toss",
+        "toss",
+        "toss",
+        "toss",
+        "toss",
+        "toss",
+        "toss"
+      ],
+      [
+        "banana",
+        "rake",
+        "marbles",
+        "quicksand",
+        "trapdoor",
+        "tnt",
+        "traintrack"
+      ]
+    ],
+    "Lure": [
+      [
+        "battlecast",
+        "hold-magnet",
+        "battlecast",
+        "hold-magnet",
+        "battlecast",
+        "hypnotize",
+        "pushbutton"
+      ],
+      [
+        "1dollar",
+        "small-magnet",
+        "5dollar",
+        "big-magnet",
+        "10dollar",
+        "hypno-goggles",
+        "slideshow"
+      ]
+    ],
+    "Sound": [
+      [
+        "sound",
+        "sound",
+        "sound",
+        "sound",
+        "sound",
+        "sound",
+        "sound"
+      ],
+      [
+        "bikehorn",
+        "whistle",
+        "bugle",
+        "aoogah",
+        "elephant",
+        "fog_horn",
+        "singing"
+      ]
+    ],
+    "Throw": [
+      [
+        "throw",
+        "throw",
+        "throw",
+        "throw",
+        "throw",
+        "throw",
+        "throw"
+      ],
+      [
+        "tart",
+        "fruitpie-slice",
+        "creampie-slice",
+        "fruitpie",
+        "creampie",
+        "birthday-cake",
+        "wedding-cake"
+      ]
+    ],
+    "Squirt": [
+      [
+        "spit",
+        "spit",
+        "water-gun",
+        "hold-bottle",
+        "firehose",
+        "pushbutton",
+        "pushbutton"
+      ],
+      [
+        "squirting-flower",
+        "glass",
+        "water-gun",
+        "bottle",
+        "firehose",
+        "stormcloud",
+        "geyser"
+      ]
+    ],
+    "Drop": [
+      [
+        "pushbutton",
+        "pushbutton",
+        "pushbutton",
+        "pushbutton",
+        "pushbutton",
+        "pushbutton",
+        "pushbutton"
+      ],
+      [
+        "flowerpot",
+        "sandbag",
+        "anvil",
+        "weight",
+        "safe",
+        "piano",
+        "ship"
+      ]
+    ]
+  },
+  "props": {
+    "creampie": [
+      "phase_3.5/models/props/tart.bam"
+    ],
+    "fog_horn": [
+      "phase_5/models/props/fog_horn.bam"
+    ],
+    "feather": [
+      "phase_5/models/props/feather-mod.bam",
+      "phase_5/models/props/feather-chan.bam"
+    ],
+    "baseball": [
+      "phase_5/models/props/baseball.bam"
+    ],
+    "power-tie": [
+      "phase_5/models/props/power-tie.bam"
+    ],
+    "train": [
+      "phase_5/models/props/train.bam"
+    ],
+    "marbles": [
+      "phase_5/models/props/marbles-mod.bam",
+      "phase_5/models/props/marbles-chan.bam"
+    ],
+    "half-windsor": [
+      "phase_5/models/props/half-windsor.bam"
+    ],
+    "firehose": [
+      "phase_5/models/props/firehose-mod.bam",
+      "phase_5/models/props/firehose-chan.bam"
+    ],
+    "can": [
+      "phase_5/models/props/can.bam"
+    ],
+    "teeth": [
+      "phase_5/models/props/teeth-mod.bam",
+      "phase_5/models/props/teeth-chan.bam"
+    ],
+    "stormcloud": [
+      "phase_4/models/props/stormcloud-mod.bam",
+      "phase_4/models/props/stormcloud-chan.bam"
+    ],
+    "rake": [
+      "phase_5/models/props/rake-mod.bam",
+      "phase_5/models/props/rake-chan.bam"
+    ],
+    "rubber-stamp": [
+      "phase_5/models/props/rubber-stamp.bam"
+    ],
+    "birthday-cake": [
+      "phase_5/models/props/birthday-cake-mod.bam",
+      "phase_5/models/props/birthday-cake-chan.bam"
+    ],
+    "big-magnet": [
+      "phase_5/models/props/magnet.bam"
+    ],
+    "spray": [
+      "phase_3.5/models/props/spray.bam"
+    ],
+    "pen": [
+      "phase_5/models/props/pen.bam"
+    ],
+    "redtape-tube": [
+      "phase_5/models/props/redtape-tube.bam"
+    ],
+    "sharpener": [
+      "phase_5/models/props/sharpener.bam"
+    ],
+    "whistle": [
+      "phase_5/models/props/whistle.bam"
+    ],
+    "shredder-paper": [
+      "phase_3.5/models/props/shredder-paper-mod.bam",
+      "phase_3.5/models/props/shredder-paper-chan.bam"
+    ],
+    "fruitpie-slice": [
+      "phase_5/models/props/fruit-pie-slice.bam"
+    ],
+    "tart": [
+      "phase_3.5/models/props/tart.bam"
+    ],
+    "redtape": [
+      "phase_5/models/props/redtape.bam"
+    ],
+    "trapdoor": [
+      "phase_5/models/props/trapdoor.bam"
+    ],
+    "sandbag": [
+      "phase_5/models/props/sandbag-mod.bam",
+      "phase_5/models/props/sandbag-chan.bam"
+    ],
+    "piano": [
+      "phase_5/models/props/piano-mod.bam",
+      "phase_5/models/props/piano-chan.bam"
+    ],
+    "watercooler": [
+      "phase_5/models/props/watercooler.bam"
+    ],
+    "dagger": [
+      "phase_5/models/props/dagger.bam"
+    ],
+    "smile": [
+      "phase_5/models/props/smile-mod.bam",
+      "phase_5/models/props/smile-chan.bam"
+    ],
+    "anvil": [
+      "phase_4/models/props/anvil-mod.bam",
+      "phase_4/models/props/anvil-chan.bam"
+    ],
+    "receiver": [
+      "phase_3.5/models/props/receiver.bam"
+    ],
+    "creampie-slice": [
+      "phase_5/models/props/cream-pie-slice.bam"
+    ],
+    "squirting-flower": [
+      "phase_3.5/models/props/squirting-flower.bam"
+    ],
+    "bugle": [
+      "phase_5/models/props/bugle.bam"
+    ],
+    "phone": [
+      "phase_3.5/models/props/phone.bam"
+    ],
+    "megaphone": [
+      "phase_5/models/props/megaphone.bam"
+    ],
+    "shredder": [
+      "phase_3.5/models/props/shredder.bam"
+    ],
+    "singing": [
+      "phase_5/models/props/singing.bam"
+    ],
+    "quicksand": [
+      "phase_5/models/props/quicksand.bam"
+    ],
+    "bounced-check": [
+      "phase_5/models/props/bounced-check.bam"
+    ],
+    "golf-ball": [
+      "phase_5/models/props/golf-ball.bam"
+    ],
+    "aoogah": [
+      "phase_5/models/props/aoogah.bam"
+    ],
+    "flowerpot": [
+      "phase_5/models/props/flowerpot-mod.bam",
+      "phase_5/models/props/flowerpot-chan.bam"
+    ],
+    "cubes": [
+      "phase_5/models/props/cubes-mod.bam",
+      "phase_5/models/props/cubes-chan.bam"
+    ],
+    "calculator": [
+      "phase_5/models/props/calculator-mod.bam",
+      "phase_5/models/props/calculator-chan.bam"
+    ],
+    "newspaper": [
+      "phase_5/models/props/newspaper.bam"
+    ],
+    "hypno-goggles": [
+      "phase_5/models/props/hypnotize-mod.bam",
+      "phase_5/models/props/hypnotize-chan.bam"
+    ],
+    "wedding-cake": [
+      "phase_5/models/props/wedding_cake.bam"
+    ],
+    "lipstick": [
+      "phase_5/models/props/lipstick.bam"
+    ],
+    "pad": [
+      "phase_5/models/props/pad.bam"
+    ],
+    "bird": [
+      "phase_5/models/props/bird.bam"
+    ],
+    "bikehorn": [
+      "phase_5/models/props/bikehorn.bam"
+    ],
+    "1dollar": [
+      "phase_5/models/props/1dollar-bill-mod.bam",
+      "phase_5/models/props/1dollar-bill-chan.bam"
+    ],
+    "pencil": [
+      "phase_5/models/props/pencil.bam"
+    ],
+    "rollodex": [
+      "phase_5/models/props/roll-o-dex.bam"
+    ],
+    "tnt": [
+      "phase_5/models/props/tnt-mod.bam",
+      "phase_5/models/props/tnt-chan.bam"
+    ],
+    "fruitpie": [
+      "phase_3.5/models/props/tart.bam"
+    ],
+    "ladder": [
+      "phase_5/models/props/ladder2.bam"
+    ],
+    "elephant": [
+      "phase_5/models/props/elephant.bam"
+    ],
+    "golf-club": [
+      "phase_5/models/props/golf-club.bam"
+    ],
+    "10dollar": [
+      "phase_5/models/props/1dollar-bill-mod.bam",
+      "phase_5/models/props/1dollar-bill-chan.bam"
+    ],
+    "dust": [
+      "phase_5/models/props/dust-mod.bam",
+      "phase_5/models/props/dust-chan.bam"
+    ],
+    "glass": [
+      "phase_5/models/props/glass-mod.bam",
+      "phase_5/models/props/glass-chan.bam"
+    ],
+    "geyser": [
+      "phase_5/models/props/geyser.bam"
+    ],
+    "evil-eye": [
+      "phase_5/models/props/evil-eye.bam"
+    ],
+    "weight": [
+      "phase_5/models/props/weight-mod.bam",
+      "phase_5/models/props/weight-chan.bam"
+    ],
+    "traintrack": [
+      "phase_5/models/props/traintrack2.bam"
+    ],
+    "small-magnet": [
+      "phase_5/models/props/magnet.bam"
+    ],
+    "cane": [
+      "phase_5/models/props/cane.bam"
+    ],
+    "water-gun": [
+      "phase_4/models/props/water-gun.bam"
+    ],
+    "pink-slip": [
+      "phase_5/models/props/pink-slip.bam"
+    ],
+    "banana": [
+      "phase_5/models/props/banana-peel-mod.bam",
+      "phase_5/models/props/banana-peel-chan.bam"
+    ],
+    "button": [
+      "phase_3.5/models/props/button.bam"
+    ],
+    "clip-on-tie": [
+      "phase_3.5/models/props/clip-on-tie-mod.bam",
+      "phase_3.5/models/props/clip-on-tie-chan.bam"
+    ],
+    "bottle": [
+      "phase_3.5/models/props/bottle.bam"
+    ],
+    "slideshow": [
+      "phase_5/models/props/av_screen.bam"
+    ],
+    "5dollar": [
+      "phase_5/models/props/1dollar-bill-mod.bam",
+      "phase_5/models/props/1dollar-bill-chan.bam"
+    ],
+    "safe": [
+      "phase_5/models/props/safe-mod.bam",
+      "phase_5/models/props/safe-chan.bam"
+    ],
+    "ship": [
+      "phase_5/models/props/ship.bam"
+    ],
+    "remote": [
+      "phase_5/models/props/ttr_r_prp_bat_remote.bam",
+      "phase_5/models/props/ttr_a_prp_bat_remote_remoteAttack.bam"
+    ],
+    "fishing-pole": [
+      "phase_4/models/props/fishing-pole-mod.bam",
+      "phase_4/models/props/fishing-pole-chan.bam"
+    ],
+    "splat": [
+      "phase_3.5/models/props/splat-mod.bam",
+      "phase_3.5/models/props/splat-chan.bam"
+    ],
+    "hat": [
+      "phase_5/models/props/hat.bam"
+    ],
+    "lips": [
+      "phase_5/models/props/lips.bam"
+    ],
+    "hydrant": [
+      "phase_5/models/props/battle_hydrant.bam"
+    ],
+    "explosion": [
+      "phase_3.5/models/props/explosion.bam"
+    ],
+    "drop-shadow": [
+      "phase_3/models/props/drop_shadow.bam"
+    ],
+    "lawbook": [
+      "phase_5/models/props/ttr_m_prp_bat_lawBook.bam"
+    ],
+    "splashdown": [
+      "phase_4/models/props/SZ_splashdown-mod.bam",
+      "phase_4/models/props/SZ_splashdown-chan.bam"
+    ]
+  },
+  "attack_props": {
+    "suitattack": [],
+    "default": [],
+    "clipontie": [
+      "clip-on-tie"
+    ],
+    "poundkey": [
+      "phone",
+      "receiver"
+    ],
+    "shred": [
+      "shredder-paper",
+      "shredder"
+    ],
+    "fillwithlead": [
+      "pencil",
+      "sharpener"
+    ],
+    "fountainpen": [
+      "pen"
+    ],
+    "rubout": [
+      "pad",
+      "pencil"
+    ],
+    "fingerwag": [],
+    "writeoff": [
+      "pad",
+      "pencil"
+    ],
+    "rubberstamp": [
+      "rubber-stamp",
+      "pad"
+    ],
+    "razzledazzle": [
+      "smile"
+    ],
+    "synergy": [],
+    "teeoff": [
+      "golf-club",
+      "golf-ball"
+    ],
+    "brainstorm": [
+      "stormcloud"
+    ],
+    "buzzword": [],
+    "demotion": [],
+    "canned": [
+      "can"
+    ],
+    "downsize": [],
+    "pinkslip": [
+      "pink-slip"
+    ],
+    "reorg": [],
+    "sacked": [
+      "sandbag"
+    ],
+    "glowerpower": [
+      "dagger"
+    ],
+    "halfwindsor": [
+      "half-windsor"
+    ],
+    "headshrink": [],
+    "rolodex": [
+      "rollodex"
+    ],
+    "evileye": [
+      "evil-eye"
+    ],
+    "playhardball": [
+      "baseball"
+    ],
+    "powertie": [
+      "power-tie"
+    ],
+    "doubletalk": [],
+    "freezeassets": [
+      "stormcloud"
+    ],
+    "hotair": [],
+    "pickpocket": [
+      "1dollar"
+    ],
+    "filibuster": [],
+    "schmooze": [],
+    "quake": [],
+    "shake": [],
+    "tremor": [],
+    "hangup": [
+      "phone",
+      "receiver"
+    ],
+    "redtape": [
+      "redtape",
+      "redtape-tube"
+    ],
+    "paradigmshift": [],
+    "powertrip": [],
+    "bouncecheck": [
+      "bounced-check"
+    ],
+    "watercooler": [
+      "watercooler"
+    ],
+    "fired": [],
+    "audit": [
+      "calculator"
+    ],
+    "calculate": [
+      "calculator"
+    ],
+    "tabulate": [
+      "calculator"
+    ],
+    "crunch": [],
+    "liquidate": [
+      "stormcloud",
+      "quicksand"
+    ],
+    "marketcrash": [
+      "newspaper"
+    ],
+    "bite": [
+      "teeth"
+    ],
+    "chomp": [
+      "teeth"
+    ],
+    "evictionnotice": [
+      "shredder-paper"
+    ],
+    "withdrawal": [],
+    "jargon": [],
+    "mumbojumbo": [],
+    "guilttrip": [],
+    "restrainingorder": [
+      "shredder-paper"
+    ],
+    "spin": [],
+    "legalese": [],
+    "peckingorder": [
+      "bird"
+    ],
+    "closetheloop": [],
+    "hostiletakeover": [
+      "dagger"
+    ],
+    "quash": [
+      "rubber-stamp",
+      "pad"
+    ],
+    "nickelanddime": [
+      "1dollar"
+    ],
+    "moneytalks": [],
+    "embezzle": [
+      "1dollar"
+    ],
+    "beguile": [],
+    "throwbook": [
+      "lawbook"
+    ]
+  },
+  "audio": {
+    "SA_writeoff_pen_only.ogg": "phase_5/audio/sfx/SA_writeoff_pen_only.ogg",
+    "AA_drop_piano.ogg": "phase_5/audio/sfx/AA_drop_piano.ogg",
+    "SA_rubout.ogg": "phase_5/audio/sfx/SA_rubout.ogg",
+    "AA_tart_only.ogg": "phase_3.5/audio/sfx/AA_tart_only.ogg",
+    "SA_audit.ogg": "phase_5/audio/sfx/SA_audit.ogg",
+    "AA_pie_throw_only.ogg": "phase_3.5/audio/sfx/AA_pie_throw_only.ogg",
+    "AA_sound_Opera_Singer_Cog_Glass.ogg": "phase_5/audio/sfx/AA_sound_Opera_Singer_Cog_Glass.ogg",
+    "AA_wholepie_only.ogg": "phase_4/audio/sfx/AA_wholepie_only.ogg",
+    "AA_squirt_glasswater.ogg": "phase_5/audio/sfx/AA_squirt_glasswater.ogg",
+    "SA_watercooler_appear_only.ogg": "phase_5/audio/sfx/SA_watercooler_appear_only.ogg",
+    "SA_tremor.ogg": "phase_5/audio/sfx/SA_tremor.ogg",
+    "SA_canned_tossup_only.ogg": "phase_5/audio/sfx/SA_canned_tossup_only.ogg",
+    "AA_heal_telljoke.ogg": "phase_5/audio/sfx/AA_heal_telljoke.ogg",
+    "TL_train_cog.ogg": "phase_5/audio/sfx/TL_train_cog.ogg",
+    "AA_heal_juggle.ogg": "phase_5/audio/sfx/AA_heal_juggle.ogg",
+    "AA_squirt_seltzer_miss.ogg": "phase_4/audio/sfx/AA_squirt_seltzer_miss.ogg",
+    "SA_hot_air.ogg": "phase_5/audio/sfx/SA_hot_air.ogg",
+    "AA_slice_only.ogg": "phase_5/audio/sfx/AA_slice_only.ogg",
+    "TL_presentation.ogg": "phase_5/audio/sfx/TL_presentation.ogg",
+    "AA_drop_safe_miss.ogg": "phase_5/audio/sfx/AA_drop_safe_miss.ogg",
+    "TL_dynamite.ogg": "phase_5/audio/sfx/TL_dynamite.ogg",
+    "SA_powertie_impact.ogg": "phase_5/audio/sfx/SA_powertie_impact.ogg",
+    "SA_synergy.ogg": "phase_5/audio/sfx/SA_synergy.ogg",
+    "AA_drop_boat_cog.ogg": "phase_5/audio/sfx/AA_drop_boat_cog.ogg",
+    "AA_drop_safe.ogg": "phase_5/audio/sfx/AA_drop_safe.ogg",
+    "SA_glower_power.ogg": "phase_5/audio/sfx/SA_glower_power.ogg",
+    "AA_sound_aoogah.ogg": "phase_5/audio/sfx/AA_sound_aoogah.ogg",
+    "SA_guilt_trip.ogg": "phase_5/audio/sfx/SA_guilt_trip.ogg",
+    "AA_sound_whistle.ogg": "phase_4/audio/sfx/AA_sound_whistle.ogg",
+    "LB_receive_evidence.ogg": "phase_5/audio/sfx/LB_receive_evidence.ogg",
+    "mailbox_full_wobble.ogg": "phase_5/audio/sfx/mailbox_full_wobble.ogg",
+    "SA_rubber_stamp.ogg": "phase_5/audio/sfx/SA_rubber_stamp.ogg",
+    "SA_red_tape.ogg": "phase_5/audio/sfx/SA_red_tape.ogg",
+    "AA_heal_smooch.ogg": "phase_5/audio/sfx/AA_heal_smooch.ogg",
+    "AA_throw_wedding_cake.ogg": "phase_5/audio/sfx/AA_throw_wedding_cake.ogg",
+    "toonbldg_grow.ogg": "phase_5/audio/sfx/toonbldg_grow.ogg",
+    "SA_shred.ogg": "phase_3.5/audio/sfx/SA_shred.ogg",
+    "SA_rolodex.ogg": "phase_5/audio/sfx/SA_rolodex.ogg",
+    "AA_drop_boat_miss.ogg": "phase_5/audio/sfx/AA_drop_boat_miss.ogg",
+    "TL_rake_throw_only.ogg": "phase_5/audio/sfx/TL_rake_throw_only.ogg",
+    "AA_heal_High_Dive.ogg": "phase_5/audio/sfx/AA_heal_High_Dive.ogg",
+    "AA_drop_sandbag.ogg": "phase_5/audio/sfx/AA_drop_sandbag.ogg",
+    "AA_squirt_neonwatergun.ogg": "phase_5/audio/sfx/AA_squirt_neonwatergun.ogg",
+    "TL_marbles.ogg": "phase_5/audio/sfx/TL_marbles.ogg",
+    "incoming_whistleALT.ogg": "phase_5/audio/sfx/incoming_whistleALT.ogg",
+    "SA_head_shrink_only.ogg": "phase_5/audio/sfx/SA_head_shrink_only.ogg",
+    "TL_small_magnet.ogg": "phase_5/audio/sfx/TL_small_magnet.ogg",
+    "AA_sound_bugle.ogg": "phase_5/audio/sfx/AA_sound_bugle.ogg",
+    "SA_tee_off.ogg": "phase_5/audio/sfx/SA_tee_off.ogg",
+    "SA_hangup.ogg": "phase_3.5/audio/sfx/SA_hangup.ogg",
+    "AA_squirt_neonwatergun_miss.ogg": "phase_5/audio/sfx/AA_squirt_neonwatergun_miss.ogg",
+    "SA_razzle_dazzle.ogg": "phase_5/audio/sfx/SA_razzle_dazzle.ogg",
+    "m_match_trumpet.ogg": "phase_4/audio/sfx/m_match_trumpet.ogg",
+    "TL_fishing_pole.ogg": "phase_5/audio/sfx/TL_fishing_pole.ogg",
+    "AA_drop_bigweight_miss.ogg": "phase_5/audio/sfx/AA_drop_bigweight_miss.ogg",
+    "AA_throw_stormcloud.ogg": "phase_5/audio/sfx/AA_throw_stormcloud.ogg",
+    "AA_drop_bigweight.ogg": "phase_5/audio/sfx/AA_drop_bigweight.ogg",
+    "AA_throw_stormcloud_miss.ogg": "phase_5/audio/sfx/AA_throw_stormcloud_miss.ogg",
+    "AA_drop_boat.ogg": "phase_5/audio/sfx/AA_drop_boat.ogg",
+    "AA_throw_wedding_cake_cog.ogg": "phase_5/audio/sfx/AA_throw_wedding_cake_cog.ogg",
+    "AA_sound_Opera_Singer.ogg": "phase_5/audio/sfx/AA_sound_Opera_Singer.ogg",
+    "AA_drop_anvil.ogg": "phase_5/audio/sfx/AA_drop_anvil.ogg",
+    "AA_sound_elephant.ogg": "phase_5/audio/sfx/AA_sound_elephant.ogg",
+    "TL_train_track_appear.ogg": "phase_5/audio/sfx/TL_train_track_appear.ogg",
+    "SA_demotion.ogg": "phase_5/audio/sfx/SA_demotion.ogg",
+    "SA_fountain_pen.ogg": "phase_5/audio/sfx/SA_fountain_pen.ogg",
+    "SA_canned_impact_only.ogg": "phase_5/audio/sfx/SA_canned_impact_only.ogg",
+    "Toon_bodyfall_synergy.ogg": "phase_5/audio/sfx/Toon_bodyfall_synergy.ogg",
+    "SA_writeoff_ding_only.ogg": "phase_5/audio/sfx/SA_writeoff_ding_only.ogg",
+    "TL_banana.ogg": "phase_5/audio/sfx/TL_banana.ogg",
+    "AA_heal_happydance.ogg": "phase_5/audio/sfx/AA_heal_happydance.ogg",
+    "AV_jump_to_side.ogg": "phase_3.5/audio/sfx/AV_jump_to_side.ogg",
+    "AA_drop_flowerpot.ogg": "phase_5/audio/sfx/AA_drop_flowerpot.ogg",
+    "AA_drop_piano_miss.ogg": "phase_5/audio/sfx/AA_drop_piano_miss.ogg",
+    "AA_heal_tickle.ogg": "phase_5/audio/sfx/AA_heal_tickle.ogg",
+    "SA_evil_eye.ogg": "phase_5/audio/sfx/SA_evil_eye.ogg",
+    "AA_drop_anvil_miss.ogg": "phase_4/audio/sfx/AA_drop_anvil_miss.ogg",
+    "AA_drop_flowerpot_miss.ogg": "phase_5/audio/sfx/AA_drop_flowerpot_miss.ogg",
+    "SA_pink_slip.ogg": "phase_5/audio/sfx/SA_pink_slip.ogg",
+    "firehose_spray.ogg": "phase_5/audio/sfx/firehose_spray.ogg",
+    "SA_pick_pocket.ogg": "phase_5/audio/sfx/SA_pick_pocket.ogg",
+    "TL_hypnotize.ogg": "phase_5/audio/sfx/TL_hypnotize.ogg",
+    "SA_head_grow_back_only.ogg": "phase_5/audio/sfx/SA_head_grow_back_only.ogg",
+    "AV_footstep_walkloop.ogg": "phase_3.5/audio/sfx/AV_footstep_walkloop.ogg",
+    "TL_train.ogg": "phase_5/audio/sfx/TL_train.ogg",
+    "AA_heal_pixiedust.ogg": "phase_5/audio/sfx/AA_heal_pixiedust.ogg",
+    "Cog_Death.ogg": "phase_3.5/audio/sfx/Cog_Death.ogg",
+    "SA_hardball_impact_only.ogg": "phase_5/audio/sfx/SA_hardball_impact_only.ogg",
+    "SA_buzz_word.ogg": "phase_5/audio/sfx/SA_buzz_word.ogg",
+    "SA_paradigm_shift.ogg": "phase_5/audio/sfx/SA_paradigm_shift.ogg",
+    "AA_squirt_glasswater_miss.ogg": "phase_5/audio/sfx/AA_squirt_glasswater_miss.ogg",
+    "SA_brainstorm.ogg": "phase_5/audio/sfx/SA_brainstorm.ogg",
+    "TL_quicksand.ogg": "phase_5/audio/sfx/TL_quicksand.ogg",
+    "SA_hardball.ogg": "phase_5/audio/sfx/SA_hardball.ogg",
+    "AA_squirt_flowersquirt_miss.ogg": "phase_5/audio/sfx/AA_squirt_flowersquirt_miss.ogg",
+    "AA_squirt_flowersquirt.ogg": "phase_3.5/audio/sfx/AA_squirt_flowersquirt.ogg",
+    "ENC_cogfall_apart.ogg": "phase_3.5/audio/sfx/ENC_cogfall_apart.ogg",
+    "AV_side_step.ogg": "phase_3.5/audio/sfx/AV_side_step.ogg",
+    "AA_squirt_Geyser.ogg": "phase_5/audio/sfx/AA_squirt_Geyser.ogg",
+    "AA_drop_trigger_box.ogg": "phase_5/audio/sfx/AA_drop_trigger_box.ogg",
+    "AA_drop_sandbag_miss.ogg": "phase_5/audio/sfx/AA_drop_sandbag_miss.ogg",
+    "TL_large_magnet.ogg": "phase_5/audio/sfx/TL_large_magnet.ogg",
+    "SZ_DD_foghorn.ogg": "phase_5/audio/sfx/SZ_DD_foghorn.ogg",
+    "AA_squirt_seltzer.ogg": "phase_5/audio/sfx/AA_squirt_seltzer.ogg",
+    "SA_powertie_throw.ogg": "phase_5/audio/sfx/SA_powertie_throw.ogg",
+    "AA_throw_wedding_cake_miss.ogg": "phase_5/audio/sfx/AA_throw_wedding_cake_miss.ogg",
+    "SA_finger_wag.ogg": "phase_5/audio/sfx/SA_finger_wag.ogg",
+    "SA_withdrawl.ogg": "phase_5/audio/sfx/SA_withdrawl.ogg",
+    "TL_step_on_rake.ogg": "phase_5/audio/sfx/TL_step_on_rake.ogg",
+    "SA_filibuster.ogg": "phase_5/audio/sfx/SA_filibuster.ogg",
+    "TL_trap_door.ogg": "phase_5/audio/sfx/TL_trap_door.ogg",
+    "SA_liquidate.ogg": "phase_5/audio/sfx/SA_liquidate.ogg",
+    "AA_sound_bikehorn.ogg": "phase_5/audio/sfx/AA_sound_bikehorn.ogg",
+    "MG_tag_1.ogg": "phase_5/audio/sfx/MG_tag_1.ogg",
+    "SA_watercooler_spray_only.ogg": "phase_5/audio/sfx/SA_watercooler_spray_only.ogg",
+    "SA_mumbo_jumbo.ogg": "phase_5/audio/sfx/SA_mumbo_jumbo.ogg",
+    "SA_jargon.ogg": "phase_5/audio/sfx/SA_jargon.ogg",
+    "MG_cannon_fire_alt.ogg": "phase_4/audio/sfx/MG_cannon_fire_alt.ogg",
+    "firework_whistle_01.ogg": "phase_4/audio/sfx/firework_whistle_01.ogg",
+    "MG_cannon_adjust.ogg": "phase_4/audio/sfx/MG_cannon_adjust.ogg",
+    "ENC_cogafssm.ogg": "phase_5/audio/sfx/ENC_cogafssm.ogg",
+    "SA_song_and_dance.ogg": "phase_5/audio/sfx/SA_song_and_dance.ogg",
+    "ttr_s_prp_bat_antennaBubble_badJoke.ogg": "phase_5/audio/sfx/ttr_s_prp_bat_antennaBubble_badJoke.ogg",
+    "AA_remote_control.ogg": "phase_5/audio/sfx/AA_remote_control.ogg",
+    "jump.ogg": "phase_5/audio/sfx/jump.ogg",
+    "beg.ogg": "phase_5/audio/sfx/beg.ogg",
+    "play_dead.ogg": "phase_5/audio/sfx/play_dead.ogg",
+    "rollover.ogg": "phase_5/audio/sfx/rollover.ogg",
+    "backflip.ogg": "phase_5/audio/sfx/backflip.ogg",
+    "heal_dance.ogg": "phase_5/audio/sfx/heal_dance.ogg",
+    "speak_v1.ogg": "phase_5/audio/sfx/speak_v1.ogg",
+    "teleport_reappear.ogg": "phase_5/audio/sfx/teleport_reappear.ogg",
+    "teleport_disappear.ogg": "phase_5/audio/sfx/teleport_disappear.ogg",
+    "ttr_s_ara_shq_facilityBossOvertime.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_facilityBossOvertime.ogg",
+    "ttr_s_ara_shq_resistanceHideoutTunnel.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_resistanceHideoutTunnel.ogg",
+    "encntr_head_suit_theme.ogg": "phase_9/audio/bgm/encntr_head_suit_theme.ogg",
+    "ttr_s_ara_shq_facilityBattle.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_facilityBattle.ogg",
+    "encntr_hall_of_fame.ogg": "phase_9/audio/bgm/encntr_hall_of_fame.ogg",
+    "ttr_s_ara_shq_facilityBossCutscene.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_facilityBossCutscene.ogg",
+    "ttr_s_ara_shq_resistanceHideout.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_resistanceHideout.ogg",
+    "CogHQ_finale.ogg": "phase_9/audio/bgm/CogHQ_finale.ogg",
+    "CHQ_FACT_bg.ogg": "phase_9/audio/bgm/CHQ_FACT_bg.ogg",
+    "encntr_suit_HQ_nbrhood.ogg": "phase_9/audio/bgm/encntr_suit_HQ_nbrhood.ogg",
+    "ttr_s_ara_shq_facilityBoss.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_facilityBoss.ogg",
+    "encntr_toon_winning.ogg": "phase_9/audio/bgm/encntr_toon_winning.ogg",
+    "encntr_suit_winning.ogg": "phase_9/audio/bgm/encntr_suit_winning.ogg",
+    "encntr_sting_announce.ogg": "phase_9/audio/bgm/encntr_sting_announce.ogg",
+    "ttr_s_ara_shq_facilityBossVictory.ogg": "phase_9/audio/bgm/ttr_s_ara_shq_facilityBossVictory.ogg",
+    "CHQ_FACT_stomper_med.ogg": "phase_9/audio/sfx/CHQ_FACT_stomper_med.ogg",
+    "CHQ_VP_raining_gears.ogg": "phase_9/audio/sfx/CHQ_VP_raining_gears.ogg",
+    "CHQ_FACT_paint_splash.ogg": "phase_9/audio/sfx/CHQ_FACT_paint_splash.ogg",
+    "Boss_COG_VO_statement.ogg": "phase_9/audio/sfx/Boss_COG_VO_statement.ogg",
+    "CHQ_SOS_pies_restock.ogg": "phase_9/audio/sfx/CHQ_SOS_pies_restock.ogg",
+    "CHQ_FACT_door_open_sliding.ogg": "phase_9/audio/sfx/CHQ_FACT_door_open_sliding.ogg",
+    "CHQ_FACT_elevator_up_down.ogg": "phase_9/audio/sfx/CHQ_FACT_elevator_up_down.ogg",
+    "CHQ_FACT_arms_retracting.ogg": "phase_9/audio/sfx/CHQ_FACT_arms_retracting.ogg",
+    "CHQ_VP_ramp_slide.ogg": "phase_9/audio/sfx/CHQ_VP_ramp_slide.ogg",
+    "ttr_s_ara_shq_resistanceMonitor_printerPaper.ogg": "phase_9/audio/sfx/ttr_s_ara_shq_resistanceMonitor_printerPaper.ogg",
+    "CHQ_VP_tractor_treads.ogg": "phase_9/audio/sfx/CHQ_VP_tractor_treads.ogg",
+    "CHQ_VP_swipe.ogg": "phase_9/audio/sfx/CHQ_VP_swipe.ogg",
+    "CHQ_GOON_tractor_beam_alarmed.ogg": "phase_9/audio/sfx/CHQ_GOON_tractor_beam_alarmed.ogg",
+    "CHQ_FACT_door_unlock.ogg": "phase_9/audio/sfx/CHQ_FACT_door_unlock.ogg",
+    "CHQ_door_close.ogg": "phase_9/audio/sfx/CHQ_door_close.ogg",
+    "CHQ_door_open.ogg": "phase_9/audio/sfx/CHQ_door_open.ogg",
+    "CHQ_VP_collapse.ogg": "phase_9/audio/sfx/CHQ_VP_collapse.ogg",
+    "Boss_COG_VO_murmur.ogg": "phase_9/audio/sfx/Boss_COG_VO_murmur.ogg",
+    "CHQ_FACT_stomper_raise.ogg": "phase_9/audio/sfx/CHQ_FACT_stomper_raise.ogg",
+    "ttr_s_ara_shq_resistanceMonitor_idleIntoIdle.ogg": "phase_9/audio/sfx/ttr_s_ara_shq_resistanceMonitor_idleIntoIdle.ogg",
+    "CHQ_FACT_gears_turning.ogg": "phase_9/audio/sfx/CHQ_FACT_gears_turning.ogg",
+    "Boss_COG_VO_grunt.ogg": "phase_9/audio/sfx/Boss_COG_VO_grunt.ogg",
+    "Boss_COG_VO_question.ogg": "phase_9/audio/sfx/Boss_COG_VO_question.ogg",
+    "CHQ_VP_raise_up.ogg": "phase_9/audio/sfx/CHQ_VP_raise_up.ogg",
+    "CHQ_GOON_hunker_down.ogg": "phase_9/audio/sfx/CHQ_GOON_hunker_down.ogg",
+    "CHQ_VP_door_open.ogg": "phase_9/audio/sfx/CHQ_VP_door_open.ogg",
+    "toon_decompress.ogg": "phase_9/audio/sfx/toon_decompress.ogg",
+    "CHQ_FACT_whistling_wind.ogg": "phase_9/audio/sfx/CHQ_FACT_whistling_wind.ogg",
+    "CHQ_FACT_switch_depressed.ogg": "phase_9/audio/sfx/CHQ_FACT_switch_depressed.ogg",
+    "CHQ_VP_reeling_backwards.ogg": "phase_9/audio/sfx/CHQ_VP_reeling_backwards.ogg",
+    "ttr_s_ara_shq_resistanceMonitor_idle.ogg": "phase_9/audio/sfx/ttr_s_ara_shq_resistanceMonitor_idle.ogg",
+    "CHQ_FACT_switch_popup.ogg": "phase_9/audio/sfx/CHQ_FACT_switch_popup.ogg",
+    "CHQ_SOS_cage_land.ogg": "phase_9/audio/sfx/CHQ_SOS_cage_land.ogg",
+    "CHQ_VP_frisbee_gears.ogg": "phase_9/audio/sfx/CHQ_VP_frisbee_gears.ogg",
+    "CHQ_FACT_crate_sliding.ogg": "phase_9/audio/sfx/CHQ_FACT_crate_sliding.ogg",
+    "CHQ_GOON_rattle_shake.ogg": "phase_9/audio/sfx/CHQ_GOON_rattle_shake.ogg",
+    "CHQ_FACT_conveyor_belt.ogg": "phase_9/audio/sfx/CHQ_FACT_conveyor_belt.ogg",
+    "CHQ_FACT_switch_pressed.ogg": "phase_9/audio/sfx/CHQ_FACT_switch_pressed.ogg",
+    "CHQ_HQ_door_open_close.ogg": "phase_9/audio/sfx/CHQ_HQ_door_open_close.ogg",
+    "ttr_s_ara_shq_resistanceMonitor_idleIntoAlert.ogg": "phase_9/audio/sfx/ttr_s_ara_shq_resistanceMonitor_idleIntoAlert.ogg",
+    "CHQ_FACT_door_open_final.ogg": "phase_9/audio/sfx/CHQ_FACT_door_open_final.ogg",
+    "CHQ_VP_spin.ogg": "phase_9/audio/sfx/CHQ_VP_spin.ogg",
+    "CHQ_FACT_crate_effort.ogg": "phase_9/audio/sfx/CHQ_FACT_crate_effort.ogg",
+    "CHQ_FACT_lava_fall_in.ogg": "phase_9/audio/sfx/CHQ_FACT_lava_fall_in.ogg",
+    "CHQ_FACT_stomper_large.ogg": "phase_9/audio/sfx/CHQ_FACT_stomper_large.ogg",
+    "CHQ_VP_boss_cog_wwipe.ogg": "phase_9/audio/sfx/CHQ_VP_boss_cog_wwipe.ogg",
+    "ttr_s_ara_shq_resistanceMonitor_alertIntoIdle.ogg": "phase_9/audio/sfx/ttr_s_ara_shq_resistanceMonitor_alertIntoIdle.ogg",
+    "CHQ_VP_big_death.ogg": "phase_9/audio/sfx/CHQ_VP_big_death.ogg",
+    "CHQ_VP_door_close.ogg": "phase_9/audio/sfx/CHQ_VP_door_close.ogg",
+    "CHQ_VP_big_jump_stomp.ogg": "phase_9/audio/sfx/CHQ_VP_big_jump_stomp.ogg",
+    "CHQ_VP_headshake.ogg": "phase_9/audio/sfx/CHQ_VP_headshake.ogg",
+    "EE_Theme.ogg": "phase_4/audio/bgm/EE_Theme.ogg",
+    "MG_CogThief.ogg": "phase_4/audio/bgm/MG_CogThief.ogg",
+    "new_years_fireworks_music.ogg": "phase_4/audio/bgm/new_years_fireworks_music.ogg",
+    "ttr_s_ara_min_spotlight.ogg": "phase_4/audio/bgm/ttr_s_ara_min_spotlight.ogg",
+    "MG_Vine.ogg": "phase_4/audio/bgm/MG_Vine.ogg",
+    "m_match_bg1.ogg": "phase_4/audio/bgm/m_match_bg1.ogg",
+    "ttr_s_ara_int_toonHall_phaseFour.ogg": "phase_4/audio/bgm/ttr_s_ara_int_toonHall_phaseFour.ogg",
+    "m_match_bg2.ogg": "phase_4/audio/bgm/m_match_bg2.ogg",
+    "ttr_s_ara_int_toonHall_phaseThree.ogg": "phase_4/audio/bgm/ttr_s_ara_int_toonHall_phaseThree.ogg",
+    "tt_s_ara_gen_fireworks_auldLangSyne.ogg": "phase_4/audio/bgm/tt_s_ara_gen_fireworks_auldLangSyne.ogg",
+    "DD_main_temp.ogg": "phase_4/audio/bgm/DD_main_temp.ogg",
+    "MG_IceGame.ogg": "phase_4/audio/bgm/MG_IceGame.ogg",
+    "ttr_s_ara_gen_paradeCartoonivalBGM.ogg": "phase_4/audio/bgm/ttr_s_ara_gen_paradeCartoonivalBGM.ogg",
+    "EE_DiesandPies.ogg": "phase_4/audio/bgm/EE_DiesandPies.ogg",
+    "TC_nbrhood.ogg": "phase_4/audio/bgm/TC_nbrhood.ogg",
+    "MG_cannon_game.ogg": "phase_4/audio/bgm/MG_cannon_game.ogg",
+    "MG_Travel.ogg": "phase_4/audio/bgm/MG_Travel.ogg",
+    "tt_party2.ogg": "phase_4/audio/bgm/tt_party2.ogg",
+    "MG_toontag.ogg": "phase_4/audio/bgm/MG_toontag.ogg",
+    "EE_Celebration.ogg": "phase_4/audio/bgm/EE_Celebration.ogg",
+    "tt_party1.ogg": "phase_4/audio/bgm/tt_party1.ogg",
+    "ttr_s_ara_int_toonHall_phaseOne.ogg": "phase_4/audio/bgm/ttr_s_ara_int_toonHall_phaseOne.ogg",
+    "minigame_race.ogg": "phase_4/audio/bgm/minigame_race.ogg",
+    "EE_Intro.ogg": "phase_4/audio/bgm/EE_Intro.ogg",
+    "MG_tug_o_war.ogg": "phase_4/audio/bgm/MG_tug_o_war.ogg",
+    "MG_TwoDGame.ogg": "phase_4/audio/bgm/MG_TwoDGame.ogg",
+    "MG_Pairing.ogg": "phase_4/audio/bgm/MG_Pairing.ogg",
+    "trolley_song.ogg": "phase_4/audio/bgm/trolley_song.ogg",
+    "EE_Announcement.ogg": "phase_4/audio/bgm/EE_Announcement.ogg",
+    "ttr_s_ara_min_roundup.ogg": "phase_4/audio/bgm/ttr_s_ara_min_roundup.ogg",
+    "firework_music.ogg": "phase_4/audio/bgm/firework_music.ogg",
+    "ttr_s_ara_int_toonHall_phaseTwo.ogg": "phase_4/audio/bgm/ttr_s_ara_int_toonHall_phaseTwo.ogg",
+    "ttr_s_ara_toonhall.ogg": "phase_4/audio/bgm/ttr_s_ara_toonhall.ogg",
+    "ttr_s_ara_fissionton.ogg": "phase_4/audio/bgm/ttr_s_ara_fissionton.ogg",
+    "tt_summer.ogg": "phase_4/audio/bgm/tt_summer.ogg",
+    "MG_Target.ogg": "phase_4/audio/bgm/MG_Target.ogg",
+    "MG_Diving.ogg": "phase_4/audio/bgm/MG_Diving.ogg",
+    "FF_safezone.ogg": "phase_4/audio/bgm/FF_safezone.ogg",
+    "tt_s_prp_sillyMeterPhaseTwo_mono.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseTwo_mono.ogg",
+    "diving_treasure_drop_off.ogg": "phase_4/audio/sfx/diving_treasure_drop_off.ogg",
+    "delighted_06.ogg": "phase_4/audio/sfx/delighted_06.ogg",
+    "MG_sfx_travel_game_win_vote.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_win_vote.ogg",
+    "DevilRay.ogg": "phase_4/audio/sfx/DevilRay.ogg",
+    "avatar_emotion_surprise.ogg": "phase_4/audio/sfx/avatar_emotion_surprise.ogg",
+    "MG_pairing_card_flip_face_up.ogg": "phase_4/audio/sfx/MG_pairing_card_flip_face_up.ogg",
+    "MG_sfx_vine_game_bat_shriek_3.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_bat_shriek_3.ogg",
+    "Piano_Tuna.ogg": "phase_4/audio/sfx/Piano_Tuna.ogg",
+    "ttr_s_ene_cgb_lawbotClerk_objectionSustained.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_lawbotClerk_objectionSustained.ogg",
+    "target_happydance.ogg": "phase_4/audio/sfx/target_happydance.ogg",
+    "firework_explosion_03.ogg": "phase_4/audio/sfx/firework_explosion_03.ogg",
+    "King_Crab.ogg": "phase_4/audio/sfx/King_Crab.ogg",
+    "ttr_s_prp_ballThrow2.ogg": "phase_4/audio/sfx/ttr_s_prp_ballThrow2.ogg",
+    "ttr_s_prp_gen_paradeTunnel_intro.ogg": "phase_4/audio/sfx/ttr_s_prp_gen_paradeTunnel_intro.ogg",
+    "tt_s_prp_sillyMeterPhaseOne.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseOne.ogg",
+    "clock11.ogg": "phase_4/audio/sfx/clock11.ogg",
+    "tt_s_prp_sillyMeterPhaseFour.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseFour.ogg",
+    "avatar_emotion_applause.ogg": "phase_4/audio/sfx/avatar_emotion_applause.ogg",
+    "EE_Drumroll.ogg": "phase_4/audio/sfx/EE_Drumroll.ogg",
+    "tt_s_prp_sillyMeterPhaseOne_mono.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseOne_mono.ogg",
+    "MG_pairing_bonus_moves.ogg": "phase_4/audio/sfx/MG_pairing_bonus_moves.ogg",
+    "MG_sfx_ice_force_increase_3sec.ogg": "phase_4/audio/sfx/MG_sfx_ice_force_increase_3sec.ogg",
+    "Frozen_Fish.ogg": "phase_4/audio/sfx/Frozen_Fish.ogg",
+    "Holy_Mackerel.ogg": "phase_4/audio/sfx/Holy_Mackerel.ogg",
+    "Seltzer_squirt_2dgame_hit.ogg": "phase_4/audio/sfx/Seltzer_squirt_2dgame_hit.ogg",
+    "TB_propeller.ogg": "phase_4/audio/sfx/TB_propeller.ogg",
+    "ttr_s_ene_cga_bossbotClubPresident_tantrum.ogg": "phase_4/audio/sfx/ttr_s_ene_cga_bossbotClubPresident_tantrum.ogg",
+    "avatar_emotion_bored.ogg": "phase_4/audio/sfx/avatar_emotion_bored.ogg",
+    "clock06.ogg": "phase_4/audio/sfx/clock06.ogg",
+    "MG_sfx_vine_game_jump.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_jump.ogg",
+    "firework_distance_01.ogg": "phase_4/audio/sfx/firework_distance_01.ogg",
+    "clock05.ogg": "phase_4/audio/sfx/clock05.ogg",
+    "SZ_trolley_away.ogg": "phase_4/audio/sfx/SZ_trolley_away.ogg",
+    "MG_sfx_ice_force_rotate.ogg": "phase_4/audio/sfx/MG_sfx_ice_force_rotate.ogg",
+    "clock12.ogg": "phase_4/audio/sfx/clock12.ogg",
+    "ttr_s_prp_ballKickHigh.ogg": "phase_4/audio/sfx/ttr_s_prp_ballKickHigh.ogg",
+    "sparkly.ogg": "phase_4/audio/sfx/sparkly.ogg",
+    "MG_sfx_ice_scoring_1.ogg": "phase_4/audio/sfx/MG_sfx_ice_scoring_1.ogg",
+    "diving_swim_loop.ogg": "phase_4/audio/sfx/diving_swim_loop.ogg",
+    "m_match_drums.ogg": "phase_4/audio/sfx/m_match_drums.ogg",
+    "MG_pairing_match.ogg": "phase_4/audio/sfx/MG_pairing_match.ogg",
+    "Photo_zoom.ogg": "phase_4/audio/sfx/Photo_zoom.ogg",
+    "ttr_s_ene_cgb_sellbotForeman_firedUp.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_sellbotForeman_firedUp.ogg",
+    "AV_swim_single_stroke.ogg": "phase_4/audio/sfx/AV_swim_single_stroke.ogg",
+    "AV_ambient_water.ogg": "phase_4/audio/sfx/AV_ambient_water.ogg",
+    "MG_pairing_card_flip_face_down.ogg": "phase_4/audio/sfx/MG_pairing_card_flip_face_down.ogg",
+    "MG_sfx_ice_force_decrease_3sec.ogg": "phase_4/audio/sfx/MG_sfx_ice_force_decrease_3sec.ogg",
+    "MG_pairing_all_matched.ogg": "phase_4/audio/sfx/MG_pairing_all_matched.ogg",
+    "MG_sfx_vine_game_bananas.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_bananas.ogg",
+    "ttr_s_ara_spookyCurse.ogg": "phase_4/audio/sfx/ttr_s_ara_spookyCurse.ogg",
+    "firework_distance_03.ogg": "phase_4/audio/sfx/firework_distance_03.ogg",
+    "Photo_instamatic.ogg": "phase_4/audio/sfx/Photo_instamatic.ogg",
+    "MG_sfx_travel_game_turntble_rotate_2.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_turntble_rotate_2.ogg",
+    "ttr_s_prp_ballKickMid.ogg": "phase_4/audio/sfx/ttr_s_prp_ballKickMid.ogg",
+    "clock04.ogg": "phase_4/audio/sfx/clock04.ogg",
+    "CHQ_FACT_stomper_small.ogg": "phase_4/audio/sfx/CHQ_FACT_stomper_small.ogg",
+    "MG_maze_pickup.ogg": "phase_4/audio/sfx/MG_maze_pickup.ogg",
+    "MG_sfx_vine_game_bat_hit.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_bat_hit.ogg",
+    "MG_sfx_vine_game_spider_hit.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_spider_hit.ogg",
+    "MG_neg_buzzer.ogg": "phase_4/audio/sfx/MG_neg_buzzer.ogg",
+    "Clownfish.ogg": "phase_4/audio/sfx/Clownfish.ogg",
+    "clock01.ogg": "phase_4/audio/sfx/clock01.ogg",
+    "ttr_s_ene_cgc_cashbotAuditor_promoting.ogg": "phase_4/audio/sfx/ttr_s_ene_cgc_cashbotAuditor_promoting.ogg",
+    "CutThroatTrout.ogg": "phase_4/audio/sfx/CutThroatTrout.ogg",
+    "target_launch.ogg": "phase_4/audio/sfx/target_launch.ogg",
+    "MG_pairing_jumping_signal.ogg": "phase_4/audio/sfx/MG_pairing_jumping_signal.ogg",
+    "tt_s_prp_sillyMeterPhaseTwo.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseTwo.ogg",
+    "Moon_Fish.ogg": "phase_4/audio/sfx/Moon_Fish.ogg",
+    "TT_splash1.ogg": "phase_4/audio/sfx/TT_splash1.ogg",
+    "MG_sfx_vine_game_finish.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_finish.ogg",
+    "ttr_s_ene_cgb_sellbotForeman_healthActivation.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_sellbotForeman_healthActivation.ogg",
+    "ttr_s_chr_gen_paradeFloat_candleHit.ogg": "phase_4/audio/sfx/ttr_s_chr_gen_paradeFloat_candleHit.ogg",
+    "MG_sfx_vine_game_bat_hit_midair.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_bat_hit_midair.ogg",
+    "ring_get.ogg": "phase_4/audio/sfx/ring_get.ogg",
+    "target_cloud.ogg": "phase_4/audio/sfx/target_cloud.ogg",
+    "Photo_shutter.ogg": "phase_4/audio/sfx/Photo_shutter.ogg",
+    "MG_sfx_travel_game_bell_for_trolley.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_bell_for_trolley.ogg",
+    "tt_s_prp_sillyMeterPhaseFourToFive.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseFourToFive.ogg",
+    "MG_pos_buzzer.ogg": "phase_4/audio/sfx/MG_pos_buzzer.ogg",
+    "Golf_Hit_Barrier_2.ogg": "phase_4/audio/sfx/Golf_Hit_Barrier_2.ogg",
+    "tt_s_prp_sillyMeterPhaseThree.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseThree.ogg",
+    "MG_sfx_travel_game_bonus.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_bonus.ogg",
+    "m_match_piano.ogg": "phase_4/audio/sfx/m_match_piano.ogg",
+    "firework_distance_02.ogg": "phase_4/audio/sfx/firework_distance_02.ogg",
+    "tt_s_prp_sillyMeterPhaseFour_mono.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseFour_mono.ogg",
+    "MG_sfx_vine_game_bat_flying_lp.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_bat_flying_lp.ogg",
+    "tt_s_prp_sillyMeterPhaseThree_mono.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseThree_mono.ogg",
+    "ring_perfect.ogg": "phase_4/audio/sfx/ring_perfect.ogg",
+    "target_stretching_aim_loop.ogg": "phase_4/audio/sfx/target_stretching_aim_loop.ogg",
+    "target_impact_grunt1.ogg": "phase_4/audio/sfx/target_impact_grunt1.ogg",
+    "clock09.ogg": "phase_4/audio/sfx/clock09.ogg",
+    "firework_whistle_02.ogg": "phase_4/audio/sfx/firework_whistle_02.ogg",
+    "MG_Tag_C.ogg": "phase_4/audio/sfx/MG_Tag_C.ogg",
+    "target_Lose.ogg": "phase_4/audio/sfx/target_Lose.ogg",
+    "Starfish.ogg": "phase_4/audio/sfx/Starfish.ogg",
+    "m_match_guitar.ogg": "phase_4/audio/sfx/m_match_guitar.ogg",
+    "MG_win.ogg": "phase_4/audio/sfx/MG_win.ogg",
+    "Seahorse.ogg": "phase_4/audio/sfx/Seahorse.ogg",
+    "MG_sfx_vine_game_catch.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_catch.ogg",
+    "MG_sfx_travel_game_square_no_vote_1.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_square_no_vote_1.ogg",
+    "ttr_s_ene_cgb_sellbotForeman_overtime.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_sellbotForeman_overtime.ogg",
+    "SZ_DD_treasure.ogg": "phase_4/audio/sfx/SZ_DD_treasure.ogg",
+    "ttr_s_ara_sillyPickup.ogg": "phase_4/audio/sfx/ttr_s_ara_sillyPickup.ogg",
+    "Golf_Hit_Barrier_1.ogg": "phase_4/audio/sfx/Golf_Hit_Barrier_1.ogg",
+    "AV_footstep_runloop_water.ogg": "phase_4/audio/sfx/AV_footstep_runloop_water.ogg",
+    "AmoreEel.ogg": "phase_4/audio/sfx/AmoreEel.ogg",
+    "AV_foostep_walkloop_water.ogg": "phase_4/audio/sfx/AV_foostep_walkloop_water.ogg",
+    "MG_cannon_splash.ogg": "phase_4/audio/sfx/MG_cannon_splash.ogg",
+    "firework_explosion_01.ogg": "phase_4/audio/sfx/firework_explosion_01.ogg",
+    "diving_game_hit.ogg": "phase_4/audio/sfx/diving_game_hit.ogg",
+    "MG_Tag_A.ogg": "phase_4/audio/sfx/MG_Tag_A.ogg",
+    "ttr_s_chr_gen_paradeFloat_candleDying.ogg": "phase_4/audio/sfx/ttr_s_chr_gen_paradeFloat_candleDying.ogg",
+    "ttr_s_ara_min_doodle_whistle1.ogg": "phase_4/audio/sfx/ttr_s_ara_min_doodle_whistle1.ogg",
+    "ttr_s_ene_cga_bossbotClubPresident_bunkerShot_miss.ogg": "phase_4/audio/sfx/ttr_s_ene_cga_bossbotClubPresident_bunkerShot_miss.ogg",
+    "clock02.ogg": "phase_4/audio/sfx/clock02.ogg",
+    "ttr_s_prp_ballKickLow.ogg": "phase_4/audio/sfx/ttr_s_prp_ballKickLow.ogg",
+    "SZ_TC_bird2.ogg": "phase_4/audio/sfx/SZ_TC_bird2.ogg",
+    "MG_sfx_travel_game_lose_vote.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_lose_vote.ogg",
+    "ttr_s_ene_cga_bossbotClubPresident_bunkerShot_hit.ogg": "phase_4/audio/sfx/ttr_s_ene_cga_bossbotClubPresident_bunkerShot_hit.ogg",
+    "ttr_s_ene_cgc_cashbotAuditor_marketFlip.ogg": "phase_4/audio/sfx/ttr_s_ene_cgc_cashbotAuditor_marketFlip.ogg",
+    "Nurse_Shark.ogg": "phase_4/audio/sfx/Nurse_Shark.ogg",
+    "ring_miss.ogg": "phase_4/audio/sfx/ring_miss.ogg",
+    "diving_treasure_pick_up.ogg": "phase_4/audio/sfx/diving_treasure_pick_up.ogg",
+    "Dog_Fish.ogg": "phase_4/audio/sfx/Dog_Fish.ogg",
+    "ttr_s_chr_gen_paradeFloat_candleIdle.ogg": "phase_4/audio/sfx/ttr_s_chr_gen_paradeFloat_candleIdle.ogg",
+    "CatFish.ogg": "phase_4/audio/sfx/CatFish.ogg",
+    "target_wind_fly_loop.ogg": "phase_4/audio/sfx/target_wind_fly_loop.ogg",
+    "avatar_emotion_very_sad_1.ogg": "phase_4/audio/sfx/avatar_emotion_very_sad_1.ogg",
+    "SZ_TC_bird3.ogg": "phase_4/audio/sfx/SZ_TC_bird3.ogg",
+    "Pool_Shark.ogg": "phase_4/audio/sfx/Pool_Shark.ogg",
+    "Bear_Acuda.ogg": "phase_4/audio/sfx/Bear_Acuda.ogg",
+    "target_wind_float_loop.ogg": "phase_4/audio/sfx/target_wind_float_loop.ogg",
+    "clock10.ogg": "phase_4/audio/sfx/clock10.ogg",
+    "ttr_s_chr_gen_paradeFloat_unite.ogg": "phase_4/audio/sfx/ttr_s_chr_gen_paradeFloat_unite.ogg",
+    "target_chute.ogg": "phase_4/audio/sfx/target_chute.ogg",
+    "ttr_s_prp_ballThrow1.ogg": "phase_4/audio/sfx/ttr_s_prp_ballThrow1.ogg",
+    "PBJ_Fish.ogg": "phase_4/audio/sfx/PBJ_Fish.ogg",
+    "threeSparkles.ogg": "phase_4/audio/sfx/threeSparkles.ogg",
+    "clock07.ogg": "phase_4/audio/sfx/clock07.ogg",
+    "MG_pairing_match_bonus_both.ogg": "phase_4/audio/sfx/MG_pairing_match_bonus_both.ogg",
+    "furious_03.ogg": "phase_4/audio/sfx/furious_03.ogg",
+    "SZ_trolley_bell.ogg": "phase_4/audio/sfx/SZ_trolley_bell.ogg",
+    "MG_sfx_travel_game_no_bonus_2.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_no_bonus_2.ogg",
+    "MG_sfx_travel_game_no_bonus.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_no_bonus.ogg",
+    "tt_s_prp_sillyMeterPhaseFive_mono.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseFive_mono.ogg",
+    "avatar_emotion_confused.ogg": "phase_4/audio/sfx/avatar_emotion_confused.ogg",
+    "MG_cannon_whizz.ogg": "phase_4/audio/sfx/MG_cannon_whizz.ogg",
+    "ttr_s_ene_cgb_lawbotClerk_objection.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_lawbotClerk_objection.ogg",
+    "SZ_TC_bird1.ogg": "phase_4/audio/sfx/SZ_TC_bird1.ogg",
+    "target_impact_only.ogg": "phase_4/audio/sfx/target_impact_only.ogg",
+    "MG_sfx_travel_game_blue_arrow.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_blue_arrow.ogg",
+    "BalloonFish.ogg": "phase_4/audio/sfx/BalloonFish.ogg",
+    "MG_cannon_hit_tower.ogg": "phase_4/audio/sfx/MG_cannon_hit_tower.ogg",
+    "ttr_s_ene_cgb_sellbotForeman_burnout.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_sellbotForeman_burnout.ogg",
+    "MG_lose.ogg": "phase_4/audio/sfx/MG_lose.ogg",
+    "target_wind_float_clothloop.ogg": "phase_4/audio/sfx/target_wind_float_clothloop.ogg",
+    "ttr_s_ara_auditorBuffCoins.ogg": "phase_4/audio/sfx/ttr_s_ara_auditorBuffCoins.ogg",
+    "clock08.ogg": "phase_4/audio/sfx/clock08.ogg",
+    "tt_s_prp_sillyMeterArrow.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterArrow.ogg",
+    "target_trampoline_2.ogg": "phase_4/audio/sfx/target_trampoline_2.ogg",
+    "MG_sfx_vine_game_fall.ogg": "phase_4/audio/sfx/MG_sfx_vine_game_fall.ogg",
+    "ttr_s_ara_min_doodle_whistle2.ogg": "phase_4/audio/sfx/ttr_s_ara_min_doodle_whistle2.ogg",
+    "ttr_s_prp_gen_paradeTunnel_exit.ogg": "phase_4/audio/sfx/ttr_s_prp_gen_paradeTunnel_exit.ogg",
+    "MG_sfx_travel_game_red_arrow.ogg": "phase_4/audio/sfx/MG_sfx_travel_game_red_arrow.ogg",
+    "ttr_s_ene_cgb_lawbotClerk_silenceHush.ogg": "phase_4/audio/sfx/ttr_s_ene_cgb_lawbotClerk_silenceHush.ogg",
+    "avatar_emotion_very_sad.ogg": "phase_4/audio/sfx/avatar_emotion_very_sad.ogg",
+    "TT_splash2.ogg": "phase_4/audio/sfx/TT_splash2.ogg",
+    "tt_s_prp_sillyMeterPhaseFive.ogg": "phase_4/audio/sfx/tt_s_prp_sillyMeterPhaseFive.ogg",
+    "firework_explosion_02.ogg": "phase_4/audio/sfx/firework_explosion_02.ogg",
+    "avatar_emotion_laugh.ogg": "phase_4/audio/sfx/avatar_emotion_laugh.ogg",
+    "MG_cannon_hit_dirt.ogg": "phase_4/audio/sfx/MG_cannon_hit_dirt.ogg",
+    "daisy.ogg": "phase_4/audio/dial/daisy.ogg",
+    "ttr_s_ara_cig_roomHot.ogg": "phase_5/audio/bgm/ttr_s_ara_cig_roomHot.ogg",
+    "ttr_s_ara_csa_cogdoElevator.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_cogdoElevator.ogg",
+    "ttr_s_ara_csa_toonWinningIndoor.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_toonWinningIndoor.ogg",
+    "ttr_s_ara_csa_stomperRoom.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_stomperRoom.ogg",
+    "ttr_s_ara_cmg_default.ogg": "phase_5/audio/bgm/ttr_s_ara_cmg_default.ogg",
+    "ttr_s_ara_cig_roomClear.ogg": "phase_5/audio/bgm/ttr_s_ara_cig_roomClear.ogg",
+    "ttr_s_ara_csa_boilerOffense.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_boilerOffense.ogg",
+    "ttr_s_ara_cbe_cogdoStreet.ogg": "phase_5/audio/bgm/ttr_s_ara_cbe_cogdoStreet.ogg",
+    "ttr_s_ara_csa_boilerDefense.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_boilerDefense.ogg",
+    "ttr_s_ara_csa_executiveSuite.ogg": "phase_5/audio/bgm/ttr_s_ara_csa_executiveSuite.ogg",
+    "ttr_s_ara_cmg_victory.ogg": "phase_5/audio/bgm/ttr_s_ara_cmg_victory.ogg",
+    "ttr_s_ara_cmg_boss.ogg": "phase_5/audio/bgm/ttr_s_ara_cmg_boss.ogg",
+    "ttr_s_ara_cig_roomCold.ogg": "phase_5/audio/bgm/ttr_s_ara_cig_roomCold.ogg",
+    "GUI_battleselect.ogg": "phase_5/audio/sfx/GUI_battleselect.ogg",
+    "tt_s_ara_ttc_mailbox_fightBoost.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_fightBoost.ogg",
+    "tt_s_ara_ttc_mailbox_idleJumpSpin.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_idleJumpSpin.ogg",
+    "ttr_s_ene_bat_floodTheMarketMiss.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_floodTheMarketMiss.ogg",
+    "tt_s_ara_cmg_itemHitsFloor.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_itemHitsFloor.ogg",
+    "ttr_s_ene_bat_quash.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_quash.ogg",
+    "ttr_s_chr_cbg_boss_intro.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_intro.ogg",
+    "ttr_s_ene_bat_beguileMiss.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_beguileMiss.ogg",
+    "SA_spin_miss.ogg": "phase_5/audio/sfx/SA_spin_miss.ogg",
+    "CHQ_SOS_cage_door.ogg": "phase_5/audio/sfx/CHQ_SOS_cage_door.ogg",
+    "tt_s_ara_cfg_whirlwind.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_whirlwind.ogg",
+    "tt_s_ara_ttc_trashcan_idleLook1.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_idleLook1.ogg",
+    "ttr_s_ene_bat_moneyTalks.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_moneyTalks.ogg",
+    "tt_s_ara_ttc_trashcan_fightIdle.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_fightIdle.ogg",
+    "ttr_s_ara_cbe_cogdoSell_idleLook2.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_idleLook2.ogg",
+    "cogbldg_settle.ogg": "phase_5/audio/sfx/cogbldg_settle.ogg",
+    "tt_s_ara_ttc_hydrant_victoryDance.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_victoryDance.ogg",
+    "tt_s_ara_cfg_toonFalls.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_toonFalls.ogg",
+    "SA_fill_with_lead_miss.ogg": "phase_5/audio/sfx/SA_fill_with_lead_miss.ogg",
+    "ttr_s_chr_cbg_boss_hitThrow.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_hitThrow.ogg",
+    "Skel_COG_VO_murmur.ogg": "phase_5/audio/sfx/Skel_COG_VO_murmur.ogg",
+    "tt_s_ara_ttc_hydrant_fightBoost.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_fightBoost.ogg",
+    "cogbldg_weaken.ogg": "phase_5/audio/sfx/cogbldg_weaken.ogg",
+    "AA_heal_smooch_appear.ogg": "phase_5/audio/sfx/AA_heal_smooch_appear.ogg",
+    "ENC_propeller_out.ogg": "phase_5/audio/sfx/ENC_propeller_out.ogg",
+    "ttr_s_ara_cbe_cogdoSell_idleLook.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_idleLook.ogg",
+    "tt_s_ara_ttc_hydrant_idleIntoFight.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleIntoFight.ogg",
+    "SA_restraining_order.ogg": "phase_5/audio/sfx/SA_restraining_order.ogg",
+    "SA_eviction_notice.ogg": "phase_5/audio/sfx/SA_eviction_notice.ogg",
+    "ttr_s_ara_csa_radioTune.ogg": "phase_5/audio/sfx/ttr_s_ara_csa_radioTune.ogg",
+    "ttr_s_ara_cbe_cogdoSell_lose.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_lose.ogg",
+    "ENC_propeller_in.ogg": "phase_5/audio/sfx/ENC_propeller_in.ogg",
+    "elevator_door_open.ogg": "phase_5/audio/sfx/elevator_door_open.ogg",
+    "tt_s_ara_ttc_hydrant_idleArmUp2.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleArmUp2.ogg",
+    "SA_crunch.ogg": "phase_5/audio/sfx/SA_crunch.ogg",
+    "SZ_MM_drumroll.ogg": "phase_5/audio/sfx/SZ_MM_drumroll.ogg",
+    "SA_freeze_assets.ogg": "phase_5/audio/sfx/SA_freeze_assets.ogg",
+    "tt_s_ara_cmg_cogStomp.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_cogStomp.ogg",
+    "Toon_getting_up_guilt_trip.ogg": "phase_5/audio/sfx/Toon_getting_up_guilt_trip.ogg",
+    "ttr_s_ene_bat_beguile.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_beguile.ogg",
+    "General_device_appear.ogg": "phase_5/audio/sfx/General_device_appear.ogg",
+    "ENC_cogjump_to_side.ogg": "phase_5/audio/sfx/ENC_cogjump_to_side.ogg",
+    "tt_s_ara_ttc_hydrant_idleArmUp1.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleArmUp1.ogg",
+    "ttr_s_prp_bat_antennaBubble_speak.ogg": "phase_5/audio/sfx/ttr_s_prp_bat_antennaBubble_speak.ogg",
+    "ttr_s_ara_cbe_cogdoSell_hurt.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_hurt.ogg",
+    "ttr_s_chr_cbg_boss_offenseAttack.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_offenseAttack.ogg",
+    "tt_s_ara_ttc_hydrant_idleJump.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleJump.ogg",
+    "ttr_s_chr_cbg_boss_defenseIntoOffense.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_defenseIntoOffense.ogg",
+    "GUI_knock_4.ogg": "phase_5/audio/sfx/GUI_knock_4.ogg",
+    "ttr_s_ene_bat_floodTheMarket.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_floodTheMarket.ogg",
+    "lightning_2.ogg": "phase_5/audio/sfx/lightning_2.ogg",
+    "tt_s_ara_ttc_trashcan_idleIntoFight.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_idleIntoFight.ogg",
+    "CHQ_SOS_cage_lower.ogg": "phase_5/audio/sfx/CHQ_SOS_cage_lower.ogg",
+    "cogbldg_land.ogg": "phase_5/audio/sfx/cogbldg_land.ogg",
+    "tt_s_ara_ttc_mailbox_idleLook2.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_idleLook2.ogg",
+    "elevator_door_close.ogg": "phase_5/audio/sfx/elevator_door_close.ogg",
+    "ttr_s_chr_cbg_boss_defenseIdle.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_defenseIdle.ogg",
+    "ttr_s_ene_bat_nickelAndDime.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_nickelAndDime.ogg",
+    "firehydrant_popup.ogg": "phase_5/audio/sfx/firehydrant_popup.ogg",
+    "SA_sacked_miss.ogg": "phase_5/audio/sfx/SA_sacked_miss.ogg",
+    "SA_pecking_order.ogg": "phase_5/audio/sfx/SA_pecking_order.ogg",
+    "ttr_s_ara_cig_skateBreak.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_skateBreak.ogg",
+    "ENC_Lose.ogg": "phase_5/audio/sfx/ENC_Lose.ogg",
+    "SA_market_crash.ogg": "phase_5/audio/sfx/SA_market_crash.ogg",
+    "SA_spin.ogg": "phase_5/audio/sfx/SA_spin.ogg",
+    "tt_s_ara_ttc_trashcan_fightCheer.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_fightCheer.ogg",
+    "ttr_s_ara_cig_fileCabinet_open.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_fileCabinet_open.ogg",
+    "tt_s_ara_ttc_trashcan_fightSad.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_fightSad.ogg",
+    "tt_s_ara_cmg_bossCogAngry.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_bossCogAngry.ogg",
+    "SA_shake.ogg": "phase_5/audio/sfx/SA_shake.ogg",
+    "ttr_s_chr_cbg_boss_offenseIntoDefense.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_offenseIntoDefense.ogg",
+    "tt_s_ara_cfg_propellers_damaged.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_propellers_damaged.ogg",
+    "tt_s_ara_cmg_toonHit.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_toonHit.ogg",
+    "tt_s_ara_ttc_mailbox_fightCheer.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_fightCheer.ogg",
+    "tt_s_ara_cmg_groundquake.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_groundquake.ogg",
+    "GUI_knock_3.ogg": "phase_5/audio/sfx/GUI_knock_3.ogg",
+    "ttr_s_ene_bat_embezzle.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_embezzle.ogg",
+    "tt_s_ara_ttc_mailbox_fightIdle.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_fightIdle.ogg",
+    "cogbldg_drop.ogg": "phase_5/audio/sfx/cogbldg_drop.ogg",
+    "tt_s_ara_ttc_hydrant_idleStruggle.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleStruggle.ogg",
+    "tt_s_ara_ttc_hydrant_idleJumpSpin.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleJumpSpin.ogg",
+    "tt_s_ara_cfg_toonHit.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_toonHit.ogg",
+    "ENC_Lose_head_down.ogg": "phase_5/audio/sfx/ENC_Lose_head_down.ogg",
+    "SA_legalese.ogg": "phase_5/audio/sfx/SA_legalese.ogg",
+    "SA_crunch_miss.ogg": "phase_5/audio/sfx/SA_crunch_miss.ogg",
+    "tt_s_ara_ttc_trashcan_victoryDance.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_victoryDance.ogg",
+    "tt_s_ara_ttc_hydrant_fightCheer.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_fightCheer.ogg",
+    "ENC_cogcfssm.ogg": "phase_5/audio/sfx/ENC_cogcfssm.ogg",
+    "tt_s_ara_cfg_eagleCry.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_eagleCry.ogg",
+    "ttr_s_ara_cbe_cogdoSell_idle2.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_idle2.ogg",
+    "ttr_s_ara_cbe_elevatorClose.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_elevatorClose.ogg",
+    "tt_s_ara_cfg_propellerBreaks.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_propellerBreaks.ogg",
+    "tt_s_ara_ttc_trashcan_idleLook2.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_idleLook2.ogg",
+    "General_throw_miss.ogg": "phase_5/audio/sfx/General_throw_miss.ogg",
+    "incoming_whistle.ogg": "phase_5/audio/sfx/incoming_whistle.ogg",
+    "ttr_s_ene_bat_closeTheLoop.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_closeTheLoop.ogg",
+    "tt_s_ara_ttc_trashcan_idleHiccup.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_idleHiccup.ogg",
+    "SA_chomp.ogg": "phase_5/audio/sfx/SA_chomp.ogg",
+    "ttr_s_ara_cig_thermostat_toRight.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_thermostat_toRight.ogg",
+    "tt_s_ara_ttc_mailbox_victoryDance.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_victoryDance.ogg",
+    "SA_sacked.ogg": "phase_5/audio/sfx/SA_sacked.ogg",
+    "SA_schmooze.ogg": "phase_5/audio/sfx/SA_schmooze.ogg",
+    "tt_s_ara_ttc_mailbox_fightSad.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_fightSad.ogg",
+    "ttr_s_ara_cig_skateRun.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_skateRun.ogg",
+    "ENC_cogcfslg.ogg": "phase_5/audio/sfx/ENC_cogcfslg.ogg",
+    "ttr_s_ene_bat_moneyTalksMiss.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_moneyTalksMiss.ogg",
+    "tt_s_ara_ttc_hydrant_idleJumpBalance.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleJumpBalance.ogg",
+    "SA_remote_control.ogg": "phase_5/audio/sfx/SA_remote_control.ogg",
+    "ttr_s_ara_cbe_cogdoSell_idleLook4.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_idleLook4.ogg",
+    "tt_s_ara_ttc_hydrant_fightIdle.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_fightIdle.ogg",
+    "SA_downsize_miss.ogg": "phase_5/audio/sfx/SA_downsize_miss.ogg",
+    "ENC_cogbfslg.ogg": "phase_5/audio/sfx/ENC_cogbfslg.ogg",
+    "SZ_MM_fanfare.ogg": "phase_5/audio/sfx/SZ_MM_fanfare.ogg",
+    "ttr_s_chr_cbg_boss_idle.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_idle.ogg",
+    "ENC_Lose_shrinking.ogg": "phase_5/audio/sfx/ENC_Lose_shrinking.ogg",
+    "tt_s_ara_ttc_mailbox_idleIntoFight.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_idleIntoFight.ogg",
+    "SA_bite.ogg": "phase_5/audio/sfx/SA_bite.ogg",
+    "ttr_s_chr_cbg_boss_lose.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_lose.ogg",
+    "ttr_s_ara_cig_thermostat_toLeft.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_thermostat_toLeft.ogg",
+    "ttr_s_ara_cbe_elevatorOpen.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_elevatorOpen.ogg",
+    "ttr_s_ara_cbe_cogdoSign_entrance.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSign_entrance.ogg",
+    "ttr_s_ara_cbe_cogdoSign_lose.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSign_lose.ogg",
+    "SA_fill_with_lead.ogg": "phase_5/audio/sfx/SA_fill_with_lead.ogg",
+    "GUI_knock_1.ogg": "phase_5/audio/sfx/GUI_knock_1.ogg",
+    "ENC_cogafslg.ogg": "phase_5/audio/sfx/ENC_cogafslg.ogg",
+    "Skel_COG_VO_statement.ogg": "phase_5/audio/sfx/Skel_COG_VO_statement.ogg",
+    "ttr_s_ene_bat_nickelAndDimeMiss.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_nickelAndDimeMiss.ogg",
+    "ttr_s_ara_csa_cameraLoop.ogg": "phase_5/audio/sfx/ttr_s_ara_csa_cameraLoop.ogg",
+    "SA_pecking_order_miss.ogg": "phase_5/audio/sfx/SA_pecking_order_miss.ogg",
+    "Skel_COG_VO_question.ogg": "phase_5/audio/sfx/Skel_COG_VO_question.ogg",
+    "ttr_s_chr_cbg_boss_defenseAttack.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_defenseAttack.ogg",
+    "tt_s_ara_ttc_mailbox_idleLook1.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_idleLook1.ogg",
+    "ttr_s_ene_bat_closeTheLoopMiss.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_closeTheLoopMiss.ogg",
+    "SA_quake.ogg": "phase_5/audio/sfx/SA_quake.ogg",
+    "GUI_knock_2.ogg": "phase_5/audio/sfx/GUI_knock_2.ogg",
+    "tt_s_ara_ttc_hydrant_idleArmUp3.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_idleArmUp3.ogg",
+    "tt_s_ara_ttc_trashcan_fightBoost.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_fightBoost.ogg",
+    "GUI_battlerollover.ogg": "phase_5/audio/sfx/GUI_battlerollover.ogg",
+    "ttr_s_chr_cbg_boss_offenseIdle.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_offenseIdle.ogg",
+    "tt_s_ara_ttc_trashcan_idleJumpJuggle.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_trashcan_idleJumpJuggle.ogg",
+    "tt_s_ara_ttc_hydrant_fightSad.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_hydrant_fightSad.ogg",
+    "ENC_cogbfssm.ogg": "phase_5/audio/sfx/ENC_cogbfssm.ogg",
+    "tt_s_ara_ttc_mailbox_idleWobble.ogg": "phase_5/audio/sfx/tt_s_ara_ttc_mailbox_idleWobble.ogg",
+    "ttr_s_ara_cig_skateDrift.ogg": "phase_5/audio/sfx/ttr_s_ara_cig_skateDrift.ogg",
+    "ttr_s_ara_cbe_cogdoSell_entrance2.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSell_entrance2.ogg",
+    "SA_bite_miss.ogg": "phase_5/audio/sfx/SA_bite_miss.ogg",
+    "tt_s_ara_cfg_toonInWhirlwind.ogg": "phase_5/audio/sfx/tt_s_ara_cfg_toonInWhirlwind.ogg",
+    "ttr_s_ara_cbe_cogdoSign_hurt.ogg": "phase_5/audio/sfx/ttr_s_ara_cbe_cogdoSign_hurt.ogg",
+    "ttr_s_ene_bat_hostileTakeover.ogg": "phase_5/audio/sfx/ttr_s_ene_bat_hostileTakeover.ogg",
+    "toonbldg_settle.ogg": "phase_5/audio/sfx/toonbldg_settle.ogg",
+    "ttr_s_chr_cbg_boss_retentionPlan.ogg": "phase_5/audio/sfx/ttr_s_chr_cbg_boss_retentionPlan.ogg",
+    "lightning_3.ogg": "phase_5/audio/sfx/lightning_3.ogg",
+    "SA_restraining_order_miss.ogg": "phase_5/audio/sfx/SA_restraining_order_miss.ogg",
+    "lightning_1.ogg": "phase_5/audio/sfx/lightning_1.ogg",
+    "Skel_COG_VO_grunt.ogg": "phase_5/audio/sfx/Skel_COG_VO_grunt.ogg",
+    "ENC_cogside_step.ogg": "phase_5/audio/sfx/ENC_cogside_step.ogg",
+    "SA_downsize.ogg": "phase_5/audio/sfx/SA_downsize.ogg",
+    "TL_rake_pickup_only.ogg": "phase_5/audio/sfx/TL_rake_pickup_only.ogg",
+    "tt_s_ara_cmg_waterCoolerFill.ogg": "phase_5/audio/sfx/tt_s_ara_cmg_waterCoolerFill.ogg",
+    "ttr_s_ara_csa_staticLoop.ogg": "phase_5/audio/sfx/ttr_s_ara_csa_staticLoop.ogg",
+    "AA_smooch_impact.ogg": "phase_5/audio/sfx/AA_smooch_impact.ogg",
+    "encntr_general_bg_indoor.ogg": "phase_7/audio/bgm/encntr_general_bg_indoor.ogg",
+    "tt_elevator.ogg": "phase_7/audio/bgm/tt_elevator.ogg",
+    "encntr_toon_winning_indoor.ogg": "phase_7/audio/bgm/encntr_toon_winning_indoor.ogg",
+    "encntr_suit_winning_indoor.ogg": "phase_7/audio/bgm/encntr_suit_winning_indoor.ogg",
+    "LB_office.ogg": "phase_11/audio/bgm/LB_office.ogg",
+    "ttr_s_ara_lhq_facilityBoss.ogg": "phase_11/audio/bgm/ttr_s_ara_lhq_facilityBoss.ogg",
+    "ttr_s_ara_lhq_facilityBossCutscene.ogg": "phase_11/audio/bgm/ttr_s_ara_lhq_facilityBossCutscene.ogg",
+    "ttr_s_ara_lhq_facilityBossVictory.ogg": "phase_11/audio/bgm/ttr_s_ara_lhq_facilityBossVictory.ogg",
+    "LB_courtyard.ogg": "phase_11/audio/bgm/LB_courtyard.ogg",
+    "LB_juryBG.ogg": "phase_11/audio/bgm/LB_juryBG.ogg",
+    "ttr_s_ara_lhq_facilityBattle.ogg": "phase_11/audio/bgm/ttr_s_ara_lhq_facilityBattle.ogg",
+    "LB_evidence_hit.ogg": "phase_11/audio/sfx/LB_evidence_hit.ogg",
+    "LB_sparks_1.ogg": "phase_11/audio/sfx/LB_sparks_1.ogg",
+    "LB_toonup.ogg": "phase_11/audio/sfx/LB_toonup.ogg",
+    "LB_laser_beam_off_2.ogg": "phase_11/audio/sfx/LB_laser_beam_off_2.ogg",
+    "LB_jury_moves.ogg": "phase_11/audio/sfx/LB_jury_moves.ogg",
+    "LB_laser_beam_hum_2.ogg": "phase_11/audio/sfx/LB_laser_beam_hum_2.ogg",
+    "LB_gavel.ogg": "phase_11/audio/sfx/LB_gavel.ogg",
+    "LB_toon_jury.ogg": "phase_11/audio/sfx/LB_toon_jury.ogg",
+    "LB_capacitor_discharge_3.ogg": "phase_11/audio/sfx/LB_capacitor_discharge_3.ogg",
+    "LB_cog_jury.ogg": "phase_11/audio/sfx/LB_cog_jury.ogg",
+    "LB_laser_beam_on_2.ogg": "phase_11/audio/sfx/LB_laser_beam_on_2.ogg",
+    "LB_evidence_miss.ogg": "phase_11/audio/sfx/LB_evidence_miss.ogg",
+    "ttr_s_ara_lhq_laserDoor_loop.ogg": "phase_11/audio/sfx/ttr_s_ara_lhq_laserDoor_loop.ogg",
+    "LB_camera_shutter_2.ogg": "phase_11/audio/sfx/LB_camera_shutter_2.ogg",
+    "DL_SZ_activity.ogg": "phase_8/audio/bgm/DL_SZ_activity.ogg",
+    "TB_SZ_activity.ogg": "phase_8/audio/bgm/TB_SZ_activity.ogg",
+    "DG_nbrhood.ogg": "phase_8/audio/bgm/DG_nbrhood.ogg",
+    "TB_SZ.ogg": "phase_8/audio/bgm/TB_SZ.ogg",
+    "DG_SZ.ogg": "phase_8/audio/bgm/DG_SZ.ogg",
+    "TB_nbrhood.ogg": "phase_8/audio/bgm/TB_nbrhood.ogg",
+    "DL_nbrhood.ogg": "phase_8/audio/bgm/DL_nbrhood.ogg",
+    "DG_SZ_activity.ogg": "phase_8/audio/bgm/DG_SZ_activity.ogg",
+    "DL_SZ.ogg": "phase_8/audio/bgm/DL_SZ.ogg",
+    "tt_s_ara_ddl_trashcan_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_fightIdle.ogg",
+    "tt_s_ara_tbr_mailbox_idleJumpSpin.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleJumpSpin.ogg",
+    "tt_s_ara_ddl_trashcan_idleSleepShake.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_idleSleepShake.ogg",
+    "SZ_DG_bird_01.ogg": "phase_8/audio/sfx/SZ_DG_bird_01.ogg",
+    "tt_s_ara_dga_mailbox_idleStretch.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_idleStretch.ogg",
+    "tt_s_ara_ddl_mailbox_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_idleIntoFight.ogg",
+    "SZ_TB_wind_2.ogg": "phase_8/audio/sfx/SZ_TB_wind_2.ogg",
+    "tt_s_ara_ddl_trashcan_idleSleepSnore.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_idleSleepSnore.ogg",
+    "tt_s_ara_dga_trashcan_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleIntoFight.ogg",
+    "tt_s_ara_ddl_mailbox_idleSleepShake.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_idleSleepShake.ogg",
+    "tt_s_ara_tbr_mailbox_idleShiver.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleShiver.ogg",
+    "tt_s_ara_ddl_mailbox_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_fightSad.ogg",
+    "tt_s_ara_dga_mailbox_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_victoryDance.ogg",
+    "tt_s_ara_dga_trashcan_idleStruggle.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleStruggle.ogg",
+    "tt_s_ara_tbr_hydrant_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_fightSad.ogg",
+    "tt_s_ara_tbr_mailbox_idleSpin.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleSpin.ogg",
+    "tt_s_ara_dga_hydrant_idleSneeze.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_idleSneeze.ogg",
+    "tt_s_ara_dga_trashcan_idleLidFlip1.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleLidFlip1.ogg",
+    "tt_s_ara_ddl_trashcan_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_fightSad.ogg",
+    "tt_s_ara_tbr_hydrant_idleRubNose.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_idleRubNose.ogg",
+    "tt_s_ara_ddl_mailbox_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_fightIdle.ogg",
+    "tt_s_ara_tbr_hydrant_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_fightCheer.ogg",
+    "tt_s_ara_dga_trashcan_idleJump.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleJump.ogg",
+    "SZ_DG_bird_04.ogg": "phase_8/audio/sfx/SZ_DG_bird_04.ogg",
+    "tt_s_ara_ddl_hydrant_idleSleep.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_idleSleep.ogg",
+    "TTR_PB_Snowcrash.ogg": "phase_8/audio/sfx/TTR_PB_Snowcrash.ogg",
+    "tt_s_ara_dga_trashcan_idleHiccup.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleHiccup.ogg",
+    "tt_s_ara_ddl_trashcan_idleSleepFall.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_idleSleepFall.ogg",
+    "tt_s_ara_tbr_trashcan_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_fightCheer.ogg",
+    "tt_s_ara_ddl_mailbox_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_fightBoost.ogg",
+    "tt_s_ara_tbr_trashcan_idleFlip.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_idleFlip.ogg",
+    "tt_s_ara_dga_trashcan_idleJumpHit.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleJumpHit.ogg",
+    "tt_s_ara_tbr_trashcan_idleSneeze.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_idleSneeze.ogg",
+    "tt_s_ara_dga_hydrant_idleDance.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_idleDance.ogg",
+    "tt_s_ara_ddl_hydrant_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_fightIdle.ogg",
+    "tt_s_ara_dga_hydrant_idleLook.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_idleLook.ogg",
+    "tt_s_ara_tbr_hydrant_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_idleIntoFight.ogg",
+    "tt_s_ara_tbr_trashcan_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_idleIntoFight.ogg",
+    "tt_s_ara_dga_trashcan_idleLidFlip2.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleLidFlip2.ogg",
+    "tt_s_ara_dga_trashcan_idleLook2.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleLook2.ogg",
+    "SZ_DG_bird_03.ogg": "phase_8/audio/sfx/SZ_DG_bird_03.ogg",
+    "tt_s_ara_tbr_hydrant_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_victoryDance.ogg",
+    "tt_s_ara_dga_hydrant_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_fightCheer.ogg",
+    "tt_s_ara_ddl_hydrant_idleSleepStruggle.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_idleSleepStruggle.ogg",
+    "tt_s_ara_dga_trashcan_idleLidFlip3.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleLidFlip3.ogg",
+    "tt_s_ara_tbr_trashcan_idleShiver.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_idleShiver.ogg",
+    "tt_s_ara_tbr_mailbox_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleIntoFight.ogg",
+    "tt_s_ara_dga_mailbox_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_fightBoost.ogg",
+    "tt_s_ara_tbr_mailbox_idleWobble.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleWobble.ogg",
+    "tt_s_ara_ddl_hydrant_idleSleepYawn.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_idleSleepYawn.ogg",
+    "tt_s_ara_ddl_hydrant_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_fightBoost.ogg",
+    "tt_s_ara_dga_trashcan_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_victoryDance.ogg",
+    "tt_s_ara_tbr_mailbox_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_fightBoost.ogg",
+    "tt_s_ara_tbr_mailbox_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_fightSad.ogg",
+    "tt_s_ara_tbr_hydrant_idleSneeze.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_idleSneeze.ogg",
+    "tt_s_ara_tbr_trashcan_idleJumpJuggle.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_idleJumpJuggle.ogg",
+    "SZ_DG_bird_02.ogg": "phase_8/audio/sfx/SZ_DG_bird_02.ogg",
+    "tt_s_ara_tbr_hydrant_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_fightIdle.ogg",
+    "tt_s_ara_dga_trashcan_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_fightCheer.ogg",
+    "tt_s_ara_dga_mailbox_idleWobble.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_idleWobble.ogg",
+    "tt_s_ara_ddl_trashcan_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_fightCheer.ogg",
+    "tt_s_ara_dga_mailbox_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_fightSad.ogg",
+    "tt_s_ara_ddl_mailbox_idleSleep.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_idleSleep.ogg",
+    "tt_s_ara_tbr_mailbox_idleSneeze.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_idleSneeze.ogg",
+    "tt_s_ara_dga_hydrant_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_fightSad.ogg",
+    "tt_s_ara_dga_mailbox_idleJumpSpin.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_idleJumpSpin.ogg",
+    "tt_s_ara_ddl_trashcan_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_victoryDance.ogg",
+    "tt_s_ara_tbr_mailbox_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_fightCheer.ogg",
+    "tt_s_ara_tbr_mailbox_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_fightIdle.ogg",
+    "tt_s_ara_dga_trashcan_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_fightIdle.ogg",
+    "tt_s_ara_dga_mailbox_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_fightCheer.ogg",
+    "tt_s_ara_dga_mailbox_idleLook.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_idleLook.ogg",
+    "SZ_TB_wind_1.ogg": "phase_8/audio/sfx/SZ_TB_wind_1.ogg",
+    "tt_s_ara_ddl_hydrant_idleSleepFall.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_idleSleepFall.ogg",
+    "tt_s_ara_dga_mailbox_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_fightIdle.ogg",
+    "tt_s_ara_tbr_trashcan_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_fightBoost.ogg",
+    "tt_s_ara_dga_trashcan_idleLook1.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleLook1.ogg",
+    "tt_s_ara_dga_trashcan_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_fightBoost.ogg",
+    "tt_s_ara_ddl_mailbox_idleSleepYawn.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_idleSleepYawn.ogg",
+    "tt_s_ara_dga_hydrant_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_fightBoost.ogg",
+    "tt_s_ara_dga_hydrant_idleJumpSpin.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_idleJumpSpin.ogg",
+    "tt_s_ara_tbr_trashcan_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_victoryDance.ogg",
+    "tt_s_ara_dga_hydrant_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_idleIntoFight.ogg",
+    "tt_s_ara_tbr_hydrant_idleShiver.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_idleShiver.ogg",
+    "tt_s_ara_ddl_mailbox_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_fightCheer.ogg",
+    "tt_s_ara_tbr_hydrant_idleJumpSpin.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_idleJumpSpin.ogg",
+    "tt_s_ara_dga_hydrant_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_fightIdle.ogg",
+    "tt_s_ara_dga_trashcan_idleJumpJuggle.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_idleJumpJuggle.ogg",
+    "tt_s_ara_tbr_mailbox_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_mailbox_victoryDance.ogg",
+    "tt_s_ara_ddl_hydrant_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_victoryDance.ogg",
+    "tt_s_ara_tbr_hydrant_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_hydrant_fightBoost.ogg",
+    "tt_s_ara_ddl_trashcan_idleSleep.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_idleSleep.ogg",
+    "tt_s_ara_dga_mailbox_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_dga_mailbox_idleIntoFight.ogg",
+    "SZ_TB_wind_3.ogg": "phase_8/audio/sfx/SZ_TB_wind_3.ogg",
+    "tt_s_ara_ddl_trashcan_fightBoost.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_fightBoost.ogg",
+    "tt_s_ara_ddl_hydrant_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_idleIntoFight.ogg",
+    "tt_s_ara_ddl_hydrant_fightCheer.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_fightCheer.ogg",
+    "tt_s_ara_tbr_trashcan_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_fightSad.ogg",
+    "tt_s_ara_dga_trashcan_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_dga_trashcan_fightSad.ogg",
+    "tt_s_ara_ddl_mailbox_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_victoryDance.ogg",
+    "tt_s_ara_tbr_trashcan_fightIdle.ogg": "phase_8/audio/sfx/tt_s_ara_tbr_trashcan_fightIdle.ogg",
+    "tt_s_ara_ddl_hydrant_fightSad.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_hydrant_fightSad.ogg",
+    "tt_s_ara_dga_hydrant_victoryDance.ogg": "phase_8/audio/sfx/tt_s_ara_dga_hydrant_victoryDance.ogg",
+    "tt_s_ara_ddl_trashcan_idleIntoFight.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_trashcan_idleIntoFight.ogg",
+    "tt_s_ara_ddl_mailbox_idleSleepFall.ogg": "phase_8/audio/sfx/tt_s_ara_ddl_mailbox_idleSleepFall.ogg",
+    "encntr_general_bg.ogg": "phase_3.5/audio/bgm/encntr_general_bg.ogg",
+    "TC_SZ.ogg": "phase_3.5/audio/bgm/TC_SZ.ogg",
+    "TC_SZ_activity.ogg": "phase_3.5/audio/bgm/TC_SZ_activity.ogg",
+    "GUI_stickerbook_delete.ogg": "phase_3.5/audio/sfx/GUI_stickerbook_delete.ogg",
+    "ttr_s_gui_chat_overflow.ogg": "phase_3.5/audio/sfx/ttr_s_gui_chat_overflow.ogg",
+    "GUI_stickerbook_turn.ogg": "phase_3.5/audio/sfx/GUI_stickerbook_turn.ogg",
+    "AV_footstep_runloop.ogg": "phase_3.5/audio/sfx/AV_footstep_runloop.ogg",
+    "avatar_emotion_shrug.ogg": "phase_3.5/audio/sfx/avatar_emotion_shrug.ogg",
+    "AV_collision.ogg": "phase_3.5/audio/sfx/AV_collision.ogg",
+    "Door_Open_1.ogg": "phase_3.5/audio/sfx/Door_Open_1.ogg",
+    "telephone_ring.ogg": "phase_3.5/audio/sfx/telephone_ring.ogg",
+    "tt_s_gui_sbk_cdrFailure.ogg": "phase_3.5/audio/sfx/tt_s_gui_sbk_cdrFailure.ogg",
+    "AV_teleport.ogg": "phase_3.5/audio/sfx/AV_teleport.ogg",
+    "avatar_emotion_angry.ogg": "phase_3.5/audio/sfx/avatar_emotion_angry.ogg",
+    "GUI_stickerbook_open.ogg": "phase_3.5/audio/sfx/GUI_stickerbook_open.ogg",
+    "GUI_quicktalker.ogg": "phase_3.5/audio/sfx/GUI_quicktalker.ogg",
+    "ENC_Win.ogg": "phase_3.5/audio/sfx/ENC_Win.ogg",
+    "tick_counter.ogg": "phase_3.5/audio/sfx/tick_counter.ogg",
+    "tt_s_gui_sbk_cdrSuccess.ogg": "phase_3.5/audio/sfx/tt_s_gui_sbk_cdrSuccess.ogg",
+    "GUI_whisper_3.ogg": "phase_3.5/audio/sfx/GUI_whisper_3.ogg",
+    "Door_Close_1.ogg": "phase_3.5/audio/sfx/Door_Close_1.ogg",
+    "tt_s_dlg_sng_rabbit_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_g3.ogg",
+    "tt_s_dlg_sng_horse_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_g2.ogg",
+    "tt_s_dlg_sng_cat_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_e3.ogg",
+    "AV_bear_question.ogg": "phase_3.5/audio/dial/AV_bear_question.ogg",
+    "tt_s_dlg_sng_pig_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_f2.ogg",
+    "tt_s_dlg_sng_duck_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_c4.ogg",
+    "tt_s_dlg_sng_duck_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_e1.ogg",
+    "tt_s_dlg_sng_duck_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_g3.ogg",
+    "AV_deer_question.ogg": "phase_3.5/audio/dial/AV_deer_question.ogg",
+    "AV_deer_med.ogg": "phase_3.5/audio/dial/AV_deer_med.ogg",
+    "AV_bear_short.ogg": "phase_3.5/audio/dial/AV_bear_short.ogg",
+    "tt_s_dlg_sng_rabbit_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_f1.ogg",
+    "tt_s_dlg_sng_pig_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_a3.ogg",
+    "AV_duck_question.ogg": "phase_3.5/audio/dial/AV_duck_question.ogg",
+    "tt_s_dlg_sng_mouse_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_g3.ogg",
+    "tt_s_dlg_sng_bear_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_f1.ogg",
+    "tt_s_dlg_sng_dog_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_a2.ogg",
+    "tt_s_dlg_sng_rabbit_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_b1.ogg",
+    "tt_s_dlg_sng_cat_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_d2.ogg",
+    "AV_pumpkin_question.ogg": "phase_3.5/audio/dial/AV_pumpkin_question.ogg",
+    "AV_crocodile_short.ogg": "phase_3.5/audio/dial/AV_crocodile_short.ogg",
+    "tt_s_dlg_sng_horse_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_d3.ogg",
+    "tt_s_dlg_sng_dog_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_g2.ogg",
+    "tt_s_dlg_sng_rabbit_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_a2.ogg",
+    "tt_s_dlg_sng_pig_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_e1.ogg",
+    "tt_s_dlg_sng_horse_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_e2.ogg",
+    "AV_pumpkin_howl.ogg": "phase_3.5/audio/dial/AV_pumpkin_howl.ogg",
+    "tt_s_dlg_sng_pig_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_a2.ogg",
+    "tt_s_dlg_sng_dog_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_e2.ogg",
+    "tt_s_dlg_sng_duck_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_e2.ogg",
+    "AV_cat_long.ogg": "phase_3.5/audio/dial/AV_cat_long.ogg",
+    "AV_pig_short.ogg": "phase_3.5/audio/dial/AV_pig_short.ogg",
+    "AV_deer_exclaim.ogg": "phase_3.5/audio/dial/AV_deer_exclaim.ogg",
+    "AV_cat_question.ogg": "phase_3.5/audio/dial/AV_cat_question.ogg",
+    "tt_s_dlg_sng_monkey_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_a2.ogg",
+    "tt_s_dlg_sng_duck_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_e3.ogg",
+    "tt_s_dlg_sng_cat_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_b2.ogg",
+    "tt_s_dlg_sng_horse_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_c4.ogg",
+    "tt_s_dlg_sng_cat_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_g3.ogg",
+    "AV_bear_exclaim.ogg": "phase_3.5/audio/dial/AV_bear_exclaim.ogg",
+    "tt_s_dlg_sng_dog_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_g3.ogg",
+    "AV_mouse_question.ogg": "phase_3.5/audio/dial/AV_mouse_question.ogg",
+    "AV_duck_exclaim.ogg": "phase_3.5/audio/dial/AV_duck_exclaim.ogg",
+    "tt_s_dlg_sng_duck_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_d1.ogg",
+    "tt_s_dlg_sng_horse_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_c1.ogg",
+    "tt_s_dlg_sng_dog_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_b3.ogg",
+    "tt_s_dlg_sng_bear_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_c2.ogg",
+    "tt_s_dlg_sng_pig_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_c4.ogg",
+    "AV_bear_long.ogg": "phase_3.5/audio/dial/AV_bear_long.ogg",
+    "tt_s_dlg_sng_cat_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_c2.ogg",
+    "tt_s_dlg_sng_rabbit_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_f3.ogg",
+    "tt_s_dlg_sng_monkey_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_e2.ogg",
+    "tt_s_dlg_sng_mouse_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_d3.ogg",
+    "AV_monkey_howl.ogg": "phase_3.5/audio/dial/AV_monkey_howl.ogg",
+    "AV_monkey_long.ogg": "phase_3.5/audio/dial/AV_monkey_long.ogg",
+    "tt_s_dlg_sng_monkey_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_c4.ogg",
+    "AV_crocodile_long.ogg": "phase_3.5/audio/dial/AV_crocodile_long.ogg",
+    "tt_s_dlg_sng_monkey_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_g3.ogg",
+    "tt_s_dlg_sng_duck_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_f2.ogg",
+    "AV_deer_short.ogg": "phase_3.5/audio/dial/AV_deer_short.ogg",
+    "tt_s_dlg_sng_mouse_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_a3.ogg",
+    "tt_s_dlg_sng_rabbit_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_b2.ogg",
+    "AV_mouse_short.ogg": "phase_3.5/audio/dial/AV_mouse_short.ogg",
+    "tt_s_dlg_sng_monkey_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_f3.ogg",
+    "tt_s_dlg_sng_dog_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_f2.ogg",
+    "tt_s_dlg_sng_duck_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_c1.ogg",
+    "tt_s_dlg_sng_mouse_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_b1.ogg",
+    "tt_s_dlg_sng_dog_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_f3.ogg",
+    "tt_s_dlg_sng_pig_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_g3.ogg",
+    "tt_s_dlg_sng_bear_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_g3.ogg",
+    "tt_s_dlg_sng_mouse_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_b2.ogg",
+    "tt_s_dlg_sng_horse_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_d1.ogg",
+    "AV_pig_question.ogg": "phase_3.5/audio/dial/AV_pig_question.ogg",
+    "tt_s_dlg_sng_rabbit_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_f2.ogg",
+    "AV_dog_long.ogg": "phase_3.5/audio/dial/AV_dog_long.ogg",
+    "tt_s_dlg_sng_bear_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_e3.ogg",
+    "AV_deer_long.ogg": "phase_3.5/audio/dial/AV_deer_long.ogg",
+    "tt_s_dlg_sng_pig_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_d2.ogg",
+    "tt_s_dlg_sng_dog_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_d2.ogg",
+    "tt_s_dlg_sng_horse_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_c2.ogg",
+    "tt_s_dlg_sng_bear_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_d3.ogg",
+    "tt_s_dlg_sng_pig_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_e3.ogg",
+    "tt_s_dlg_sng_duck_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_b3.ogg",
+    "tt_s_dlg_sng_duck_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_b1.ogg",
+    "tt_s_dlg_sng_duck_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_a1.ogg",
+    "tt_s_dlg_sng_dog_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_g1.ogg",
+    "tt_s_dlg_sng_cat_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_a1.ogg",
+    "tt_s_dlg_sng_cat_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_d1.ogg",
+    "tt_s_dlg_sng_rabbit_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_e2.ogg",
+    "tt_s_dlg_sng_bear_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_c4.ogg",
+    "AV_pig_exclaim.ogg": "phase_3.5/audio/dial/AV_pig_exclaim.ogg",
+    "tt_s_dlg_sng_horse_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_f2.ogg",
+    "tt_s_dlg_sng_horse_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_g1.ogg",
+    "tt_s_dlg_sng_dog_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_c2.ogg",
+    "tt_s_dlg_sng_duck_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_d2.ogg",
+    "AV_rabbit_howl.ogg": "phase_3.5/audio/dial/AV_rabbit_howl.ogg",
+    "tt_s_dlg_sng_horse_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_b1.ogg",
+    "AV_pumpkin_med.ogg": "phase_3.5/audio/dial/AV_pumpkin_med.ogg",
+    "tt_s_dlg_sng_mouse_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_e3.ogg",
+    "tt_s_dlg_sng_rabbit_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_d3.ogg",
+    "tt_s_dlg_sng_monkey_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_b2.ogg",
+    "tt_s_dlg_sng_mouse_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_e1.ogg",
+    "tt_s_dlg_sng_cat_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_b3.ogg",
+    "tt_s_dlg_sng_bear_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_a1.ogg",
+    "AV_mouse_med.ogg": "phase_3.5/audio/dial/AV_mouse_med.ogg",
+    "AV_dog_exclaim.ogg": "phase_3.5/audio/dial/AV_dog_exclaim.ogg",
+    "tt_s_dlg_sng_mouse_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_g2.ogg",
+    "AV_pig_long.ogg": "phase_3.5/audio/dial/AV_pig_long.ogg",
+    "tt_s_dlg_sng_cat_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_a2.ogg",
+    "AV_rabbit_med.ogg": "phase_3.5/audio/dial/AV_rabbit_med.ogg",
+    "tt_s_dlg_sng_dog_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_b2.ogg",
+    "AV_pumpkin_short.ogg": "phase_3.5/audio/dial/AV_pumpkin_short.ogg",
+    "tt_s_dlg_sng_bear_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_f2.ogg",
+    "tt_s_dlg_sng_bear_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_d2.ogg",
+    "AV_crocodile_question.ogg": "phase_3.5/audio/dial/AV_crocodile_question.ogg",
+    "tt_s_dlg_sng_cat_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_e2.ogg",
+    "tt_s_dlg_sng_pig_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_g2.ogg",
+    "AV_monkey_exclaim.ogg": "phase_3.5/audio/dial/AV_monkey_exclaim.ogg",
+    "tt_s_dlg_sng_monkey_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_f1.ogg",
+    "tt_s_dlg_sng_mouse_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_c3.ogg",
+    "AV_mouse_exclaim.ogg": "phase_3.5/audio/dial/AV_mouse_exclaim.ogg",
+    "AV_mouse_howl.ogg": "phase_3.5/audio/dial/AV_mouse_howl.ogg",
+    "tt_s_dlg_sng_pig_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_c2.ogg",
+    "tt_s_dlg_sng_cat_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_f2.ogg",
+    "tt_s_dlg_sng_cat_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_f3.ogg",
+    "tt_s_dlg_sng_bear_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_c1.ogg",
+    "tt_s_dlg_sng_bear_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_g2.ogg",
+    "tt_s_dlg_sng_duck_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_c2.ogg",
+    "tt_s_dlg_sng_horse_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_d2.ogg",
+    "tt_s_dlg_sng_bear_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_b3.ogg",
+    "tt_s_dlg_sng_pig_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_d3.ogg",
+    "tt_s_dlg_sng_bear_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_c3.ogg",
+    "tt_s_dlg_sng_monkey_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_f2.ogg",
+    "tt_s_dlg_sng_dog_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_c4.ogg",
+    "COG_VO_murmur.ogg": "phase_3.5/audio/dial/COG_VO_murmur.ogg",
+    "tt_s_dlg_sng_cat_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_d3.ogg",
+    "tt_s_dlg_sng_monkey_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_c3.ogg",
+    "tt_s_dlg_sng_mouse_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_a1.ogg",
+    "tt_s_dlg_sng_rabbit_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_c4.ogg",
+    "tt_s_dlg_sng_monkey_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_d1.ogg",
+    "tt_s_dlg_sng_horse_g3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_g3.ogg",
+    "AV_crocodile_exclaim.ogg": "phase_3.5/audio/dial/AV_crocodile_exclaim.ogg",
+    "AV_monkey_med.ogg": "phase_3.5/audio/dial/AV_monkey_med.ogg",
+    "tt_s_dlg_sng_cat_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_c1.ogg",
+    "AV_cat_exclaim.ogg": "phase_3.5/audio/dial/AV_cat_exclaim.ogg",
+    "tt_s_dlg_sng_dog_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_e1.ogg",
+    "tt_s_dlg_sng_horse_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_e3.ogg",
+    "tt_s_dlg_sng_pig_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_b1.ogg",
+    "AV_dog_howl.ogg": "phase_3.5/audio/dial/AV_dog_howl.ogg",
+    "tt_s_dlg_sng_mouse_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_c1.ogg",
+    "tt_s_dlg_sng_monkey_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_g2.ogg",
+    "tt_s_dlg_sng_dog_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_f1.ogg",
+    "tt_s_dlg_sng_horse_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_a1.ogg",
+    "tt_s_dlg_sng_cat_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_g1.ogg",
+    "tt_s_dlg_sng_dog_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_b1.ogg",
+    "tt_s_dlg_sng_mouse_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_e2.ogg",
+    "AV_rabbit_exclaim.ogg": "phase_3.5/audio/dial/AV_rabbit_exclaim.ogg",
+    "tt_s_dlg_sng_monkey_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_e3.ogg",
+    "tt_s_dlg_sng_mouse_f2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_f2.ogg",
+    "AV_duck_short.ogg": "phase_3.5/audio/dial/AV_duck_short.ogg",
+    "tt_s_dlg_sng_horse_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_c3.ogg",
+    "AV_horse_med.ogg": "phase_3.5/audio/dial/AV_horse_med.ogg",
+    "AV_mouse_long.ogg": "phase_3.5/audio/dial/AV_mouse_long.ogg",
+    "tt_s_dlg_sng_pig_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_c1.ogg",
+    "tt_s_dlg_sng_bear_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_f3.ogg",
+    "tt_s_dlg_sng_horse_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_a3.ogg",
+    "tt_s_dlg_sng_mouse_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_d2.ogg",
+    "tt_s_dlg_sng_monkey_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_c2.ogg",
+    "tt_s_dlg_sng_pig_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_d1.ogg",
+    "AV_monkey_question.ogg": "phase_3.5/audio/dial/AV_monkey_question.ogg",
+    "tt_s_dlg_sng_monkey_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_b1.ogg",
+    "tt_s_dlg_sng_duck_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_f1.ogg",
+    "tt_s_dlg_sng_mouse_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_c4.ogg",
+    "AV_bear_med.ogg": "phase_3.5/audio/dial/AV_bear_med.ogg",
+    "tt_s_dlg_sng_horse_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_b2.ogg",
+    "tt_s_dlg_sng_pig_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_f3.ogg",
+    "tt_s_dlg_sng_cat_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_f1.ogg",
+    "tt_s_dlg_sng_duck_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_a3.ogg",
+    "tt_s_dlg_sng_bear_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_g1.ogg",
+    "tt_s_dlg_sng_monkey_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_e1.ogg",
+    "tt_s_dlg_sng_dog_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_d1.ogg",
+    "tt_s_dlg_sng_mouse_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_d1.ogg",
+    "tt_s_dlg_sng_rabbit_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_c2.ogg",
+    "tt_s_dlg_sng_dog_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_e3.ogg",
+    "tt_s_dlg_sng_rabbit_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_b3.ogg",
+    "tt_s_dlg_sng_rabbit_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_e1.ogg",
+    "tt_s_dlg_sng_duck_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_f3.ogg",
+    "tt_s_dlg_sng_pig_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_b3.ogg",
+    "tt_s_dlg_sng_rabbit_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_a3.ogg",
+    "AV_deer_howl.ogg": "phase_3.5/audio/dial/AV_deer_howl.ogg",
+    "AV_crocodile_med.ogg": "phase_3.5/audio/dial/AV_crocodile_med.ogg",
+    "AV_dog_short.ogg": "phase_3.5/audio/dial/AV_dog_short.ogg",
+    "tt_s_dlg_sng_cat_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_g2.ogg",
+    "tt_s_dlg_sng_bear_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_a2.ogg",
+    "tt_s_dlg_sng_cat_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_e1.ogg",
+    "tt_s_dlg_sng_mouse_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_g1.ogg",
+    "tt_s_dlg_sng_cat_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_b1.ogg",
+    "AV_cat_howl.ogg": "phase_3.5/audio/dial/AV_cat_howl.ogg",
+    "tt_s_dlg_sng_horse_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_f1.ogg",
+    "tt_s_dlg_sng_duck_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_d3.ogg",
+    "tt_s_dlg_sng_rabbit_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_d1.ogg",
+    "tt_s_dlg_sng_monkey_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_b3.ogg",
+    "tt_s_dlg_sng_bear_b1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_b1.ogg",
+    "tt_s_dlg_sng_pig_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_e2.ogg",
+    "AV_horse_howl.ogg": "phase_3.5/audio/dial/AV_horse_howl.ogg",
+    "AV_rabbit_short.ogg": "phase_3.5/audio/dial/AV_rabbit_short.ogg",
+    "tt_s_dlg_sng_rabbit_e3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_e3.ogg",
+    "tt_s_dlg_sng_mouse_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_f3.ogg",
+    "tt_s_dlg_sng_duck_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_a2.ogg",
+    "tt_s_dlg_sng_duck_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_g1.ogg",
+    "tt_s_dlg_sng_rabbit_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_d2.ogg",
+    "tt_s_dlg_sng_monkey_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_c1.ogg",
+    "tt_s_dlg_sng_rabbit_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_g2.ogg",
+    "tt_s_dlg_sng_horse_f3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_f3.ogg",
+    "tt_s_dlg_sng_duck_g2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_g2.ogg",
+    "tt_s_dlg_sng_rabbit_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_g1.ogg",
+    "tt_s_dlg_sng_pig_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_b2.ogg",
+    "COG_VO_statement.ogg": "phase_3.5/audio/dial/COG_VO_statement.ogg",
+    "COG_VO_grunt.ogg": "phase_3.5/audio/dial/COG_VO_grunt.ogg",
+    "AV_rabbit_question.ogg": "phase_3.5/audio/dial/AV_rabbit_question.ogg",
+    "tt_s_dlg_sng_monkey_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_a3.ogg",
+    "AV_horse_short.ogg": "phase_3.5/audio/dial/AV_horse_short.ogg",
+    "AV_bear_howl.ogg": "phase_3.5/audio/dial/AV_bear_howl.ogg",
+    "tt_s_dlg_sng_bear_d1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_d1.ogg",
+    "AV_pumpkin_long.ogg": "phase_3.5/audio/dial/AV_pumpkin_long.ogg",
+    "AV_pig_med.ogg": "phase_3.5/audio/dial/AV_pig_med.ogg",
+    "AV_monkey_short.ogg": "phase_3.5/audio/dial/AV_monkey_short.ogg",
+    "tt_s_dlg_sng_pig_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_c3.ogg",
+    "tt_s_dlg_sng_rabbit_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_a1.ogg",
+    "AV_pumpkin_exclaim.ogg": "phase_3.5/audio/dial/AV_pumpkin_exclaim.ogg",
+    "tt_s_dlg_sng_bear_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_b2.ogg",
+    "AV_duck_howl.ogg": "phase_3.5/audio/dial/AV_duck_howl.ogg",
+    "tt_s_dlg_sng_bear_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_e1.ogg",
+    "tt_s_dlg_sng_dog_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_a3.ogg",
+    "tt_s_dlg_sng_monkey_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_g1.ogg",
+    "AV_horse_long.ogg": "phase_3.5/audio/dial/AV_horse_long.ogg",
+    "tt_s_dlg_sng_duck_b2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_b2.ogg",
+    "tt_s_dlg_sng_mouse_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_f1.ogg",
+    "AV_dog_question.ogg": "phase_3.5/audio/dial/AV_dog_question.ogg",
+    "tt_s_dlg_sng_mouse_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_b3.ogg",
+    "tt_s_dlg_sng_dog_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_c3.ogg",
+    "AV_horse_exclaim.ogg": "phase_3.5/audio/dial/AV_horse_exclaim.ogg",
+    "AV_cat_med.ogg": "phase_3.5/audio/dial/AV_cat_med.ogg",
+    "AV_cat_short.ogg": "phase_3.5/audio/dial/AV_cat_short.ogg",
+    "tt_s_dlg_sng_cat_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_c3.ogg",
+    "COG_VO_question.ogg": "phase_3.5/audio/dial/COG_VO_question.ogg",
+    "AV_duck_long.ogg": "phase_3.5/audio/dial/AV_duck_long.ogg",
+    "tt_s_dlg_sng_cat_c4.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_c4.ogg",
+    "tt_s_dlg_sng_cat_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_cat_a3.ogg",
+    "AV_horse_question.ogg": "phase_3.5/audio/dial/AV_horse_question.ogg",
+    "tt_s_dlg_sng_horse_e1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_e1.ogg",
+    "tt_s_dlg_sng_monkey_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_d3.ogg",
+    "tt_s_dlg_sng_rabbit_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_c3.ogg",
+    "tt_s_dlg_sng_bear_a3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_a3.ogg",
+    "tt_s_dlg_sng_monkey_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_a1.ogg",
+    "tt_s_dlg_sng_dog_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_c1.ogg",
+    "tt_s_dlg_sng_mouse_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_a2.ogg",
+    "AV_rabbit_long.ogg": "phase_3.5/audio/dial/AV_rabbit_long.ogg",
+    "AV_duck_med.ogg": "phase_3.5/audio/dial/AV_duck_med.ogg",
+    "AV_crocodile_howl.ogg": "phase_3.5/audio/dial/AV_crocodile_howl.ogg",
+    "tt_s_dlg_sng_bear_e2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_bear_e2.ogg",
+    "tt_s_dlg_sng_horse_b3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_b3.ogg",
+    "tt_s_dlg_sng_duck_c3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_duck_c3.ogg",
+    "tt_s_dlg_sng_dog_d3.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_d3.ogg",
+    "tt_s_dlg_sng_rabbit_c1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_rabbit_c1.ogg",
+    "tt_s_dlg_sng_pig_g1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_g1.ogg",
+    "AV_pig_howl.ogg": "phase_3.5/audio/dial/AV_pig_howl.ogg",
+    "tt_s_dlg_sng_horse_a2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_horse_a2.ogg",
+    "tt_s_dlg_sng_pig_f1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_f1.ogg",
+    "tt_s_dlg_sng_monkey_d2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_monkey_d2.ogg",
+    "tt_s_dlg_sng_mouse_c2.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_mouse_c2.ogg",
+    "AV_dog_med.ogg": "phase_3.5/audio/dial/AV_dog_med.ogg",
+    "tt_s_dlg_sng_pig_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_pig_a1.ogg",
+    "tt_s_dlg_sng_dog_a1.ogg": "phase_3.5/audio/dial/tt_s_dlg_sng_dog_a1.ogg",
+    "Finding_Fluffy.ogg": "phase_13/audio/bgm/Finding_Fluffy.ogg",
+    "party_polka_dance.ogg": "phase_13/audio/bgm/party_polka_dance.ogg",
+    "party_generic_theme_jazzy.ogg": "phase_13/audio/bgm/party_generic_theme_jazzy.ogg",
+    "party_generic_theme.ogg": "phase_13/audio/bgm/party_generic_theme.ogg",
+    "party_original_theme.ogg": "phase_13/audio/bgm/party_original_theme.ogg",
+    "party_swing_dance.ogg": "phase_13/audio/bgm/party_swing_dance.ogg",
+    "ttr_s_ara_pty_youAREToonEnough.ogg": "phase_13/audio/bgm/ttr_s_ara_pty_youAREToonEnough.ogg",
+    "ttr_s_ara_pty_saveToonHQ.ogg": "phase_13/audio/bgm/ttr_s_ara_pty_saveToonHQ.ogg",
+    "ttr_s_ara_pty_toonResistanceArchives.ogg": "phase_13/audio/bgm/ttr_s_ara_pty_toonResistanceArchives.ogg",
+    "Storming_Sellbot_Headquarters.ogg": "phase_13/audio/bgm/Storming_Sellbot_Headquarters.ogg",
+    "ttr_s_ara_pty_missionKaboomberg.ogg": "phase_13/audio/bgm/ttr_s_ara_pty_missionKaboomberg.ogg",
+    "party_waltz_dance.ogg": "phase_13/audio/bgm/party_waltz_dance.ogg",
+    "tick_counter_overflow.ogg": "phase_13/audio/sfx/tick_counter_overflow.ogg",
+    "rocket_launch.ogg": "phase_13/audio/sfx/rocket_launch.ogg",
+    "bounce3.ogg": "phase_13/audio/sfx/bounce3.ogg",
+    "bounce2.ogg": "phase_13/audio/sfx/bounce2.ogg",
+    "tick_counter_short.ogg": "phase_13/audio/sfx/tick_counter_short.ogg",
+    "tt_s_ara_pty_tubeCogVictory_wave.ogg": "phase_13/audio/sfx/tt_s_ara_pty_tubeCogVictory_wave.ogg",
+    "bounce1.ogg": "phase_13/audio/sfx/bounce1.ogg",
+    "tt_s_ara_pty_propsShow_dance.ogg": "phase_13/audio/sfx/tt_s_ara_pty_propsShow_dance.ogg",
+    "BossBot_CEO_v2.ogg": "phase_12/audio/bgm/BossBot_CEO_v2.ogg",
+    "Bossbot_Entry_v2.ogg": "phase_12/audio/bgm/Bossbot_Entry_v2.ogg",
+    "ttr_s_ara_bhq_facilityBossDefensive.ogg": "phase_12/audio/bgm/ttr_s_ara_bhq_facilityBossDefensive.ogg",
+    "Bossbot_Entry_v1.ogg": "phase_12/audio/bgm/Bossbot_Entry_v1.ogg",
+    "ttr_s_ara_bhq_facilityBossCutscene.ogg": "phase_12/audio/bgm/ttr_s_ara_bhq_facilityBossCutscene.ogg",
+    "Bossbot_Factory_Finale.ogg": "phase_12/audio/bgm/Bossbot_Factory_Finale.ogg",
+    "ttr_s_ara_bhq_facilityBattle.ogg": "phase_12/audio/bgm/ttr_s_ara_bhq_facilityBattle.ogg",
+    "Bossbot_Factory_v2.ogg": "phase_12/audio/bgm/Bossbot_Factory_v2.ogg",
+    "ttr_s_ara_bhq_facilityBossVictory.ogg": "phase_12/audio/bgm/ttr_s_ara_bhq_facilityBossVictory.ogg",
+    "ttr_s_ara_bhq_facilityBoss.ogg": "phase_12/audio/bgm/ttr_s_ara_bhq_facilityBoss.ogg",
+    "Bossbot_Factory_v4.ogg": "phase_12/audio/bgm/Bossbot_Factory_v4.ogg",
+    "Bossbot_Factory_v3.ogg": "phase_12/audio/bgm/Bossbot_Factory_v3.ogg",
+    "BossBot_CEO_v1.ogg": "phase_12/audio/bgm/BossBot_CEO_v1.ogg",
+    "Bossbot_Factory_v1.ogg": "phase_12/audio/bgm/Bossbot_Factory_v1.ogg",
+    "Bossbot_Entry_v3.ogg": "phase_12/audio/bgm/Bossbot_Entry_v3.ogg",
+    "Mole_Stomp.ogg": "phase_12/audio/sfx/Mole_Stomp.ogg",
+    "ttr_s_ara_bhq_portcullisDoor_open.ogg": "phase_12/audio/sfx/ttr_s_ara_bhq_portcullisDoor_open.ogg",
+    "Mole_Surprise.ogg": "phase_12/audio/sfx/Mole_Surprise.ogg",
+    "CHQ_rain_ambient.ogg": "phase_12/audio/sfx/CHQ_rain_ambient.ogg",
+    "ttr_s_ara_dga_victory.ogg": "phase_14/audio/bgm/ttr_s_ara_dga_victory.ogg",
+    "ttr_s_ara_dga_credits.ogg": "phase_14/audio/bgm/ttr_s_ara_dga_credits.ogg",
+    "ttr_s_ara_dga_kaboomberg.ogg": "phase_14/audio/bgm/ttr_s_ara_dga_kaboomberg.ogg",
+    "ttr_s_prp_hypeTrain_2.ogg": "phase_5.5/audio/sfx/ttr_s_prp_hypeTrain_2.ogg",
+    "mailbox_open_2.ogg": "phase_5.5/audio/sfx/mailbox_open_2.ogg",
+    "mailbox_close_2.ogg": "phase_5.5/audio/sfx/mailbox_close_2.ogg",
+    "AV_jump_in_water.ogg": "phase_5.5/audio/sfx/AV_jump_in_water.ogg",
+    "fishing_bucket.ogg": "phase_5.5/audio/sfx/fishing_bucket.ogg",
+    "burrow.ogg": "phase_5.5/audio/sfx/burrow.ogg",
+    "ttr_s_prp_est_trolleyToaster_spitJump.ogg": "phase_5.5/audio/sfx/ttr_s_prp_est_trolleyToaster_spitJump.ogg",
+    "telephone_handle2.ogg": "phase_5.5/audio/sfx/telephone_handle2.ogg",
+    "mailbox_alert.ogg": "phase_5.5/audio/sfx/mailbox_alert.ogg",
+    "telephone_hang_up.ogg": "phase_5.5/audio/sfx/telephone_hang_up.ogg",
+    "ttr_s_prp_hypeTrain_1.ogg": "phase_5.5/audio/sfx/ttr_s_prp_hypeTrain_1.ogg",
+    "ttr_s_prp_est_trolleyToaster_jump.ogg": "phase_5.5/audio/sfx/ttr_s_prp_est_trolleyToaster_jump.ogg",
+    "mailbox_open_1.ogg": "phase_5.5/audio/sfx/mailbox_open_1.ogg",
+    "call_pet.ogg": "phase_5.5/audio/sfx/call_pet.ogg",
+    "telephone_pickup1.ogg": "phase_5.5/audio/sfx/telephone_pickup1.ogg",
+    "pet_the_pet.ogg": "phase_5.5/audio/sfx/pet_the_pet.ogg",
+    "beg_eat_swallow.ogg": "phase_5.5/audio/sfx/beg_eat_swallow.ogg",
+    "winter_dreidel_spin.ogg": "phase_5.5/audio/sfx/winter_dreidel_spin.ogg",
+    "mailbox_close_1.ogg": "phase_5.5/audio/sfx/mailbox_close_1.ogg",
+    "clarabelle_wa_3.ogg": "phase_5.5/audio/dial/clarabelle_wa_3.ogg",
+    "clarabelle_wa_4.ogg": "phase_5.5/audio/dial/clarabelle_wa_4.ogg",
+    "clarabelle_gen_2.ogg": "phase_5.5/audio/dial/clarabelle_gen_2.ogg",
+    "clarabelle_wa_1.ogg": "phase_5.5/audio/dial/clarabelle_wa_1.ogg",
+    "clarabelle_ah_1.ogg": "phase_5.5/audio/dial/clarabelle_ah_1.ogg",
+    "clarabelle_ah_2.ogg": "phase_5.5/audio/dial/clarabelle_ah_2.ogg",
+    "clarabelle_wa_2.ogg": "phase_5.5/audio/dial/clarabelle_wa_2.ogg",
+    "ttr_s_ara_chq_crane.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_crane.ogg",
+    "ttr_s_ara_chq_facilityBossBear.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBossBear.ogg",
+    "ttr_s_ara_ext_cashbotHQ_crash.ogg": "phase_10/audio/bgm/ttr_s_ara_ext_cashbotHQ_crash.ogg",
+    "CHQ_MINT_bg.ogg": "phase_10/audio/bgm/CHQ_MINT_bg.ogg",
+    "ttr_s_ara_chq_cranetutorial.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_cranetutorial.ogg",
+    "ttr_s_ara_chq_facilityBossBull.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBossBull.ogg",
+    "ttr_s_ara_chq_facilityBossNoMarket.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBossNoMarket.ogg",
+    "ttr_s_ara_chq_facilityBossCutscene.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBossCutscene.ogg",
+    "CBHQ_LOBBY_bg.ogg": "phase_10/audio/bgm/CBHQ_LOBBY_bg.ogg",
+    "ttr_s_ara_chq_facilityBattle.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBattle.ogg",
+    "ttr_s_ara_chq_facilityBossVictory.ogg": "phase_10/audio/bgm/ttr_s_ara_chq_facilityBossVictory.ogg",
+    "CBHQ_TRAIN_stopstart.ogg": "phase_10/audio/sfx/CBHQ_TRAIN_stopstart.ogg",
+    "ttr_s_ara_chq_trolleyloop.ogg": "phase_10/audio/sfx/ttr_s_ara_chq_trolleyloop.ogg",
+    "CBHQ_CFO_magnet_loop.ogg": "phase_10/audio/sfx/CBHQ_CFO_magnet_loop.ogg",
+    "CBHQ_TRAIN_pass.ogg": "phase_10/audio/sfx/CBHQ_TRAIN_pass.ogg",
+    "CBHQ_CFO_magnet_on.ogg": "phase_10/audio/sfx/CBHQ_CFO_magnet_on.ogg",
+    "ttr_theme_halloween.ogg": "phase_3/audio/bgm/ttr_theme_halloween.ogg",
+    "ttr_d_theme_phase2_loop.ogg": "phase_3/audio/bgm/ttr_d_theme_phase2_loop.ogg",
+    "tt_theme.ogg": "phase_3/audio/bgm/tt_theme.ogg",
+    "ttr_theme_winter.ogg": "phase_3/audio/bgm/ttr_theme_winter.ogg",
+    "create_a_toon.ogg": "phase_3/audio/bgm/create_a_toon.ogg",
+    "ttr_theme_aprilfools.ogg": "phase_3/audio/bgm/ttr_theme_aprilfools.ogg",
+    "ttr_cutscene_oilspill.ogg": "phase_3/audio/bgm/ttr_cutscene_oilspill.ogg",
+    "ttr_d_theme_phase2.ogg": "phase_3/audio/bgm/ttr_d_theme_phase2.ogg",
+    "installer_theme.ogg": "phase_3/audio/bgm/installer_theme.ogg",
+    "ttr_d_theme_phase1.ogg": "phase_3/audio/bgm/ttr_d_theme_phase1.ogg",
+    "ttr_cutscene_cogdo.ogg": "phase_3/audio/bgm/ttr_cutscene_cogdo.ogg",
+    "ttr_theme.ogg": "phase_3/audio/bgm/ttr_theme.ogg",
+    "ttr_theme_toonfest.ogg": "phase_3/audio/bgm/ttr_theme_toonfest.ogg",
+    "ttr_theme_oilspill.ogg": "phase_3/audio/bgm/ttr_theme_oilspill.ogg",
+    "tt_s_ara_mat_crash_boing.ogg": "phase_3/audio/sfx/tt_s_ara_mat_crash_boing.ogg",
+    "GUI_create_toon_back.ogg": "phase_3/audio/sfx/GUI_create_toon_back.ogg",
+    "GUI_rollover.ogg": "phase_3/audio/sfx/GUI_rollover.ogg",
+    "GUI_create_toon_store.ogg": "phase_3/audio/sfx/GUI_create_toon_store.ogg",
+    "clock03.ogg": "phase_3/audio/sfx/clock03.ogg",
+    "GUI_balloon_popup.ogg": "phase_3/audio/sfx/GUI_balloon_popup.ogg",
+    "tt_s_ara_mat_crash_glassBoing.ogg": "phase_3/audio/sfx/tt_s_ara_mat_crash_glassBoing.ogg",
+    "tt_s_ara_mat_crash_woodBoing.ogg": "phase_3/audio/sfx/tt_s_ara_mat_crash_woodBoing.ogg",
+    "GUI_create_toon_fwd.ogg": "phase_3/audio/sfx/GUI_create_toon_fwd.ogg",
+    "GUI_create_toon_bodyshop.ogg": "phase_3/audio/sfx/GUI_create_toon_bodyshop.ogg",
+    "tt_s_ara_mat_crash_woodGlass.ogg": "phase_3/audio/sfx/tt_s_ara_mat_crash_woodGlass.ogg",
+    "tt_s_ara_mat_crash_wood.ogg": "phase_3/audio/sfx/tt_s_ara_mat_crash_wood.ogg",
+    "GUI_create_toon_art.ogg": "phase_3/audio/sfx/GUI_create_toon_art.ogg",
+    "minnie.ogg": "phase_3/audio/dial/minnie.ogg",
+    "mickey.ogg": "phase_3/audio/dial/mickey.ogg",
+    "GS_KartShop.ogg": "phase_6/audio/bgm/GS_KartShop.ogg",
+    "MM_SZ_activity.ogg": "phase_6/audio/bgm/MM_SZ_activity.ogg",
+    "GZ_PlayGolf.ogg": "phase_6/audio/bgm/GZ_PlayGolf.ogg",
+    "TF_SZ_1.ogg": "phase_6/audio/bgm/TF_SZ_1.ogg",
+    "MM_nbrhood.ogg": "phase_6/audio/bgm/MM_nbrhood.ogg",
+    "TF_CCC_elevator.ogg": "phase_6/audio/bgm/TF_CCC_elevator.ogg",
+    "DD_nbrhood.ogg": "phase_6/audio/bgm/DD_nbrhood.ogg",
+    "DD_SZ_activity.ogg": "phase_6/audio/bgm/DD_SZ_activity.ogg",
+    "DD_SZ.ogg": "phase_6/audio/bgm/DD_SZ.ogg",
+    "GZ_SZ.ogg": "phase_6/audio/bgm/GZ_SZ.ogg",
+    "GS_Race_RR.ogg": "phase_6/audio/bgm/GS_Race_RR.ogg",
+    "DD_nbrhood_UW.ogg": "phase_6/audio/bgm/DD_nbrhood_UW.ogg",
+    "GS_Race_CC.ogg": "phase_6/audio/bgm/GS_Race_CC.ogg",
+    "MM_SZ.ogg": "phase_6/audio/bgm/MM_SZ.ogg",
+    "TF_FW_finale.ogg": "phase_6/audio/bgm/TF_FW_finale.ogg",
+    "GS_Race_SS.ogg": "phase_6/audio/bgm/GS_Race_SS.ogg",
+    "OZ_SZ_UW.ogg": "phase_6/audio/bgm/OZ_SZ_UW.ogg",
+    "GS_SZ.ogg": "phase_6/audio/bgm/GS_SZ.ogg",
+    "TF_QS.ogg": "phase_6/audio/bgm/TF_QS.ogg",
+    "TF_DT.ogg": "phase_6/audio/bgm/TF_DT.ogg",
+    "OZ_SZ.ogg": "phase_6/audio/bgm/OZ_SZ.ogg",
+    "tt_s_ara_dod_mailbox_idleJumpSummersaultsFall.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleJumpSummersaultsFall.ogg",
+    "tt_s_ara_dod_trashcan_victoryDance.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_victoryDance.ogg",
+    "tt_s_ara_mml_mailbox_idleJumpSpin.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_idleJumpSpin.ogg",
+    "KART_Engine_loop_2.ogg": "phase_6/audio/sfx/KART_Engine_loop_2.ogg",
+    "tt_s_ara_dod_trashcan_fightSad.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_fightSad.ogg",
+    "tt_s_ara_mml_trashcan_idleWobble.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_idleWobble.ogg",
+    "tt_s_ara_mml_hydrant_fightSad.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_fightSad.ogg",
+    "tt_s_ara_mml_trashcan_fightCheer0.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_fightCheer0.ogg",
+    "tt_s_ara_mml_trashcan_fightIdle.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_fightIdle.ogg",
+    "KART_Skidding_On_Grass.ogg": "phase_6/audio/sfx/KART_Skidding_On_Grass.ogg",
+    "tt_s_ara_dod_mailbox_fightSad.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_fightSad.ogg",
+    "tt_s_ara_mml_trashcan_victoryDance.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_victoryDance.ogg",
+    "Golf_Crowd_Miss.ogg": "phase_6/audio/sfx/Golf_Crowd_Miss.ogg",
+    "KART_Engine_loop_1.ogg": "phase_6/audio/sfx/KART_Engine_loop_1.ogg",
+    "OZ_Geyser_No_Toon.ogg": "phase_6/audio/sfx/OZ_Geyser_No_Toon.ogg",
+    "tt_s_ara_mml_hydrant_idleDance2.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_idleDance2.ogg",
+    "Golf_Crowd_Applause.ogg": "phase_6/audio/sfx/Golf_Crowd_Applause.ogg",
+    "tt_s_ara_dod_trashcan_idleFunnyFace.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_idleFunnyFace.ogg",
+    "tt_s_ara_mml_mailbox_idleStretch.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_idleStretch.ogg",
+    "tt_s_ara_dod_mailbox_idleWobble.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleWobble.ogg",
+    "SZ_DD_dockcreak.ogg": "phase_6/audio/sfx/SZ_DD_dockcreak.ogg",
+    "KART_Engine_loop_0.ogg": "phase_6/audio/sfx/KART_Engine_loop_0.ogg",
+    "KART_Applause_2.ogg": "phase_6/audio/sfx/KART_Applause_2.ogg",
+    "tt_s_ara_dod_trashcan_fightBoost.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_fightBoost.ogg",
+    "SZ_MM_cymbal.ogg": "phase_6/audio/sfx/SZ_MM_cymbal.ogg",
+    "KART_turboStart.ogg": "phase_6/audio/sfx/KART_turboStart.ogg",
+    "tt_s_ara_dod_mailbox_idleFlagSpin3.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleFlagSpin3.ogg",
+    "tt_s_ara_mml_hydrant_fightIdle.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_fightIdle.ogg",
+    "KART_raceStart1.ogg": "phase_6/audio/sfx/KART_raceStart1.ogg",
+    "tt_s_ara_mml_hydrant_idleDance1.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_idleDance1.ogg",
+    "tt_s_ara_mml_mailbox_idleLook.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_idleLook.ogg",
+    "tt_s_ara_dod_trashcan_idleWobble.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_idleWobble.ogg",
+    "SZ_DD_shipbell.ogg": "phase_6/audio/sfx/SZ_DD_shipbell.ogg",
+    "KART_Applause_1.ogg": "phase_6/audio/sfx/KART_Applause_1.ogg",
+    "SZ_DD_Seagull.ogg": "phase_6/audio/sfx/SZ_DD_Seagull.ogg",
+    "tt_s_ara_mml_hydrant_idleJumpSpin.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_idleJumpSpin.ogg",
+    "tt_s_ara_mml_mailbox_idleWobble.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_idleWobble.ogg",
+    "tt_s_ara_mml_trashcan_idleLook2.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_idleLook2.ogg",
+    "Golf_Windmill_Loop.ogg": "phase_6/audio/sfx/Golf_Windmill_Loop.ogg",
+    "tt_s_ara_mml_mailbox_victoryDance.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_victoryDance.ogg",
+    "tt_s_ara_mml_hydrant_victoryDance.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_victoryDance.ogg",
+    "tt_s_ara_dod_trashcan_idleShake.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_idleShake.ogg",
+    "SZ_DD_Underwater.ogg": "phase_6/audio/sfx/SZ_DD_Underwater.ogg",
+    "tt_s_ara_mml_mailbox_fightCheer.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_fightCheer.ogg",
+    "tt_s_ara_mml_mailbox_fightIdle.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_fightIdle.ogg",
+    "tt_s_ara_mml_mailbox_fightBoost.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_fightBoost.ogg",
+    "ttr_tf_ara_ccc_enemy_balloon_pop.ogg": "phase_6/audio/sfx/ttr_tf_ara_ccc_enemy_balloon_pop.ogg",
+    "tt_s_ara_dod_mailbox_idleIntoFight.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleIntoFight.ogg",
+    "AV_swimming.ogg": "phase_6/audio/sfx/AV_swimming.ogg",
+    "tt_s_ara_dod_mailbox_fightBoost.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_fightBoost.ogg",
+    "KART_turboLoop.ogg": "phase_6/audio/sfx/KART_turboLoop.ogg",
+    "tt_s_ara_mml_hydrant_fightBoost.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_fightBoost.ogg",
+    "tt_s_ara_mml_hydrant_idleIntoFight.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_idleIntoFight.ogg",
+    "tt_s_ara_dod_trashcan_fightCheer.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_fightCheer.ogg",
+    "KART_Hitting_Wood_Fence.ogg": "phase_6/audio/sfx/KART_Hitting_Wood_Fence.ogg",
+    "Golf_Sad_Noise_Kicked_Off_Hole.ogg": "phase_6/audio/sfx/Golf_Sad_Noise_Kicked_Off_Hole.ogg",
+    "KART_Hitting_Metal_Fence.ogg": "phase_6/audio/sfx/KART_Hitting_Metal_Fence.ogg",
+    "CC_move.ogg": "phase_6/audio/sfx/CC_move.ogg",
+    "Golf_Moving_Barrier.ogg": "phase_6/audio/sfx/Golf_Moving_Barrier.ogg",
+    "tt_s_ara_mml_mailbox_idleIntoFight.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_idleIntoFight.ogg",
+    "tt_s_ara_dod_trashcan_idleJuggle.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_idleJuggle.ogg",
+    "tt_s_ara_mml_hydrant_fightCheer.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_fightCheer.ogg",
+    "KART_Applause_3.ogg": "phase_6/audio/sfx/KART_Applause_3.ogg",
+    "tt_s_ara_dod_trashcan_idleIntoFight.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_idleIntoFight.ogg",
+    "SZ_DD_waterlap.ogg": "phase_6/audio/sfx/SZ_DD_waterlap.ogg",
+    "Golf_Hit_Ball.ogg": "phase_6/audio/sfx/Golf_Hit_Ball.ogg",
+    "OZ_Geyser_BuildUp_Loop.ogg": "phase_6/audio/sfx/OZ_Geyser_BuildUp_Loop.ogg",
+    "tt_s_ara_dod_mailbox_idleJumpLook.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleJumpLook.ogg",
+    "tt_s_ara_dod_mailbox_idleFlagSpin1.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleFlagSpin1.ogg",
+    "KART_Appear.ogg": "phase_6/audio/sfx/KART_Appear.ogg",
+    "tt_s_ara_mml_trashcan_fightBoost.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_fightBoost.ogg",
+    "tt_s_ara_dod_mailbox_victoryDance.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_victoryDance.ogg",
+    "Golf_Ball_Goes_In_Start.ogg": "phase_6/audio/sfx/Golf_Ball_Goes_In_Start.ogg",
+    "KART_Engine_start_1.ogg": "phase_6/audio/sfx/KART_Engine_start_1.ogg",
+    "tt_s_ara_mml_mailbox_fightSad.ogg": "phase_6/audio/sfx/tt_s_ara_mml_mailbox_fightSad.ogg",
+    "KART_tossBanana.ogg": "phase_6/audio/sfx/KART_tossBanana.ogg",
+    "tt_s_ara_dod_mailbox_idleJump.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleJump.ogg",
+    "KART_Skidding_On_Asphalt.ogg": "phase_6/audio/sfx/KART_Skidding_On_Asphalt.ogg",
+    "tt_s_ara_dod_trashcan_fightIdle.ogg": "phase_6/audio/sfx/tt_s_ara_dod_trashcan_fightIdle.ogg",
+    "KART_getGag.ogg": "phase_6/audio/sfx/KART_getGag.ogg",
+    "tt_s_ara_dod_mailbox_idleStruggle.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleStruggle.ogg",
+    "ttr_tf_ara_ww_minigame_token.ogg": "phase_6/audio/sfx/ttr_tf_ara_ww_minigame_token.ogg",
+    "tt_s_ara_dod_mailbox_fightCheer.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_fightCheer.ogg",
+    "Golf_Crowd_Buildup.ogg": "phase_6/audio/sfx/Golf_Crowd_Buildup.ogg",
+    "tt_s_ara_dod_mailbox_fightIdle.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_fightIdle.ogg",
+    "KART_Engine_start_0.ogg": "phase_6/audio/sfx/KART_Engine_start_0.ogg",
+    "KART_Hitting_Wall.ogg": "phase_6/audio/sfx/KART_Hitting_Wall.ogg",
+    "tt_s_ara_mml_trashcan_idleHelicopter.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_idleHelicopter.ogg",
+    "Golf_Hole_In_One.ogg": "phase_6/audio/sfx/Golf_Hole_In_One.ogg",
+    "KART_raceStart2.ogg": "phase_6/audio/sfx/KART_raceStart2.ogg",
+    "tt_s_ara_mml_trashcan_idleIntoFight.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_idleIntoFight.ogg",
+    "tt_s_ara_mml_trashcan_idleJumpJuggle.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_idleJumpJuggle.ogg",
+    "SZ_MM_gliss.ogg": "phase_6/audio/sfx/SZ_MM_gliss.ogg",
+    "tt_s_ara_mml_hydrant_idleDance3.ogg": "phase_6/audio/sfx/tt_s_ara_mml_hydrant_idleDance3.ogg",
+    "tt_s_ara_dod_mailbox_idleFlagSpin2.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleFlagSpin2.ogg",
+    "Golf_Ball_Goes_In_Loop.ogg": "phase_6/audio/sfx/Golf_Ball_Goes_In_Loop.ogg",
+    "tt_s_ara_mml_trashcan_fightSad.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_fightSad.ogg",
+    "tt_s_ara_mml_trashcan_fightCheer1.ogg": "phase_6/audio/sfx/tt_s_ara_mml_trashcan_fightCheer1.ogg",
+    "Golf_Hit_Barrier_3.ogg": "phase_6/audio/sfx/Golf_Hit_Barrier_3.ogg",
+    "KART_Hitting_Wood_Fence_1.ogg": "phase_6/audio/sfx/KART_Hitting_Wood_Fence_1.ogg",
+    "KART_Engine_start_2.ogg": "phase_6/audio/sfx/KART_Engine_start_2.ogg",
+    "tt_s_ara_dod_mailbox_idleJumpSummersault.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleJumpSummersault.ogg",
+    "OZ_Geyser.ogg": "phase_6/audio/sfx/OZ_Geyser.ogg",
+    "tt_s_ara_dod_mailbox_idleJumpSummersaults.ogg": "phase_6/audio/sfx/tt_s_ara_dod_mailbox_idleJumpSummersaults.ogg",
+    "Golf_Ball_Rest_In_Cup.ogg": "phase_6/audio/sfx/Golf_Ball_Rest_In_Cup.ogg",
+    "KART_Applause_4.ogg": "phase_6/audio/sfx/KART_Applause_4.ogg",
+    "KART_Gag_Hit_Anvil.ogg": "phase_6/audio/sfx/KART_Gag_Hit_Anvil.ogg",
+    "dale.ogg": "phase_6/audio/dial/dale.ogg",
+    "goofy.ogg": "phase_6/audio/dial/goofy.ogg",
+    "ChipDale.ogg": "phase_6/audio/dial/ChipDale.ogg",
+    "donald.ogg": "phase_6/audio/dial/donald.ogg",
+    "chip.ogg": "phase_6/audio/dial/chip.ogg"
+  },
+  "sound_tracks": {
+    "Throw": {
+      "hit": [
+        "AA_tart_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_wholepie_only.ogg",
+        "AA_wholepie_only.ogg"
+      ],
+      "miss": [
+        "AA_tart_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_slice_only.ogg",
+        "AA_wholepie_only.ogg",
+        "AA_wholepie_only.ogg"
+      ]
+    },
+    "Squirt": {
+      "hit": [
+        "AA_squirt_flowersquirt.ogg",
+        "AA_squirt_glasswater.ogg",
+        "AA_squirt_neonwatergun.ogg",
+        "AA_squirt_seltzer.ogg",
+        "firehose_spray.ogg",
+        "AA_throw_stormcloud.ogg",
+        "AA_squirt_Geyser.ogg"
+      ],
+      "miss": [
+        "AA_squirt_flowersquirt_miss.ogg",
+        "AA_squirt_glasswater_miss.ogg",
+        "AA_squirt_neonwatergun_miss.ogg",
+        "AA_squirt_seltzer_miss.ogg",
+        "firehose_spray.ogg",
+        "AA_throw_stormcloud_miss.ogg",
+        "AA_squirt_Geyser.ogg"
+      ]
+    },
+    "Sound": {
+      "hit": [
+        "AA_sound_bikehorn.ogg",
+        "AA_sound_whistle.ogg",
+        "AA_sound_bugle.ogg",
+        "AA_sound_aoogah.ogg",
+        "AA_sound_elephant.ogg",
+        "SZ_DD_foghorn.ogg",
+        "AA_sound_Opera_Singer.ogg"
+      ],
+      "miss": [
+        "AA_sound_bikehorn.ogg",
+        "AA_sound_whistle.ogg",
+        "AA_sound_bugle.ogg",
+        "AA_sound_aoogah.ogg",
+        "AA_sound_elephant.ogg",
+        "SZ_DD_foghorn.ogg",
+        "AA_sound_Opera_Singer.ogg"
+      ]
+    },
+    "Drop": {
+      "hit": [
+        "AA_drop_flowerpot.ogg",
+        "AA_drop_sandbag.ogg",
+        "AA_drop_anvil.ogg",
+        "AA_drop_bigweight.ogg",
+        "AA_drop_safe.ogg",
+        "AA_drop_piano.ogg",
+        "AA_drop_boat.ogg"
+      ],
+      "miss": [
+        "AA_drop_flowerpot_miss.ogg",
+        "AA_drop_sandbag_miss.ogg",
+        "AA_drop_anvil_miss.ogg",
+        "AA_drop_bigweight_miss.ogg",
+        "AA_drop_safe_miss.ogg",
+        "AA_drop_piano_miss.ogg",
+        "AA_drop_boat_miss.ogg"
+      ]
+    },
+    "Toon-Up": {
+      "hit": [
+        "AA_heal_tickle.ogg",
+        "AA_heal_telljoke.ogg",
+        "AA_heal_smooch.ogg",
+        "AA_heal_happydance.ogg",
+        "AA_heal_pixiedust.ogg",
+        "AA_heal_juggle.ogg",
+        "AA_heal_High_Dive.ogg"
+      ],
+      "miss": [
+        "AA_heal_tickle.ogg",
+        "AA_heal_telljoke.ogg",
+        "AA_heal_smooch.ogg",
+        "AA_heal_happydance.ogg",
+        "AA_heal_pixiedust.ogg",
+        "AA_heal_juggle.ogg",
+        "AA_heal_High_Dive.ogg"
+      ]
+    },
+    "Lure": {
+      "hit": [
+        "TL_fishing_pole.ogg",
+        "TL_small_magnet.ogg",
+        "TL_fishing_pole.ogg",
+        "TL_large_magnet.ogg",
+        "TL_fishing_pole.ogg",
+        "TL_hypnotize.ogg",
+        "TL_hypnotize.ogg"
+      ]
+    },
+    "Trap": {
+      "hit": [
+        "TL_banana.ogg",
+        "TL_rake_throw_only.ogg",
+        "TL_marbles.ogg",
+        "TL_quicksand.ogg",
+        "TL_trap_door.ogg",
+        "TL_dynamite.ogg",
+        "TL_train_track_appear.ogg"
+      ]
+    }
+  },
+  "cog_sounds": {
+    "suitattack": [],
+    "default": [],
+    "clipontie": [
+      "SA_powertie_throw.ogg"
+    ],
+    "poundkey": [
+      "SA_hangup.ogg"
+    ],
+    "shred": [
+      "SA_shred.ogg"
+    ],
+    "fillwithlead": [],
+    "fountainpen": [
+      "SA_fountain_pen.ogg"
+    ],
+    "rubout": [
+      "SA_rubout.ogg"
+    ],
+    "fingerwag": [
+      "SA_finger_wag.ogg"
+    ],
+    "writeoff": [
+      "SA_writeoff_pen_only.ogg",
+      "SA_writeoff_ding_only.ogg"
+    ],
+    "rubberstamp": [
+      "SA_rubber_stamp.ogg"
+    ],
+    "razzledazzle": [
+      "SA_razzle_dazzle.ogg"
+    ],
+    "synergy": [
+      "SA_synergy.ogg",
+      "Toon_bodyfall_synergy.ogg"
+    ],
+    "teeoff": [
+      "SA_tee_off.ogg"
+    ],
+    "brainstorm": [
+      "SA_brainstorm.ogg"
+    ],
+    "buzzword": [
+      "SA_buzz_word.ogg"
+    ],
+    "demotion": [
+      "SA_demotion.ogg"
+    ],
+    "canned": [
+      "SA_canned_tossup_only.ogg",
+      "SA_canned_impact_only.ogg"
+    ],
+    "downsize": [],
+    "pinkslip": [
+      "SA_pink_slip.ogg"
+    ],
+    "reorg": [],
+    "sacked": [],
+    "glowerpower": [
+      "SA_glower_power.ogg"
+    ],
+    "halfwindsor": [],
+    "headshrink": [
+      "SA_head_shrink_only.ogg",
+      "SA_head_grow_back_only.ogg"
+    ],
+    "rolodex": [
+      "SA_rolodex.ogg"
+    ],
+    "evileye": [
+      "SA_evil_eye.ogg"
+    ],
+    "playhardball": [
+      "SA_hardball_impact_only.ogg",
+      "SA_hardball.ogg"
+    ],
+    "powertie": [
+      "SA_powertie_throw.ogg",
+      "SA_powertie_impact.ogg"
+    ],
+    "doubletalk": [
+      "SA_filibuster.ogg"
+    ],
+    "freezeassets": [],
+    "hotair": [
+      "SA_hot_air.ogg"
+    ],
+    "pickpocket": [
+      "SA_pick_pocket.ogg"
+    ],
+    "filibuster": [
+      "SA_filibuster.ogg"
+    ],
+    "schmooze": [],
+    "quake": [],
+    "shake": [],
+    "tremor": [
+      "SA_tremor.ogg"
+    ],
+    "hangup": [
+      "SA_hangup.ogg"
+    ],
+    "redtape": [
+      "SA_red_tape.ogg"
+    ],
+    "paradigmshift": [
+      "SA_paradigm_shift.ogg"
+    ],
+    "powertrip": [],
+    "bouncecheck": [
+      "SA_pink_slip.ogg"
+    ],
+    "watercooler": [
+      "SA_watercooler_appear_only.ogg",
+      "SA_watercooler_spray_only.ogg"
+    ],
+    "fired": [
+      "SA_hot_air.ogg"
+    ],
+    "audit": [
+      "SA_audit.ogg"
+    ],
+    "calculate": [],
+    "tabulate": [],
+    "crunch": [],
+    "liquidate": [
+      "SA_liquidate.ogg"
+    ],
+    "marketcrash": [],
+    "bite": [],
+    "chomp": [],
+    "evictionnotice": [],
+    "withdrawal": [
+      "SA_withdrawl.ogg"
+    ],
+    "jargon": [
+      "SA_jargon.ogg"
+    ],
+    "mumbojumbo": [
+      "SA_mumbo_jumbo.ogg"
+    ],
+    "guilttrip": [
+      "SA_guilt_trip.ogg"
+    ],
+    "restrainingorder": [],
+    "spin": [],
+    "legalese": [],
+    "peckingorder": [],
+    "closetheloop": [
+      "SA_finger_wag.ogg"
+    ],
+    "hostiletakeover": [
+      "SA_glower_power.ogg"
+    ],
+    "quash": [
+      "SA_rubber_stamp.ogg"
+    ],
+    "nickelanddime": [
+      "SA_pick_pocket.ogg"
+    ],
+    "moneytalks": [],
+    "embezzle": [
+      "ttr_s_ene_bat_embezzle.ogg"
+    ],
+    "beguile": [
+      "ttr_s_ene_bat_beguile.ogg"
+    ]
+  },
+  "compatibility_attacks": {
+    "closetheloop": "fingerwag",
+    "hostiletakeover": "glowerpower",
+    "quash": "rubberstamp",
+    "nickelanddime": "pickpocket",
+    "moneytalks": "schmooze"
+  },
+  "dodges": {
+    "suitattack": "sidestep-left",
+    "default": "sidestep-left",
+    "clipontie": "sidestep-left",
+    "poundkey": "sidestep-left",
+    "shred": "sidestep-left",
+    "fillwithlead": "sidestep-left",
+    "fountainpen": "duck",
+    "rubout": "jump",
+    "fingerwag": "sidestep-left",
+    "writeoff": "sidestep-left",
+    "rubberstamp": "sidestep-left",
+    "razzledazzle": "sidestep-left",
+    "synergy": "sidestep-left",
+    "teeoff": "duck",
+    "brainstorm": "sidestep-left",
+    "buzzword": "sidestep-left",
+    "demotion": "duck",
+    "canned": "sidestep-left",
+    "downsize": "sidestep-left",
+    "pinkslip": "jump",
+    "reorg": "duck",
+    "sacked": "sidestep-left",
+    "glowerpower": "sidestep-left",
+    "halfwindsor": "sidestep-left",
+    "headshrink": "sidestep-left",
+    "rolodex": "sidestep-left",
+    "evileye": "duck",
+    "playhardball": "sidestep-left",
+    "powertie": "sidestep-left",
+    "doubletalk": "duck",
+    "freezeassets": "sidestep-left",
+    "hotair": "sidestep-left",
+    "pickpocket": "sidestep-left",
+    "filibuster": "sidestep-left",
+    "schmooze": "sidestep-left",
+    "quake": "jump",
+    "shake": "jump",
+    "tremor": "jump",
+    "hangup": "jump",
+    "redtape": "jump",
+    "paradigmshift": "sidestep-left",
+    "powertrip": "jump",
+    "bouncecheck": "sidestep-left",
+    "watercooler": "sidestep-left",
+    "fired": "sidestep-left",
+    "audit": "duck",
+    "calculate": "sidestep-left",
+    "tabulate": "sidestep-left",
+    "crunch": "sidestep-left",
+    "liquidate": "sidestep-left",
+    "marketcrash": "sidestep-left",
+    "bite": "cringe",
+    "chomp": "jump",
+    "evictionnotice": "jump",
+    "withdrawal": "duck",
+    "jargon": "duck",
+    "mumbojumbo": "sidestep-left",
+    "guilttrip": "jump",
+    "restrainingorder": "sidestep-left",
+    "spin": "sidestep-left",
+    "legalese": "sidestep-left",
+    "peckingorder": "sidestep-left",
+    "closetheloop": "sidestep-left",
+    "hostiletakeover": "sidestep-left",
+    "quash": "sidestep-left",
+    "nickelanddime": "sidestep-left",
+    "moneytalks": "sidestep-left",
+    "embezzle": "jump",
+    "beguile": "duck"
+  },
+  "attack_timing": {
+    "poundkey": {
+      "impact": 2.7,
+      "reaction": "cringe",
+      "dodge_at": 1.9,
+      "dodge": "sidestep-left"
+    },
+    "rubout": {
+      "impact": 2.2,
+      "reaction": "conked",
+      "dodge_at": 2.0,
+      "dodge": "jump"
+    },
+    "writeoff": {
+      "impact": 3.4,
+      "reaction": "slip-forward",
+      "dodge_at": 2.4,
+      "dodge": "sidestep-left"
+    },
+    "rubberstamp": {
+      "impact": 3.4,
+      "reaction": "conked",
+      "dodge_at": 1.9,
+      "dodge": "sidestep-left"
+    },
+    "razzledazzle": {
+      "impact": 2.6,
+      "reaction": "cringe",
+      "dodge_at": 1.9,
+      "dodge": "sidestep-left"
+    },
+    "pickpocket": {
+      "impact": 0.6,
+      "reaction": "cringe",
+      "dodge_at": 0.01,
+      "dodge": "sidestep-left"
+    },
+    "hangup": {
+      "impact": 5.5,
+      "reaction": "slip-backward",
+      "dodge_at": 4.7,
+      "dodge": "jump"
+    },
+    "redtape": {
+      "impact": 3.4,
+      "reaction": "struggle",
+      "dodge_at": 2.8,
+      "dodge": "jump"
+    },
+    "powertrip": {
+      "impact": 1.8,
+      "reaction": "slip-forward",
+      "dodge_at": 1.29,
+      "dodge": "jump"
+    },
+    "audit": {
+      "impact": 3.2,
+      "reaction": "conked",
+      "dodge_at": 0.9,
+      "dodge": "duck"
+    },
+    "calculate": {
+      "impact": 3.2,
+      "reaction": "conked",
+      "dodge_at": 1.8,
+      "dodge": "sidestep-left"
+    },
+    "tabulate": {
+      "impact": 3.2,
+      "reaction": "conked",
+      "dodge_at": 1.8,
+      "dodge": "sidestep-left"
+    },
+    "evictionnotice": {
+      "impact": 3.4,
+      "reaction": "conked",
+      "dodge_at": 2.8,
+      "dodge": "jump"
+    },
+    "mumbojumbo": {
+      "impact": 3.2,
+      "reaction": "cringe",
+      "dodge_at": 2.2,
+      "dodge": "sidestep-left"
+    },
+    "guilttrip": {
+      "impact": 1.5,
+      "reaction": "slip-forward",
+      "dodge_at": 0.86,
+      "dodge": "jump"
+    }
+  }
+}

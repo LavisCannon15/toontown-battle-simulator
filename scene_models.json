@@ -1,0 +1,264 @@
+{
+  "Flunky": {
+    "body": "C",
+    "heads": [
+      "flunky",
+      "glasses"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Pencil Pusher": {
+    "body": "B",
+    "heads": [
+      "pencilpusher"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Yesman": {
+    "body": "A",
+    "heads": [
+      "yesman"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Micromanager": {
+    "body": "C",
+    "heads": [
+      "micromanager"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Downsizer": {
+    "body": "B",
+    "heads": [
+      "beancounter"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Head Hunter": {
+    "body": "A",
+    "heads": [
+      "headhunter"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Corporate Raider": {
+    "body": "C",
+    "heads": [
+      "flunky"
+    ],
+    "texture": "corporate-raider.jpg",
+    "tint": null
+  },
+  "The Big Cheese": {
+    "body": "A",
+    "heads": [
+      "bigcheese"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Bottom Feeder": {
+    "body": "C",
+    "heads": [
+      "tightwad"
+    ],
+    "texture": "bottom-feeder.jpg",
+    "tint": null
+  },
+  "Bloodsucker": {
+    "body": "B",
+    "heads": [
+      "movershaker"
+    ],
+    "texture": "blood-sucker.jpg",
+    "tint": null
+  },
+  "Double Talker": {
+    "body": "A",
+    "heads": [
+      "twoface"
+    ],
+    "texture": "double-talker.jpg",
+    "tint": null
+  },
+  "Ambulance Chaser": {
+    "body": "B",
+    "heads": [
+      "ambulancechaser"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Back Stabber": {
+    "body": "A",
+    "heads": [
+      "backstabber"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Spin Doctor": {
+    "body": "B",
+    "heads": [
+      "telemarketer"
+    ],
+    "texture": "spin-doctor.jpg",
+    "tint": null
+  },
+  "Legal Eagle": {
+    "body": "A",
+    "heads": [
+      "legaleagle"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Big Wig": {
+    "body": "A",
+    "heads": [
+      "bigwig"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Short Change": {
+    "body": "C",
+    "heads": [
+      "coldcaller"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Penny Pincher": {
+    "body": "A",
+    "heads": [
+      "pennypincher"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Tightwad": {
+    "body": "C",
+    "heads": [
+      "tightwad"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Bean Counter": {
+    "body": "B",
+    "heads": [
+      "beancounter"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Number Cruncher": {
+    "body": "A",
+    "heads": [
+      "numbercruncher"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Money Bags": {
+    "body": "C",
+    "heads": [
+      "moneybags"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Loan Shark": {
+    "body": "B",
+    "heads": [
+      "loanshark"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Robber Baron": {
+    "body": "A",
+    "heads": [
+      "yesman"
+    ],
+    "texture": "robber-baron.jpg",
+    "tint": null
+  },
+  "Cold Caller": {
+    "body": "C",
+    "heads": [
+      "coldcaller"
+    ],
+    "texture": null,
+    "tint": [
+      0.25,
+      0.35,
+      1,
+      1
+    ]
+  },
+  "Telemarketer": {
+    "body": "B",
+    "heads": [
+      "telemarketer"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Name Dropper": {
+    "body": "A",
+    "heads": [
+      "numbercruncher"
+    ],
+    "texture": "name-dropper.jpg",
+    "tint": null
+  },
+  "Glad Hander": {
+    "body": "C",
+    "heads": [
+      "gladhander"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Mover & Shaker": {
+    "body": "B",
+    "heads": [
+      "movershaker"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "Two-Face": {
+    "body": "A",
+    "heads": [
+      "twoface"
+    ],
+    "texture": null,
+    "tint": null
+  },
+  "The Mingler": {
+    "body": "A",
+    "heads": [
+      "twoface"
+    ],
+    "texture": "mingler.jpg",
+    "tint": null
+  },
+  "Mr. Hollywood": {
+    "body": "A",
+    "heads": [
+      "yesman"
+    ],
+    "texture": null,
+    "tint": null
+  }
+}

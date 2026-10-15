@@ -1,0 +1,60 @@
+from pathlib import Path
+import sys
+from panda3d.core import loadPrcFileData,Filename,NodePath,OrthographicLens,PNMImage,AmbientLight,DirectionalLight,Vec4,TransparencyAttrib
+from direct.showbase.ShowBase import ShowBase
+ROOT=Path(__file__).resolve().parents[1]
+SOURCE=ROOT/'work/reference-assets'; OUT=ROOT/'assets'; OUT.mkdir(exist_ok=True)
+loadPrcFileData('', 'window-type offscreen\nwin-size 256 256\naudio-library-name null\nframebuffer-alpha true\nbackground-color 0 0 0 0\nnotify-level warning\n')
+base=ShowBase(windowType='offscreen')
+base.setBackgroundColor(0,0,0,0)
+base.cam.node().setLens(OrthographicLens())
+base.cam.node().getLens().setFilmSize(2,2)
+base.cam.setPos(0,-10,0);base.cam.lookAt(0,0,0)
+
+def save(node,name,size=80,flat=True):
+    wrapper=base.render.attachNewNode('asset')
+    obj=node.copyTo(wrapper)
+    obj.setTransparency(TransparencyAttrib.MAlpha)
+    if flat:
+        obj.setLightOff()
+        obj.setDepthTest(False)
+        obj.setDepthWrite(False)
+        obj.setTwoSided(True)
+    else:
+        obj.setH(180)
+        ambient=AmbientLight('ambient');ambient.setColor((.8,.8,.8,1))
+        wrapper.setLight(wrapper.attachNewNode(ambient))
+        light=DirectionalLight('key');light.setColor((.5,.5,.5,1))
+        ln=wrapper.attachNewNode(light);ln.setHpr(-30,-30,0);wrapper.setLight(ln)
+    lo,hi=obj.getTightBounds(wrapper)
+    center=(lo+hi)*.5
+    scale=1.75/max(hi.x-lo.x,hi.z-lo.z)
+    obj.setPos(-center)
+    wrapper.setScale(scale)
+    for _ in range(3):base.graphicsEngine.renderFrame()
+    pnm=PNMImage();base.win.getScreenshot(pnm)
+    scaled=PNMImage(size,size,4);scaled.quickFilterFrom(pnm)
+    scaled.write(Filename.fromOsSpecific(str(OUT/(name+'.png'))))
+    wrapper.removeNode()
+
+inventory=base.loader.loadModel(Filename.fromOsSpecific(str(SOURCE/'phase_3.5/models/gui/inventory_icons.bam')))
+for node in inventory.findAllMatches('**/+GeomNode'):
+    save(node,node.name,64)
+print('Rendered gag icons:',len(list(OUT.glob('inventory*.png'))))
+heads=base.loader.loadModel(Filename.fromOsSpecific(str(SOURCE/'phase_4/models/char/suitA-heads.bam')))
+for name in ('bigwig','bigcheese','yesman'):
+    save(heads.find('**/'+name),'cog_'+name,128,False)
+# Robber Baron uses the Yesman mesh with a different texture.
+baron=heads.find('**/yesman').copyTo(NodePath('baron'))
+texture=base.loader.loadTexture(Filename.fromOsSpecific(str(SOURCE/'phase_4/maps/robber-baron.jpg')))
+baron.setTexture(texture,1)
+save(baron,'cog_robberbaron',128,False)
+laff=base.loader.loadModel(Filename.fromOsSpecific(str(SOURCE/'phase_3/models/gui/laff_o_meter.bam')))
+for species,color in [('cat',(.35,.7,.9,1)),('dog',(.9,.6,.25,1)),('bunny',(.75,.45,.85,1)),('mouse',(.35,.75,.5,1))]:
+    combined=NodePath('face')
+    head=laff.find('**/'+species+'head').copyTo(combined)
+    head.setColorScale(*color)
+    laff.find('**/eyes').copyTo(combined).setColorScale(.05,.05,.05,1)
+    laff.find('**/smile').copyTo(combined).setColorScale(.05,.05,.05,1)
+    save(combined,'toon_'+species,64)
+base.destroy()

@@ -1,0 +1,302 @@
+{
+  "SOS: Madam Chuckle": {
+    "dna": "cll",
+    "color": [
+      0.460938,
+      0.378906,
+      0.824219,
+      1.0
+    ],
+    "model": "phase_3/models/char/cat-heads-1000.bam"
+  },
+  "SOS: Daffy Don": {
+    "dna": "mls",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Flippy": {
+    "dna": "dss",
+    "color": [
+      0.347656,
+      0.820312,
+      0.953125,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Clerk Will": {
+    "dna": "rss",
+    "color": [
+      0.996094,
+      0.898438,
+      0.320312,
+      1.0
+    ],
+    "model": "phase_3/models/char/rabbit-heads-1000.bam"
+  },
+  "SOS: Clerk Penny": {
+    "dna": "fls",
+    "color": [
+      0.855469,
+      0.933594,
+      0.492188,
+      1.0
+    ],
+    "model": "phase_3/models/char/duck-heads-1000.bam"
+  },
+  "SOS: Clerk Clara": {
+    "dna": "rll",
+    "color": [
+      0.933594,
+      0.265625,
+      0.28125,
+      1.0
+    ],
+    "model": "phase_3/models/char/rabbit-heads-1000.bam"
+  },
+  "SOS: Stinky Ned": {
+    "dna": "fll",
+    "color": [
+      0.640625,
+      0.355469,
+      0.269531,
+      1.0
+    ],
+    "model": "phase_3/models/char/duck-heads-1000.bam"
+  },
+  "SOS: Nancy Gas": {
+    "dna": "fls",
+    "color": [
+      0.832031,
+      0.5,
+      0.296875,
+      1.0
+    ],
+    "model": "phase_3/models/char/duck-heads-1000.bam"
+  },
+  "SOS: Lil Oldman": {
+    "dna": "rll",
+    "color": [
+      0.460938,
+      0.378906,
+      0.824219,
+      1.0
+    ],
+    "model": "phase_3/models/char/rabbit-heads-1000.bam"
+  },
+  "SOS: Barbara Seville": {
+    "dna": "cll",
+    "color": [
+      0.726562,
+      0.472656,
+      0.859375,
+      1.0
+    ],
+    "model": "phase_3/models/char/cat-heads-1000.bam"
+  },
+  "SOS: Sid Sonata": {
+    "dna": "cls",
+    "color": [
+      0.558594,
+      0.589844,
+      0.875,
+      1.0
+    ],
+    "model": "phase_3/models/char/cat-heads-1000.bam"
+  },
+  "SOS: Moe Zart": {
+    "dna": "dss",
+    "color": [
+      0.242188,
+      0.742188,
+      0.515625,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Clumsy Ned": {
+    "dna": "mls",
+    "color": [
+      0.855469,
+      0.933594,
+      0.492188,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Franz Neckvein": {
+    "dna": "mss",
+    "color": [
+      0.996094,
+      0.695312,
+      0.511719,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Barnacle Bessie": {
+    "dna": "fsl",
+    "color": [
+      0.550781,
+      0.824219,
+      0.324219,
+      1.0
+    ],
+    "model": "phase_3/models/char/duck-heads-1000.bam"
+  },
+  "SOS: Soggy Bottom": {
+    "dna": "hll",
+    "color": [
+      0.460938,
+      0.378906,
+      0.824219,
+      1.0
+    ],
+    "model": "phase_3/models/char/horse-heads-1000.bam"
+  },
+  "SOS: Soggy Nell": {
+    "dna": "dll",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Sticky Lou": {
+    "dna": "mls",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Flim Flam": {
+    "dna": "dss",
+    "color": [
+      0.433594,
+      0.90625,
+      0.835938,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Mr. Freeze": {
+    "dna": "dls",
+    "color": [
+      0.855469,
+      0.933594,
+      0.492188,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Julius Wheezer": {
+    "dna": "mls",
+    "color": [
+      0.191406,
+      0.5625,
+      0.773438,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Professor Guffaw": {
+    "dna": "dls",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/tt_a_chr_dgm_shorts_head_1000.bam"
+  },
+  "SOS: Clerk Ray": {
+    "dna": "rls",
+    "color": [
+      0.855469,
+      0.933594,
+      0.492188,
+      1.0
+    ],
+    "model": "phase_3/models/char/rabbit-heads-1000.bam"
+  },
+  "SOS: Doctor Drift": {
+    "dna": "hsl",
+    "color": [
+      0.242188,
+      0.742188,
+      0.515625,
+      1.0
+    ],
+    "model": "phase_3/models/char/horse-heads-1000.bam"
+  },
+  "SOS: Melody Wavers": {
+    "dna": "rls",
+    "color": [
+      0.242188,
+      0.742188,
+      0.515625,
+      1.0
+    ],
+    "model": "phase_3/models/char/rabbit-heads-1000.bam"
+  },
+  "SOS: Baker Bridget": {
+    "dna": "mls",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Sofie Squirt": {
+    "dna": "fll",
+    "color": [
+      0.242188,
+      0.742188,
+      0.515625,
+      1.0
+    ],
+    "model": "phase_3/models/char/duck-heads-1000.bam"
+  },
+  "SOS: Shelly Seaweed": {
+    "dna": "mls",
+    "color": [
+      0.710938,
+      0.234375,
+      0.4375,
+      1.0
+    ],
+    "model": "phase_3/models/char/mouse-heads-1000.bam"
+  },
+  "SOS: Professor Pete": {
+    "dna": "cll",
+    "color": [
+      0.191406,
+      0.5625,
+      0.773438,
+      1.0
+    ],
+    "model": "phase_3/models/char/cat-heads-1000.bam"
+  },
+  "SOS: Lord Lowden Clear": {
+    "dna": "dss",
+    "color": [
+      0.98,
+      0.1,
+      0.1,
+      1
+    ],
+    "model": "ttr_r_chr_avt_dog.bam"
+  }
+}

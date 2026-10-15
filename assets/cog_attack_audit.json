@@ -1,0 +1,6099 @@
+{
+  "Flunky|Pound Key": {
+    "source_function": "doPoundKey",
+    "source_line": 815,
+    "props": [
+      {
+        "name": "phone",
+        "parent": "left",
+        "pos": [
+          0.23,
+          0.17,
+          -0.11
+        ],
+        "hpr": [
+          5.939,
+          2.763,
+          -177.591
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "receiver",
+        "parent": "left",
+        "pos": [
+          0.23,
+          0.17,
+          -0.11
+        ],
+        "hpr": [
+          5.939,
+          2.763,
+          -177.591
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_hangup.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "PoundKey",
+        "texture": "poundsign",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.55,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Flunky|Shred": {
+    "source_function": "doShred",
+    "source_line": 833,
+    "props": [
+      {
+        "name": "shredder-paper",
+        "parent": "right",
+        "pos": [
+          0.59,
+          -0.31,
+          0.81
+        ],
+        "hpr": [
+          79.224,
+          32.576,
+          -179.449
+        ],
+        "delay": 2.4,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "shredder",
+        "parent": "left",
+        "pos": [
+          0,
+          -0.12,
+          -0.34
+        ],
+        "hpr": [
+          -90.0,
+          -53.77,
+          -0.0
+        ],
+        "delay": 1,
+        "scale": [
+          4.81,
+          4.81,
+          4.81
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_shred.ogg",
+        "delay": 3.4
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Shred",
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": -1.0999999999999979,
+      "duration": 0.9999999999999998
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -3.099999999999998,
+      "duration": 0.9999999999999998
+    },
+    "dodge": "sidestep"
+  },
+  "Flunky|Clip on Tie": {
+    "source_function": "doClipOnTie",
+    "source_line": 781,
+    "props": [
+      {
+        "name": "clip-on-tie",
+        "parent": "right",
+        "pos": [
+          0.66,
+          0.51,
+          0.28
+        ],
+        "hpr": [
+          -69.652,
+          -17.199,
+          67.96
+        ],
+        "delay": 0.5,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_powertie_throw.ogg",
+        "delay": 2.45
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.61,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.34,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Pencil Pusher|Fountain Pen": {
+    "source_function": "doFountainPen",
+    "source_line": 944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_fountain_pen.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:penSpill",
+        "delay": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.7,
+          "duration": 0.0
+        },
+        "parent": {
+          "prop": "pen"
+        }
+      }
+    ],
+    "impact": {
+      "offset": 1.81,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.11,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Pencil Pusher|Rub Out": {
+    "source_function": "doRubOut",
+    "source_line": 1002,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.66,
+          0.81,
+          -0.06
+        ],
+        "hpr": [
+          14.93,
+          -2.29,
+          180.0
+        ],
+        "delay": 0.5,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "pencil",
+        "parent": "right",
+        "pos": [
+          0.04,
+          -0.38,
+          -0.1
+        ],
+        "hpr": [
+          -170.223,
+          -3.762,
+          -62.929
+        ],
+        "delay": 0.5,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rubout.ogg",
+        "delay": 1.7
+      }
+    ],
+    "particles": [
+      {
+        "effect": "RubOut",
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.5,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "RubOut",
+        "delay": {
+          "offset": 3.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.5,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "RubOut",
+        "delay": {
+          "offset": 4.7,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.5,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 2.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.0,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Pencil Pusher|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Pencil Pusher|Write Off": {
+    "source_function": "doWriteOff",
+    "source_line": 1115,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.25,
+          1.38,
+          -0.08
+        ],
+        "hpr": [
+          -19.078,
+          -6.603,
+          -171.594
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.89,
+          1.89,
+          1.89
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Pencil Pusher|Fill With Lead": {
+    "source_function": "doFillWithLead",
+    "source_line": 850,
+    "props": [
+      {
+        "name": "pencil",
+        "parent": "right",
+        "pos": [
+          -0.29,
+          -0.33,
+          -0.13
+        ],
+        "hpr": [
+          160.565,
+          -11.653,
+          -169.244
+        ],
+        "delay": 0.7,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "sharpener",
+        "parent": "left",
+        "pos": [
+          0.0,
+          0.0,
+          -0.03
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "delay": 1.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:fillWithLeadSpray",
+        "texture": "roll-o-dex",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:fillWithLeadSmother",
+        "texture": "roll-o-dex",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:fillWithLeadSmother",
+        "texture": "roll-o-dex",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 4.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:fillWithLeadSmother",
+        "texture": "roll-o-dex",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 4.9,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "dodge_at": {
+      "offset": -3.099999999999998,
+      "duration": 0.9999999999999998
+    },
+    "dodge": "sidestep"
+  },
+  "Yesman|Rubber Stamp": {
+    "source_function": "doRubberStamp",
+    "source_line": 1144,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.65,
+          0.83,
+          -0.04
+        ],
+        "hpr": [
+          5.625,
+          4.456,
+          -165.125
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "rubber-stamp",
+        "parent": "right",
+        "pos": [
+          -0.64,
+          -0.17,
+          -0.03
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rubber_stamp.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Yesman|Razzle Dazzle": {
+    "source_function": "doRazzleDazzle",
+    "source_line": 1177,
+    "props": [
+      {
+        "name": "smile",
+        "parent": "right",
+        "pos": [
+          0.0,
+          -0.42,
+          -0.04
+        ],
+        "hpr": [
+          105.715,
+          73.977,
+          65.932
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_razzle_dazzle.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Yesman|Synergy": {
+    "source_function": "doSynergy",
+    "source_line": 1200,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Synergy",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:synergyWaterfall",
+        "delay": {
+          "offset": 0.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 0.91,
+      "duration": 0.0
+    }
+  },
+  "Yesman|Tee Off": {
+    "source_function": "doTeeOff",
+    "source_line": 1232,
+    "props": [
+      {
+        "name": "golf-club",
+        "parent": "left",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          63.097,
+          43.988,
+          -18.435
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.1,
+          1.1,
+          1.1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_tee_off.ogg",
+        "delay": 4.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": -2.25,
+      "duration": 1.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -4.35,
+      "duration": 1.0
+    },
+    "dodge": "duck"
+  },
+  "Micromanager|Fountain Pen": {
+    "source_function": "doFountainPen",
+    "source_line": 944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_fountain_pen.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:penSpill",
+        "delay": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.7,
+          "duration": 0.0
+        },
+        "parent": {
+          "prop": "pen"
+        }
+      }
+    ],
+    "impact": {
+      "offset": 1.81,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.11,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Micromanager|Brain Storm": {
+    "source_function": "doBrainStorm",
+    "source_line": 1263,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_brainstorm.ogg",
+        "delay": 2.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "cringe"
+  },
+  "Micromanager|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 2.0,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Micromanager|Buzz Word": {
+    "source_function": "doBuzzWord",
+    "source_line": 1317,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_buzz_word.ogg",
+        "delay": 3.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.5,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge": "duck"
+  },
+  "Micromanager|Demotion": {
+    "source_function": "doDemotion",
+    "source_line": 1373,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_demotion.ogg",
+        "delay": 1.2
+      }
+    ],
+    "particles": [
+      {
+        "effect": "DemotionSpray",
+        "texture": "snow-particle",
+        "delay": {
+          "offset": 0.7,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "DemotionFreeze",
+        "texture": "snow-particle",
+        "delay": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:demotionUnFreeze",
+        "texture": "snow-particle",
+        "delay": {
+          "offset": 6.65,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.5,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 1.0,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Micromanager|Close the Loop": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Downsizer|Pink Slip": {
+    "source_function": "doPinkSlip",
+    "source_line": 1539,
+    "props": [
+      {
+        "name": "pink-slip",
+        "parent": "right",
+        "pos": [
+          0.07,
+          -0.06,
+          -0.18
+        ],
+        "hpr": [
+          -172.075,
+          -26.715,
+          -89.131
+        ],
+        "delay": 0.8,
+        "scale": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.81,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "jump"
+  },
+  "Downsizer|Sacked": {
+    "source_function": "doSacked",
+    "source_line": 1641,
+    "props": [
+      {
+        "name": "sandbag",
+        "parent": "right",
+        "pos": [
+          0.51,
+          -2.03,
+          -0.73
+        ],
+        "hpr": [
+          90.0,
+          -24.98,
+          77.73
+        ],
+        "delay": 0.85,
+        "scale": [
+          0.65,
+          1.47,
+          1.28
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.88,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.0,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "struggle"
+  },
+  "Downsizer|Canned": {
+    "source_function": "doCanned",
+    "source_line": 1411,
+    "props": [
+      {
+        "name": "can",
+        "parent": "right",
+        "pos": [
+          -0.14,
+          0.15,
+          0.08
+        ],
+        "hpr": [
+          -10.584,
+          11.945,
+          -161.684
+        ],
+        "delay": 0.8,
+        "scale": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "dodge_at": {
+      "offset": 3.6,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "struggle"
+  },
+  "Downsizer|Downsize": {
+    "source_function": "doDownsize",
+    "source_line": 1492,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:downsizeSpray",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.28,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:downsizeCloud",
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 2.3,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.6,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Head Hunter|Fountain Pen": {
+    "source_function": "doFountainPen",
+    "source_line": 944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_fountain_pen.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:penSpill",
+        "delay": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.7,
+          "duration": 0.0
+        },
+        "parent": {
+          "prop": "pen"
+        }
+      }
+    ],
+    "impact": {
+      "offset": 1.81,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.11,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Head Hunter|Rolodex": {
+    "source_function": "doRolodex",
+    "source_line": 1874,
+    "props": [
+      {
+        "name": "rollodex",
+        "parent": "left",
+        "pos": [
+          -0.51,
+          -0.03,
+          -0.1
+        ],
+        "hpr": [
+          89.673,
+          2.166,
+          177.786
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.2,
+          1.2,
+          1.2
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rolodex.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:rollodexWaterfall",
+        "delay": {
+          "offset": 2.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:rollodexStream",
+        "delay": {
+          "offset": 3.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.8,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.5,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Head Hunter|Glower Power": {
+    "source_function": "doGlowerPower",
+    "source_line": 1700,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_glower_power.ogg",
+        "delay": 1.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 1.6,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "slip-backward"
+  },
+  "Head Hunter|Half Windsor": {
+    "source_function": "doHalfWindsor",
+    "source_line": 1743,
+    "props": [
+      {
+        "name": "half-windsor",
+        "parent": "right",
+        "pos": [
+          0.02,
+          0.88,
+          0.48
+        ],
+        "hpr": [
+          99,
+          -3,
+          -108.2
+        ],
+        "delay": 0.5,
+        "scale": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "conked"
+  },
+  "Head Hunter|Head Shrink": {
+    "source_function": "doHeadShrink",
+    "source_line": 1773,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:headShrinkSpray",
+        "delay": {
+          "offset": 0.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:headShrinkDrop",
+        "delay": {
+          "offset": 1.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 2.1,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Corporate Raider|Canned": {
+    "source_function": "doCanned",
+    "source_line": 1411,
+    "props": [
+      {
+        "name": "can",
+        "parent": "right",
+        "pos": [
+          -0.14,
+          0.15,
+          0.08
+        ],
+        "hpr": [
+          -10.584,
+          11.945,
+          -161.684
+        ],
+        "delay": 0.8,
+        "scale": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "dodge_at": {
+      "offset": 3.1,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "struggle"
+  },
+  "Corporate Raider|Evil Eye": {
+    "source_function": "doEvilEye",
+    "source_line": 1926,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_evil_eye.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.44,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.64,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Corporate Raider|Play Hardball": {
+    "source_function": "doPlayHardball",
+    "source_line": 1976,
+    "props": [
+      {
+        "name": "baseball",
+        "parent": "right",
+        "pos": [
+          0.04,
+          0.03,
+          -0.31
+        ],
+        "hpr": [
+          -1.152,
+          86.581,
+          -76.784
+        ],
+        "delay": 0.8,
+        "scale": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_hardball_impact_only.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [],
+    "dodge_at": {
+      "offset": 1.86,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "conked"
+  },
+  "Corporate Raider|Power Tie": {
+    "source_function": "doPowerTie",
+    "source_line": 2039,
+    "props": [
+      {
+        "name": "power-tie",
+        "parent": "right",
+        "pos": [
+          1.16,
+          0.24,
+          0.63
+        ],
+        "hpr": [
+          171.561,
+          1.745,
+          -163.443
+        ],
+        "delay": 0.5,
+        "scale": [
+          3.5,
+          3.5,
+          3.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_powertie_throw.ogg",
+        "delay": 2.3
+      },
+      {
+        "file": "SA_powertie_impact.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.61,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.34,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Corporate Raider|Hostile Takeover": {
+    "source_function": null,
+    "source_line": null
+  },
+  "The Big Cheese|Tee Off": {
+    "source_function": "doTeeOff",
+    "source_line": 1232,
+    "props": [
+      {
+        "name": "golf-club",
+        "parent": "left",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          63.097,
+          43.988,
+          -18.435
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.1,
+          1.1,
+          1.1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_tee_off.ogg",
+        "delay": 4.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": -2.25,
+      "duration": 1.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -4.35,
+      "duration": 1.0
+    },
+    "dodge": "duck"
+  },
+  "The Big Cheese|Glower Power": {
+    "source_function": "doGlowerPower",
+    "source_line": 1700,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_glower_power.ogg",
+        "delay": 1.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 1.6,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "slip-backward"
+  },
+  "The Big Cheese|Power Trip": {
+    "source_function": "doPowerTrip",
+    "source_line": 2547,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Waterfall",
+        "delay": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 1.29,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "The Big Cheese|Flood the Market": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Bottom Feeder|Rubber Stamp": {
+    "source_function": "doRubberStamp",
+    "source_line": 1144,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          0.19,
+          -0.55,
+          -0.21
+        ],
+        "hpr": [
+          -166.76,
+          -4.001,
+          -1.658
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "rubber-stamp",
+        "parent": "right",
+        "pos": [
+          -0.64,
+          -0.08,
+          0.11
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rubber_stamp.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bottom Feeder|Shred": {
+    "source_function": "doShred",
+    "source_line": 833,
+    "props": [
+      {
+        "name": "shredder-paper",
+        "parent": "right",
+        "pos": [
+          0.59,
+          -0.31,
+          0.81
+        ],
+        "hpr": [
+          79.224,
+          32.576,
+          -179.449
+        ],
+        "delay": 2.4,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "shredder",
+        "parent": "left",
+        "pos": [
+          0,
+          -0.12,
+          -0.34
+        ],
+        "hpr": [
+          -90.0,
+          -53.77,
+          -0.0
+        ],
+        "delay": 1,
+        "scale": [
+          4.81,
+          4.81,
+          4.81
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_shred.ogg",
+        "delay": 3.4
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Shred",
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": -1.0999999999999979,
+      "duration": 0.9999999999999998
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -3.099999999999998,
+      "duration": 0.9999999999999998
+    },
+    "dodge": "sidestep"
+  },
+  "Bottom Feeder|Watercooler": {
+    "source_function": "doWatercooler",
+    "source_line": 2647,
+    "props": [
+      {
+        "name": "watercooler",
+        "parent": "left",
+        "pos": [
+          0.48,
+          0.11,
+          -0.92
+        ],
+        "hpr": [
+          20.403,
+          33.158,
+          69.511
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": -1.5,
+      "duration": 1.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bottom Feeder|Pick Pocket": {
+    "source_function": "doPickPocket",
+    "source_line": 2232,
+    "props": [
+      {
+        "name": "1dollar",
+        "parent": "right",
+        "pos": [
+          -0.01,
+          0.45,
+          -0.25
+        ],
+        "hpr": [
+          136.424,
+          -46.434,
+          -129.712
+        ],
+        "delay": 0.6,
+        "scale": [
+          1.41,
+          1.41,
+          1.41
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pick_pocket.ogg",
+        "delay": 0.2
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 0.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 0.01,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bloodsucker|Eviction Notice": {
+    "source_function": "doEvictionNotice",
+    "source_line": 3194,
+    "props": [
+      {
+        "name": "shredder-paper",
+        "parent": "right",
+        "pos": [
+          -0.04,
+          0.15,
+          -1.38
+        ],
+        "hpr": [
+          10.584,
+          -11.945,
+          18.316
+        ],
+        "delay": 0.8,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Bloodsucker|Liquidate": {
+    "source_function": "doLiquidate",
+    "source_line": 2944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_liquidate.ogg",
+        "delay": 2.0
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.45,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "melt"
+  },
+  "Bloodsucker|Red Tape": {
+    "source_function": "doRedTape",
+    "source_line": 2406,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_red_tape.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "struggle",
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Bloodsucker|Withdrawal": {
+    "source_function": "doWithdrawal",
+    "source_line": 3213,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_withdrawl.ogg",
+        "delay": 1.4
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Withdrawal",
+        "texture": "snow-particle",
+        "delay": {
+          "offset": 1e-05,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.1999999999999993,
+          "duration": 1.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.2,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 0.2,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Double Talker|Rubber Stamp": {
+    "source_function": "doRubberStamp",
+    "source_line": 1144,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.65,
+          0.83,
+          -0.04
+        ],
+        "hpr": [
+          5.625,
+          4.456,
+          -165.125
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "rubber-stamp",
+        "parent": "right",
+        "pos": [
+          -0.64,
+          -0.17,
+          -0.03
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rubber_stamp.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Double Talker|Bounce Check": {
+    "source_function": "doBounceCheck",
+    "source_line": 2600,
+    "props": [
+      {
+        "name": "bounced-check",
+        "parent": "right",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          95.247,
+          79.025,
+          88.849
+        ],
+        "delay": 1e-05,
+        "scale": [
+          8.5,
+          8.5,
+          8.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 3.0
+      },
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 0.4
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 5.1,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 4.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Double Talker|Buzz Word": {
+    "source_function": "doBuzzWord",
+    "source_line": 1317,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_buzz_word.ogg",
+        "delay": 3.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.5,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge": "duck"
+  },
+  "Double Talker|Mumbo Jumbo": {
+    "source_function": "doMumboJumbo",
+    "source_line": 3330,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_mumbo_jumbo.ogg",
+        "delay": 2.5
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:mumboJumboSpray",
+        "texture": "mumbojumbo-boiler",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:mumboJumboSpray",
+        "texture": "mumbojumbo-creative",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:mumboJumboSmother",
+        "texture": "mumbojumbo-deben",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.7,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:mumboJumboSmother",
+        "texture": "mumbojumbo-high",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.7,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:mumboJumboSmother",
+        "texture": "mumbojumbo-iron",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.7,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 2.2,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Double Talker|Jargon": {
+    "source_function": "doJargon",
+    "source_line": 3261,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_jargon.ogg",
+        "delay": 2.1
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-brow",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-deep",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-hoop",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-ipo",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 4.699999999999999,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.2,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.5,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Double Talker|Double Talk": {
+    "source_function": "doDoubleTalk",
+    "source_line": 2074,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_filibuster.ogg",
+        "delay": 2.5
+      }
+    ],
+    "particles": [
+      {
+        "effect": "DoubleTalkLeft",
+        "texture": "doubletalk-double",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "DoubleTalkRight",
+        "texture": "doubletalk-good",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Ambulance Chaser|Hang Up": {
+    "source_function": "doHangUp",
+    "source_line": 2377,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_hangup.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 5.5,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 4.7,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Ambulance Chaser|Rolodex": {
+    "source_function": "doRolodex",
+    "source_line": 1874,
+    "props": [
+      {
+        "name": "rollodex",
+        "parent": "left",
+        "pos": [
+          0.12,
+          0.24,
+          0.01
+        ],
+        "hpr": [
+          99.032,
+          5.973,
+          -179.839
+        ],
+        "delay": 1e-06,
+        "scale": [
+          0.91,
+          0.91,
+          0.91
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rolodex.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:rollodexWaterfall",
+        "delay": {
+          "offset": 3.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:rollodexStream",
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 4.0,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.5,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Ambulance Chaser|Shake": {
+    "source_function": "doShake",
+    "source_line": 2358,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "slip-forward"
+  },
+  "Ambulance Chaser|Red Tape": {
+    "source_function": "doRedTape",
+    "source_line": 2406,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_red_tape.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "struggle",
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Back Stabber|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Back Stabber|Restraining Order": {
+    "source_function": "doRestrainingOrder",
+    "source_line": 3399,
+    "props": [
+      {
+        "name": "shredder-paper",
+        "parent": "right",
+        "pos": [
+          -0.04,
+          0.15,
+          -1.38
+        ],
+        "hpr": [
+          10.584,
+          -11.945,
+          18.316
+        ],
+        "delay": 0.8,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:restrainingOrderCloud",
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.2,
+          "duration": 0.0
+        },
+        "parent": "world"
+      }
+    ],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "conked"
+  },
+  "Back Stabber|Guilt Trip": {
+    "source_function": "doGuiltTrip",
+    "source_line": 3361,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_guilt_trip.ogg",
+        "delay": 1.1
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Waterfall",
+        "delay": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.5,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 0.86,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Spin Doctor|Paradigm Shift": {
+    "source_function": "doParadigmShift",
+    "source_line": 2461,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "ShiftSpray",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.95,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.95,
+      "duration": 0.0
+    }
+  },
+  "Spin Doctor|Quake": {
+    "source_function": "doQuake",
+    "source_line": 2349,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "slip-forward"
+  },
+  "Spin Doctor|Spin": {
+    "source_function": "doSpin",
+    "source_line": 3429,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:spinSpray",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:spinEffect",
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 3.9,
+          "duration": 0.0
+        },
+        "parent": "world"
+      },
+      {
+        "effect": "file:spinEffect",
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 3.9,
+          "duration": 0.0
+        },
+        "parent": "world"
+      },
+      {
+        "effect": "file:spinEffect",
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 3.9,
+          "duration": 0.0
+        },
+        "parent": "world"
+      }
+    ],
+    "impact": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.91,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Spin Doctor|Write Off": {
+    "source_function": "doWriteOff",
+    "source_line": 1115,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.25,
+          1.38,
+          -0.08
+        ],
+        "hpr": [
+          -19.078,
+          -6.603,
+          -171.594
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.89,
+          1.89,
+          1.89
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Legal Eagle|Jargon": {
+    "source_function": "doJargon",
+    "source_line": 3261,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_jargon.ogg",
+        "delay": 2.1
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-brow",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-deep",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-hoop",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:jargonSpray",
+        "texture": "jargon-ipo",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 4.699999999999999,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.2,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.5,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Legal Eagle|Evil Eye": {
+    "source_function": "doEvilEye",
+    "source_line": 1926,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_evil_eye.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.44,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.64,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Legal Eagle|Legalese": {
+    "source_function": "doLegalese",
+    "source_line": 3478,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:legaleseSpray",
+        "texture": "legalese-hc",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:legaleseSpray",
+        "texture": "legalese-qpq",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:legaleseSpray",
+        "texture": "legalese-vd",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.9000000000000004,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Legal Eagle|Pecking Order": {
+    "source_function": "doPeckingOrder",
+    "source_line": 3510,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 4.2,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Big Wig|Power Trip": {
+    "source_function": "doPowerTrip",
+    "source_line": 2547,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Waterfall",
+        "delay": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 1.29,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Big Wig|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Big Wig|Throw Book": {
+    "source_function": null,
+    "source_line": null,
+    "impact": 3.43,
+    "props": [
+      {
+        "name": "lawbook",
+        "parent": "right",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.01,
+          0.01,
+          0.01
+        ],
+        "delay": 0.15
+      }
+    ],
+    "implementation_note": "TTR lawBook bounds are approximately 94.488 x 121.92 x 28.36 model units. Scale .01 converts this oversized asset to a hand-sized book; the Cog actor scale then applies. This is a measured simulator correction, not a verified modern source constant. Release remains at 3.03s; exact modern Throw Book timing unverified."
+  },
+  "Big Wig|Quash": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Short Change|Clip on Tie": {
+    "source_function": "doClipOnTie",
+    "source_line": 781,
+    "props": [
+      {
+        "name": "clip-on-tie",
+        "parent": "right",
+        "pos": [
+          0.66,
+          0.51,
+          0.28
+        ],
+        "hpr": [
+          -69.652,
+          -17.199,
+          67.96
+        ],
+        "delay": 0.5,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_powertie_throw.ogg",
+        "delay": 2.45
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.61,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.34,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Short Change|Watercooler": {
+    "source_function": "doWatercooler",
+    "source_line": 2647,
+    "props": [
+      {
+        "name": "watercooler",
+        "parent": "left",
+        "pos": [
+          0.48,
+          0.11,
+          -0.92
+        ],
+        "hpr": [
+          20.403,
+          33.158,
+          69.511
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": -1.5,
+      "duration": 1.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Short Change|Pick Pocket": {
+    "source_function": "doPickPocket",
+    "source_line": 2232,
+    "props": [
+      {
+        "name": "1dollar",
+        "parent": "right",
+        "pos": [
+          -0.01,
+          0.45,
+          -0.25
+        ],
+        "hpr": [
+          136.424,
+          -46.434,
+          -129.712
+        ],
+        "delay": 0.6,
+        "scale": [
+          1.41,
+          1.41,
+          1.41
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pick_pocket.ogg",
+        "delay": 0.2
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 0.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 0.01,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Short Change|Bounce Check": {
+    "source_function": "doBounceCheck",
+    "source_line": 2600,
+    "props": [
+      {
+        "name": "bounced-check",
+        "parent": "right",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          95.247,
+          79.025,
+          88.849
+        ],
+        "delay": 1e-05,
+        "scale": [
+          8.5,
+          8.5,
+          8.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 2.3
+      },
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 0.4
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 3.6,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Penny Pincher|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Penny Pincher|Freeze Assets": {
+    "source_function": "doFreezeAssets",
+    "source_line": 2107,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "cringe"
+  },
+  "Penny Pincher|Bounce Check": {
+    "source_function": "doBounceCheck",
+    "source_line": 2600,
+    "props": [
+      {
+        "name": "bounced-check",
+        "parent": "right",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          95.247,
+          79.025,
+          88.849
+        ],
+        "delay": 1e-05,
+        "scale": [
+          8.5,
+          8.5,
+          8.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 3.0
+      },
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 0.4
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 5.1,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 4.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Penny Pincher|Nickel and Dime": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Tightwad|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 2.0,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Tightwad|Fired": {
+    "source_function": "doFired",
+    "source_line": 2690,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_hot_air.ogg",
+        "delay": 1.0
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:firedBaseFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "FiredFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "SpriteFiredFlecks",
+        "texture": "roll-o-dex",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "delay": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "file:firedBaseFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "FiredFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "SpriteFiredFlecks",
+        "texture": "roll-o-dex",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "delay": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 1.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Tightwad|Freeze Assets": {
+    "source_function": "doFreezeAssets",
+    "source_line": 2107,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "cringe"
+  },
+  "Tightwad|Glower Power": {
+    "source_function": "doGlowerPower",
+    "source_line": 1700,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_glower_power.ogg",
+        "delay": 1.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 1.6,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "slip-backward"
+  },
+  "Tightwad|Bounce Check": {
+    "source_function": "doBounceCheck",
+    "source_line": 2600,
+    "props": [
+      {
+        "name": "bounced-check",
+        "parent": "right",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          95.247,
+          79.025,
+          88.849
+        ],
+        "delay": 1e-05,
+        "scale": [
+          8.5,
+          8.5,
+          8.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 2.3
+      },
+      {
+        "file": "SA_pink_slip.ogg",
+        "delay": 0.4
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 3.6,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bean Counter|Audit": {
+    "source_function": "doAudit",
+    "source_line": 2769,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          0.35,
+          0.52,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.0,
+          1.37,
+          1.31
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_audit.ogg",
+        "delay": 1.9
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-two",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-three",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-four",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.9,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Bean Counter|Calculate": {
+    "source_function": "doCalculate",
+    "source_line": 2807,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          0.35,
+          0.52,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.0,
+          1.37,
+          1.31
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-plus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-three",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-div",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bean Counter|Tabulate": {
+    "source_function": "doTabulate",
+    "source_line": 2844,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          0.35,
+          0.52,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.0,
+          1.37,
+          1.31
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-plus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-minus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-div",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Bean Counter|Write Off": {
+    "source_function": "doWriteOff",
+    "source_line": 1115,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.25,
+          1.38,
+          -0.08
+        ],
+        "hpr": [
+          -19.078,
+          -6.603,
+          -171.594
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.89,
+          1.89,
+          1.89
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Number Cruncher|Tabulate": {
+    "source_function": "doTabulate",
+    "source_line": 2844,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          -0.15,
+          0.37,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.1,
+          1.85,
+          1.81
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-plus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-minus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-div",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Number Cruncher|Audit": {
+    "source_function": "doAudit",
+    "source_line": 2769,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          -0.15,
+          0.37,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.1,
+          1.85,
+          1.81
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_audit.ogg",
+        "delay": 1.9
+      }
+    ],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-two",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-three",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-four",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.9,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Number Cruncher|Calculate": {
+    "source_function": "doCalculate",
+    "source_line": 2807,
+    "props": [
+      {
+        "name": "calculator",
+        "parent": "left",
+        "pos": [
+          -0.15,
+          0.37,
+          0.03
+        ],
+        "hpr": [
+          1.352,
+          -6.518,
+          -6.045
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.1,
+          1.85,
+          1.81
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Calculate",
+        "texture": "audit-one",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-plus",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-mult",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-three",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "Calculate",
+        "texture": "audit-div",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Number Cruncher|Crunch": {
+    "source_function": "doCrunch",
+    "source_line": 2881,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "file:numberSpill",
+        "texture": null,
+        "delay": {
+          "offset": 1.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.2,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:numberSpill",
+        "texture": null,
+        "delay": {
+          "offset": 1.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 4.7,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.6,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Money Bags|Liquidate": {
+    "source_function": "doLiquidate",
+    "source_line": 2944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_liquidate.ogg",
+        "delay": 2.0
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.45,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "melt"
+  },
+  "Money Bags|Market Crash": {
+    "source_function": "doMarketCrash",
+    "source_line": 3000,
+    "props": [
+      {
+        "name": "newspaper",
+        "parent": "right",
+        "pos": [
+          -0.07,
+          0.17,
+          -0.13
+        ],
+        "hpr": [
+          161.867,
+          -33.149,
+          -48.086
+        ],
+        "delay": 0.6,
+        "scale": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.8,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Money Bags|Power Tie": {
+    "source_function": "doPowerTie",
+    "source_line": 2039,
+    "props": [
+      {
+        "name": "power-tie",
+        "parent": "right",
+        "pos": [
+          1.16,
+          0.24,
+          0.63
+        ],
+        "hpr": [
+          171.561,
+          1.745,
+          -163.443
+        ],
+        "delay": 0.5,
+        "scale": [
+          3.5,
+          3.5,
+          3.5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_powertie_throw.ogg",
+        "delay": 2.3
+      },
+      {
+        "file": "SA_powertie_impact.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.61,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.34,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Money Bags|Money Talks": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Loan Shark|Bite": {
+    "source_function": "doBite",
+    "source_line": 3043,
+    "props": [
+      {
+        "name": "teeth",
+        "parent": "right",
+        "pos": [
+          -0.05,
+          0.41,
+          -0.54
+        ],
+        "hpr": [
+          4.465,
+          -3.563,
+          51.479
+        ],
+        "delay": 0.8,
+        "scale": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.9,
+      "duration": 0.0
+    },
+    "dodge": "cringe",
+    "reaction": "cringe"
+  },
+  "Loan Shark|Chomp": {
+    "source_function": "doChomp",
+    "source_line": 3099,
+    "props": [
+      {
+        "name": "teeth",
+        "parent": "right",
+        "pos": [
+          -0.05,
+          0.41,
+          -0.54
+        ],
+        "hpr": [
+          4.465,
+          -3.563,
+          51.479
+        ],
+        "delay": 0.8,
+        "scale": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.2,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.75,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "cringe"
+  },
+  "Loan Shark|Play Hardball": {
+    "source_function": "doPlayHardball",
+    "source_line": 1976,
+    "props": [
+      {
+        "name": "baseball",
+        "parent": "right",
+        "pos": [
+          0.04,
+          0.03,
+          -0.31
+        ],
+        "hpr": [
+          -1.152,
+          86.581,
+          -76.784
+        ],
+        "delay": 0.8,
+        "scale": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_hardball_impact_only.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [],
+    "dodge_at": {
+      "offset": 2.56,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "conked"
+  },
+  "Loan Shark|Write Off": {
+    "source_function": "doWriteOff",
+    "source_line": 1115,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          -0.25,
+          1.38,
+          -0.08
+        ],
+        "hpr": [
+          -19.078,
+          -6.603,
+          -171.594
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.89,
+          1.89,
+          1.89
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Robber Baron|Power Trip": {
+    "source_function": "doPowerTrip",
+    "source_line": 2547,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Waterfall",
+        "delay": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 1.29,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Robber Baron|Tee Off": {
+    "source_function": "doTeeOff",
+    "source_line": 1232,
+    "props": [
+      {
+        "name": "golf-club",
+        "parent": "left",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          63.097,
+          43.988,
+          -18.435
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.1,
+          1.1,
+          1.1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_tee_off.ogg",
+        "delay": 4.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": -2.25,
+      "duration": 1.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -4.35,
+      "duration": 1.0
+    },
+    "dodge": "duck"
+  },
+  "Robber Baron|Synergy": {
+    "source_function": "doSynergy",
+    "source_line": 1200,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Synergy",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:synergyWaterfall",
+        "delay": {
+          "offset": 0.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 0.91,
+      "duration": 0.0
+    }
+  },
+  "Robber Baron|Embezzle": {
+    "source_function": null,
+    "source_line": null
+  },
+  "Cold Caller|Freeze Assets": {
+    "source_function": "doFreezeAssets",
+    "source_line": 2107,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "cringe"
+  },
+  "Cold Caller|Pound Key": {
+    "source_function": "doPoundKey",
+    "source_line": 815,
+    "props": [
+      {
+        "name": "phone",
+        "parent": "left",
+        "pos": [
+          0.23,
+          0.17,
+          -0.11
+        ],
+        "hpr": [
+          5.939,
+          2.763,
+          -177.591
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "receiver",
+        "parent": "left",
+        "pos": [
+          0.23,
+          0.17,
+          -0.11
+        ],
+        "hpr": [
+          5.939,
+          2.763,
+          -177.591
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_hangup.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "PoundKey",
+        "texture": "poundsign",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.55,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Cold Caller|Double Talk": {
+    "source_function": "doDoubleTalk",
+    "source_line": 2074,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_filibuster.ogg",
+        "delay": 2.5
+      }
+    ],
+    "particles": [
+      {
+        "effect": "DoubleTalkLeft",
+        "texture": "doubletalk-double",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "DoubleTalkRight",
+        "texture": "doubletalk-good",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Cold Caller|Hot Air": {
+    "source_function": "doHotAir",
+    "source_line": 2155,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_hot_air.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [
+      {
+        "effect": "HotAir",
+        "texture": "fire",
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:firedBaseFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 3.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.6,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "FiredFlame",
+        "texture": "fire",
+        "delay": {
+          "offset": 3.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.6,
+          "duration": 0.0
+        },
+        "parent": "target"
+      },
+      {
+        "effect": "SpriteFiredFlecks",
+        "texture": "roll-o-dex",
+        "color": [
+          0.95,
+          0.95,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 4.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "target"
+      }
+    ],
+    "impact": {
+      "offset": 3.6,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.0,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Telemarketer|Clip on Tie": {
+    "source_function": "doClipOnTie",
+    "source_line": 781,
+    "props": [
+      {
+        "name": "clip-on-tie",
+        "parent": "right",
+        "pos": [
+          0.66,
+          0.51,
+          0.28
+        ],
+        "hpr": [
+          -69.652,
+          -17.199,
+          67.96
+        ],
+        "delay": 0.5,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_powertie_throw.ogg",
+        "delay": 3.17
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 3.1,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Telemarketer|Pick Pocket": {
+    "source_function": "doPickPocket",
+    "source_line": 2232,
+    "props": [
+      {
+        "name": "1dollar",
+        "parent": "right",
+        "pos": [
+          -0.01,
+          0.45,
+          -0.25
+        ],
+        "hpr": [
+          136.424,
+          -46.434,
+          -129.712
+        ],
+        "delay": 0.6,
+        "scale": [
+          1.41,
+          1.41,
+          1.41
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pick_pocket.ogg",
+        "delay": 0.2
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 0.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 0.01,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Telemarketer|Rolodex": {
+    "source_function": "doRolodex",
+    "source_line": 1874,
+    "props": [
+      {
+        "name": "rollodex",
+        "parent": "left",
+        "pos": [
+          0.12,
+          0.24,
+          0.01
+        ],
+        "hpr": [
+          99.032,
+          5.973,
+          -179.839
+        ],
+        "delay": 1e-06,
+        "scale": [
+          0.91,
+          0.91,
+          0.91
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rolodex.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:rollodexWaterfall",
+        "delay": {
+          "offset": 3.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:rollodexStream",
+        "delay": {
+          "offset": 3.5,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 4.0,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.5,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Telemarketer|Double Talk": {
+    "source_function": "doDoubleTalk",
+    "source_line": 2074,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_filibuster.ogg",
+        "delay": 2.5
+      }
+    ],
+    "particles": [
+      {
+        "effect": "DoubleTalkLeft",
+        "texture": "doubletalk-double",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "DoubleTalkRight",
+        "texture": "doubletalk-good",
+        "color": [
+          0,
+          1.0,
+          0.0,
+          1
+        ],
+        "delay": {
+          "offset": 3.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.8,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Name Dropper|Razzle Dazzle": {
+    "source_function": "doRazzleDazzle",
+    "source_line": 1177,
+    "props": [
+      {
+        "name": "smile",
+        "parent": "right",
+        "pos": [
+          0.0,
+          -0.42,
+          -0.04
+        ],
+        "hpr": [
+          105.715,
+          73.977,
+          65.932
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_razzle_dazzle.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Name Dropper|Rolodex": {
+    "source_function": "doRolodex",
+    "source_line": 1874,
+    "props": [
+      {
+        "name": "rollodex",
+        "parent": "left",
+        "pos": [
+          -0.51,
+          -0.03,
+          -0.1
+        ],
+        "hpr": [
+          89.673,
+          2.166,
+          177.786
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1.2,
+          1.2,
+          1.2
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rolodex.ogg",
+        "delay": 2.8
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:rollodexWaterfall",
+        "delay": {
+          "offset": 2.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:rollodexStream",
+        "delay": {
+          "offset": 3.2,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 3.8,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 2.5,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Name Dropper|Synergy": {
+    "source_function": "doSynergy",
+    "source_line": 1200,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Synergy",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:synergyWaterfall",
+        "delay": {
+          "offset": 0.8,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 0.91,
+      "duration": 0.0
+    }
+  },
+  "Name Dropper|Pick Pocket": {
+    "source_function": "doPickPocket",
+    "source_line": 2232,
+    "props": [
+      {
+        "name": "1dollar",
+        "parent": "right",
+        "pos": [
+          -0.01,
+          0.45,
+          -0.25
+        ],
+        "hpr": [
+          136.424,
+          -46.434,
+          -129.712
+        ],
+        "delay": 0.6,
+        "scale": [
+          1.41,
+          1.41,
+          1.41
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_pick_pocket.ogg",
+        "delay": 0.2
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 0.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 0.01,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Glad Hander|Rubber Stamp": {
+    "source_function": "doRubberStamp",
+    "source_line": 1144,
+    "props": [
+      {
+        "name": "pad",
+        "parent": "left",
+        "pos": [
+          0.19,
+          -0.55,
+          -0.21
+        ],
+        "hpr": [
+          -166.76,
+          -4.001,
+          -1.658
+        ],
+        "delay": 1e-06,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": "rubber-stamp",
+        "parent": "right",
+        "pos": [
+          -0.64,
+          -0.08,
+          0.11
+        ],
+        "hpr": [
+          0,
+          0,
+          0
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_rubber_stamp.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Glad Hander|Fountain Pen": {
+    "source_function": "doFountainPen",
+    "source_line": 944,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_fountain_pen.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:penSpill",
+        "delay": {
+          "offset": 1.4,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 0.7,
+          "duration": 0.0
+        },
+        "parent": {
+          "prop": "pen"
+        }
+      }
+    ],
+    "impact": {
+      "offset": 1.81,
+      "duration": 0.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": 0.11,
+      "duration": 0.0
+    },
+    "dodge": "duck"
+  },
+  "Glad Hander|Filibuster": {
+    "source_function": "doFilibuster",
+    "source_line": 2250,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_filibuster.ogg",
+        "delay": 1.1
+      }
+    ],
+    "particles": [
+      {
+        "effect": "file:filibusterSpray",
+        "texture": "filibuster-cut",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:filibusterSpray",
+        "texture": "filibuster-fiscal",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.1,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:filibusterSpray",
+        "texture": "filibuster-impeach",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 2.9000000000000004,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      },
+      {
+        "effect": "file:filibusterSpray",
+        "texture": "filibuster-inc",
+        "color": [
+          0.4,
+          0,
+          0,
+          1
+        ],
+        "delay": {
+          "offset": 3.7,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.15,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.45,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Glad Hander|Schmooze": {
+    "source_function": "doSchmooze",
+    "source_line": 2289,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.9,
+      "duration": 0.0
+    }
+  },
+  "Mover & Shaker|Brain Storm": {
+    "source_function": "doBrainStorm",
+    "source_line": 1263,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_brainstorm.ogg",
+        "delay": 2.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.5,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 3.3,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "cringe"
+  },
+  "Mover & Shaker|Half Windsor": {
+    "source_function": "doHalfWindsor",
+    "source_line": 1743,
+    "props": [
+      {
+        "name": "half-windsor",
+        "parent": "right",
+        "pos": [
+          0.02,
+          0.88,
+          0.48
+        ],
+        "hpr": [
+          99,
+          -3,
+          -108.2
+        ],
+        "delay": 0.5,
+        "scale": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 2.4,
+      "duration": 0.0
+    },
+    "dodge": "sidestep",
+    "reaction": "conked"
+  },
+  "Mover & Shaker|Quake": {
+    "source_function": "doQuake",
+    "source_line": 2349,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "slip-forward"
+  },
+  "Mover & Shaker|Shake": {
+    "source_function": "doShake",
+    "source_line": 2358,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "slip-forward"
+  },
+  "Mover & Shaker|Tremor": {
+    "source_function": "doTremor",
+    "source_line": 2367,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_tremor.ogg",
+        "delay": 0.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 1.1,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.7,
+      "duration": 0.0
+    },
+    "dodge": "jump",
+    "reaction": "slip-forward"
+  },
+  "Two-Face|Evil Eye": {
+    "source_function": "doEvilEye",
+    "source_line": 1926,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_evil_eye.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.44,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.64,
+      "duration": 0.0
+    },
+    "dodge": "duck",
+    "reaction": "duck"
+  },
+  "Two-Face|Hang Up": {
+    "source_function": "doHangUp",
+    "source_line": 2377,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_hangup.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 5.5,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 4.7,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Two-Face|Razzle Dazzle": {
+    "source_function": "doRazzleDazzle",
+    "source_line": 1177,
+    "props": [
+      {
+        "name": "smile",
+        "parent": "right",
+        "pos": [
+          0.0,
+          -0.42,
+          -0.04
+        ],
+        "hpr": [
+          105.715,
+          73.977,
+          65.932
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_razzle_dazzle.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Two-Face|Red Tape": {
+    "source_function": "doRedTape",
+    "source_line": 2406,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_red_tape.ogg",
+        "delay": 2.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 3.4,
+      "duration": 0.0
+    },
+    "reaction": "struggle",
+    "dodge_at": {
+      "offset": 2.8,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "The Mingler|Buzz Word": {
+    "source_function": "doBuzzWord",
+    "source_line": 1317,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_buzz_word.ogg",
+        "delay": 3.9
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 4.5,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge": "duck"
+  },
+  "The Mingler|Paradigm Shift": {
+    "source_function": "doParadigmShift",
+    "source_line": 2461,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "ShiftSpray",
+        "delay": {
+          "offset": 1.0,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.9,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.95,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 0.95,
+      "duration": 0.0
+    }
+  },
+  "The Mingler|Schmooze": {
+    "source_function": "doSchmooze",
+    "source_line": 2289,
+    "props": [],
+    "sounds": [],
+    "particles": [],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "dodge_at": {
+      "offset": 1.1,
+      "duration": 0.0
+    }
+  },
+  "The Mingler|Tee Off": {
+    "source_function": "doTeeOff",
+    "source_line": 1232,
+    "props": [
+      {
+        "name": "golf-club",
+        "parent": "left",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "hpr": [
+          63.097,
+          43.988,
+          -18.435
+        ],
+        "delay": 0.5,
+        "scale": [
+          1.1,
+          1.1,
+          1.1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_tee_off.ogg",
+        "delay": 4.1
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": -2.25,
+      "duration": 1.0
+    },
+    "reaction": "conked",
+    "dodge_at": {
+      "offset": -4.35,
+      "duration": 1.0
+    },
+    "dodge": "duck"
+  },
+  "Mr. Hollywood|Power Trip": {
+    "source_function": "doPowerTrip",
+    "source_line": 2547,
+    "props": [],
+    "sounds": [],
+    "particles": [
+      {
+        "effect": "Waterfall",
+        "delay": {
+          "offset": 0.6,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 1.8,
+      "duration": 0.0
+    },
+    "reaction": "slip-forward",
+    "dodge_at": {
+      "offset": 1.29,
+      "duration": 0.0
+    },
+    "dodge": "jump"
+  },
+  "Mr. Hollywood|Razzle Dazzle": {
+    "source_function": "doRazzleDazzle",
+    "source_line": 1177,
+    "props": [
+      {
+        "name": "smile",
+        "parent": "right",
+        "pos": [
+          0.0,
+          -0.42,
+          -0.04
+        ],
+        "hpr": [
+          105.715,
+          73.977,
+          65.932
+        ],
+        "delay": 0.3,
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "file": "SA_razzle_dazzle.ogg",
+        "delay": 1.6
+      }
+    ],
+    "particles": [],
+    "impact": {
+      "offset": 2.6,
+      "duration": 0.0
+    },
+    "reaction": "cringe",
+    "dodge_at": {
+      "offset": 1.9,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Mr. Hollywood|Finger Wag": {
+    "source_function": "doFingerWag",
+    "source_line": 1076,
+    "props": [],
+    "sounds": [
+      {
+        "file": "SA_finger_wag.ogg",
+        "delay": 1.3
+      }
+    ],
+    "particles": [
+      {
+        "effect": "FingerWag",
+        "texture": "blah",
+        "color": [
+          0.55,
+          0,
+          0.55,
+          1
+        ],
+        "delay": {
+          "offset": 1.3,
+          "duration": 0.0
+        },
+        "duration": {
+          "offset": 2.0,
+          "duration": 0.0
+        },
+        "parent": "suit"
+      }
+    ],
+    "impact": {
+      "offset": 2.7,
+      "duration": 0.0
+    },
+    "reaction": "slip-backward",
+    "dodge_at": {
+      "offset": 1.7,
+      "duration": 0.0
+    },
+    "dodge": "sidestep"
+  },
+  "Mr. Hollywood|Beguile": {
+    "source_function": null,
+    "source_line": null
+  }
+}

@@ -1,0 +1,4095 @@
+{
+  "Flunky": {
+    "department": "Bossbot",
+    "rank": 1,
+    "defense": [
+      2,
+      5,
+      10,
+      12,
+      15
+    ],
+    "attacks": [
+      {
+        "name": "Pound Key",
+        "group": false,
+        "damage": [
+          2,
+          2,
+          3,
+          4,
+          6
+        ],
+        "accuracy": [
+          75,
+          75,
+          80,
+          80,
+          90
+        ],
+        "weight": [
+          30,
+          35,
+          40,
+          45,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Shred",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "accuracy": [
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "weight": [
+          10,
+          15,
+          20,
+          25,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Clip on Tie",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          60,
+          50,
+          40,
+          30,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Flunky"
+  },
+  "Pencil Pusher": {
+    "department": "Bossbot",
+    "rank": 2,
+    "defense": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "attacks": [
+      {
+        "name": "Fountain Pen",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          6,
+          9
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Rub Out",
+        "group": false,
+        "damage": [
+          4,
+          5,
+          6,
+          8,
+          12
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          1,
+          2,
+          2,
+          3,
+          4
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          35,
+          30,
+          25,
+          20,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Write Off",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Fill With Lead",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Pencil_Pusher"
+  },
+  "Yesman": {
+    "department": "Bossbot",
+    "rank": 3,
+    "defense": [
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "attacks": [
+      {
+        "name": "Rubber Stamp",
+        "group": false,
+        "damage": [
+          2,
+          2,
+          3,
+          3,
+          4
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Razzle Dazzle",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          25,
+          20,
+          15,
+          10,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Synergy",
+        "group": true,
+        "damage": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Tee Off",
+        "group": false,
+        "damage": [
+          3,
+          3,
+          4,
+          4,
+          5
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Yesman"
+  },
+  "Micromanager": {
+    "department": "Bossbot",
+    "rank": 4,
+    "defense": [
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "attacks": [
+      {
+        "name": "Fountain Pen",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Brain Storm",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Buzz Word",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Demotion",
+        "group": false,
+        "damage": [
+          6,
+          8,
+          12,
+          15,
+          18
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Close the Loop",
+        "group": true,
+        "damage": [
+          3,
+          5,
+          7,
+          10,
+          12
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Micromanager"
+  },
+  "Downsizer": {
+    "department": "Bossbot",
+    "rank": 5,
+    "defense": [
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "attacks": [
+      {
+        "name": "Pink Slip",
+        "group": false,
+        "damage": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          80,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Sacked",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Canned",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Downsize",
+        "group": false,
+        "damage": [
+          8,
+          9,
+          11,
+          13,
+          15
+        ],
+        "accuracy": [
+          50,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Downsizer"
+  },
+  "Head Hunter": {
+    "department": "Bossbot",
+    "rank": 6,
+    "defense": [
+      25,
+      30,
+      35,
+      40,
+      45
+    ],
+    "attacks": [
+      {
+        "name": "Fountain Pen",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Rolodex",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Glower Power",
+        "group": false,
+        "damage": [
+          7,
+          8,
+          10,
+          12,
+          13
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Half Windsor",
+        "group": false,
+        "damage": [
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Head Shrink",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          15,
+          18,
+          21
+        ],
+        "accuracy": [
+          65,
+          75,
+          80,
+          85,
+          95
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Head_Hunter"
+  },
+  "Corporate Raider": {
+    "department": "Bossbot",
+    "rank": 7,
+    "defense": [
+      30,
+      35,
+      40,
+      45,
+      50
+    ],
+    "attacks": [
+      {
+        "name": "Canned",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Evil Eye",
+        "group": false,
+        "damage": [
+          12,
+          15,
+          18,
+          21,
+          24
+        ],
+        "accuracy": [
+          60,
+          70,
+          75,
+          80,
+          90
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Play Hardball",
+        "group": false,
+        "damage": [
+          7,
+          8,
+          12,
+          15,
+          16
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Power Tie",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          14,
+          16,
+          18
+        ],
+        "accuracy": [
+          65,
+          75,
+          80,
+          85,
+          95
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Hostile Takeover",
+        "group": true,
+        "damage": [
+          10,
+          13,
+          14,
+          15,
+          18
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Corporate_Raider"
+  },
+  "The Big Cheese": {
+    "department": "Bossbot",
+    "rank": 8,
+    "defense": [
+      35,
+      40,
+      45,
+      50,
+      55
+    ],
+    "attacks": [
+      {
+        "name": "Tee Off",
+        "group": false,
+        "damage": [
+          8,
+          11,
+          14,
+          17,
+          20
+        ],
+        "accuracy": [
+          55,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Glower Power",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          15,
+          18,
+          20
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Power Trip",
+        "group": true,
+        "damage": [
+          11,
+          13,
+          14,
+          16,
+          19
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Flood the Market",
+        "group": true,
+        "damage": [
+          13,
+          15,
+          16,
+          18,
+          21
+        ],
+        "accuracy": [
+          70,
+          75,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/The_Big_Cheese"
+  },
+  "Bottom Feeder": {
+    "department": "Lawbot",
+    "rank": 1,
+    "defense": [
+      2,
+      5,
+      10,
+      12,
+      15
+    ],
+    "attacks": [
+      {
+        "name": "Rubber Stamp",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Shred",
+        "group": false,
+        "damage": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accuracy": [
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Watercooler",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pick Pocket",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "accuracy": [
+          25,
+          30,
+          35,
+          40,
+          45
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Bottom_Feeder"
+  },
+  "Bloodsucker": {
+    "department": "Lawbot",
+    "rank": 2,
+    "defense": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "attacks": [
+      {
+        "name": "Eviction Notice",
+        "group": false,
+        "damage": [
+          1,
+          2,
+          3,
+          3,
+          4
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Liquidate",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          6,
+          9
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Red Tape",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          6,
+          9
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Withdrawal",
+        "group": false,
+        "damage": [
+          6,
+          8,
+          10,
+          12,
+          14
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Bloodsucker"
+  },
+  "Double Talker": {
+    "department": "Lawbot",
+    "rank": 3,
+    "defense": [
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "attacks": [
+      {
+        "name": "Rubber Stamp",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Bounce Check",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Buzz Word",
+        "group": false,
+        "damage": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Mumbo Jumbo",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Jargon",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Double Talk",
+        "group": false,
+        "damage": [
+          6,
+          6,
+          9,
+          13,
+          18
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Double_Talker"
+  },
+  "Ambulance Chaser": {
+    "department": "Lawbot",
+    "rank": 4,
+    "defense": [
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "attacks": [
+      {
+        "name": "Hang Up",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Rolodex",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Shake",
+        "group": true,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Red Tape",
+        "group": false,
+        "damage": [
+          6,
+          8,
+          12,
+          15,
+          19
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Ambulance_Chaser"
+  },
+  "Back Stabber": {
+    "department": "Lawbot",
+    "rank": 5,
+    "defense": [
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "attacks": [
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "accuracy": [
+          50,
+          55,
+          65,
+          75,
+          80
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Restraining Order",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          9,
+          11,
+          13
+        ],
+        "accuracy": [
+          50,
+          65,
+          70,
+          75,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Guilt Trip",
+        "group": true,
+        "damage": [
+          8,
+          11,
+          13,
+          15,
+          18
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Back_Stabber"
+  },
+  "Spin Doctor": {
+    "department": "Lawbot",
+    "rank": 6,
+    "defense": [
+      25,
+      30,
+      35,
+      40,
+      45
+    ],
+    "attacks": [
+      {
+        "name": "Paradigm Shift",
+        "group": true,
+        "damage": [
+          9,
+          10,
+          13,
+          16,
+          17
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Quake",
+        "group": true,
+        "damage": [
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Spin",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          15,
+          18,
+          20
+        ],
+        "accuracy": [
+          70,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Write Off",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          85,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Spin_Doctor"
+  },
+  "Legal Eagle": {
+    "department": "Lawbot",
+    "rank": 7,
+    "defense": [
+      30,
+      35,
+      40,
+      45,
+      50
+    ],
+    "attacks": [
+      {
+        "name": "Jargon",
+        "group": false,
+        "damage": [
+          7,
+          9,
+          11,
+          13,
+          15
+        ],
+        "accuracy": [
+          60,
+          70,
+          75,
+          80,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Evil Eye",
+        "group": false,
+        "damage": [
+          10,
+          11,
+          13,
+          15,
+          16
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Legalese",
+        "group": false,
+        "damage": [
+          11,
+          13,
+          16,
+          19,
+          21
+        ],
+        "accuracy": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pecking Order",
+        "group": false,
+        "damage": [
+          15,
+          15,
+          17,
+          19,
+          22
+        ],
+        "accuracy": [
+          70,
+          75,
+          80,
+          85,
+          95
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Legal_Eagle"
+  },
+  "Big Wig": {
+    "department": "Lawbot",
+    "rank": 8,
+    "defense": [
+      35,
+      40,
+      45,
+      50,
+      55
+    ],
+    "attacks": [
+      {
+        "name": "Power Trip",
+        "group": true,
+        "damage": [
+          10,
+          11,
+          13,
+          15,
+          16
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          9,
+          11,
+          13,
+          16,
+          18
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Throw Book",
+        "group": false,
+        "damage": [
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "accuracy": [
+          80,
+          85,
+          85,
+          85,
+          90
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Quash",
+        "group": true,
+        "damage": [
+          12,
+          13,
+          15,
+          17,
+          19
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Big_Wig"
+  },
+  "Short Change": {
+    "department": "Cashbot",
+    "rank": 1,
+    "defense": [
+      2,
+      5,
+      10,
+      12,
+      15
+    ],
+    "attacks": [
+      {
+        "name": "Clip on Tie",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Watercooler",
+        "group": false,
+        "damage": [
+          2,
+          2,
+          3,
+          4,
+          6
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pick Pocket",
+        "group": false,
+        "damage": [
+          2,
+          2,
+          3,
+          4,
+          6
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Bounce Check",
+        "group": false,
+        "damage": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Short_Change"
+  },
+  "Penny Pincher": {
+    "department": "Cashbot",
+    "rank": 2,
+    "defense": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "attacks": [
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Freeze Assets",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          6,
+          9
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Bounce Check",
+        "group": false,
+        "damage": [
+          4,
+          5,
+          6,
+          8,
+          12
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          45,
+          45,
+          45,
+          45,
+          45
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Nickel and Dime",
+        "group": true,
+        "damage": [
+          3,
+          4,
+          6,
+          7,
+          9
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Penny_Pincher"
+  },
+  "Tightwad": {
+    "department": "Cashbot",
+    "rank": 3,
+    "defense": [
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "attacks": [
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          3,
+          3,
+          4,
+          4,
+          5
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          5,
+          70,
+          5,
+          5,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Fired",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          5,
+          5,
+          6
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          75,
+          5,
+          5,
+          5,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Freeze Assets",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          5,
+          5,
+          65,
+          5,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Glower Power",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          10,
+          15,
+          20,
+          25,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Bounce Check",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          9,
+          13,
+          18
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          5,
+          5,
+          5,
+          60,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Tightwad"
+  },
+  "Bean Counter": {
+    "department": "Cashbot",
+    "rank": 4,
+    "defense": [
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "attacks": [
+      {
+        "name": "Audit",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Calculate",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Tabulate",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Write Off",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Bean_Counter"
+  },
+  "Number Cruncher": {
+    "department": "Cashbot",
+    "rank": 5,
+    "defense": [
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "attacks": [
+      {
+        "name": "Tabulate",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Audit",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Calculate",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          9,
+          11,
+          13
+        ],
+        "accuracy": [
+          50,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Crunch",
+        "group": false,
+        "damage": [
+          8,
+          9,
+          11,
+          13,
+          15
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          80,
+          85
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Number_Cruncher"
+  },
+  "Money Bags": {
+    "department": "Cashbot",
+    "rank": 6,
+    "defense": [
+      25,
+      30,
+      35,
+      40,
+      45
+    ],
+    "attacks": [
+      {
+        "name": "Liquidate",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          14,
+          16,
+          18
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Market Crash",
+        "group": false,
+        "damage": [
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          45,
+          45,
+          45,
+          45,
+          45
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Power Tie",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          85,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Money Talks",
+        "group": true,
+        "damage": [
+          9,
+          11,
+          12,
+          14,
+          15
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Money_Bags"
+  },
+  "Loan Shark": {
+    "department": "Cashbot",
+    "rank": 7,
+    "defense": [
+      30,
+      35,
+      40,
+      45,
+      50
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "group": false,
+        "damage": [
+          10,
+          11,
+          13,
+          15,
+          16
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Chomp",
+        "group": false,
+        "damage": [
+          12,
+          15,
+          18,
+          21,
+          24
+        ],
+        "accuracy": [
+          60,
+          70,
+          75,
+          80,
+          90
+        ],
+        "weight": [
+          35,
+          35,
+          35,
+          35,
+          35
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Play Hardball",
+        "group": false,
+        "damage": [
+          9,
+          11,
+          12,
+          13,
+          15
+        ],
+        "accuracy": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Write Off",
+        "group": false,
+        "damage": [
+          6,
+          8,
+          10,
+          12,
+          14
+        ],
+        "accuracy": [
+          70,
+          75,
+          80,
+          85,
+          95
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Loan_Shark"
+  },
+  "Robber Baron": {
+    "department": "Cashbot",
+    "rank": 8,
+    "defense": [
+      35,
+      40,
+      45,
+      50,
+      55
+    ],
+    "attacks": [
+      {
+        "name": "Power Trip",
+        "group": true,
+        "damage": [
+          11,
+          14,
+          16,
+          18,
+          21
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Tee Off",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          14,
+          16,
+          18
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          85,
+          90
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Synergy",
+        "group": true,
+        "damage": [
+          9,
+          11,
+          13,
+          16,
+          18
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Embezzle",
+        "group": false,
+        "damage": [
+          11,
+          14,
+          16,
+          18,
+          20
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Robber_Baron"
+  },
+  "Cold Caller": {
+    "department": "Sellbot",
+    "rank": 1,
+    "defense": [
+      2,
+      5,
+      10,
+      12,
+      15
+    ],
+    "attacks": [
+      {
+        "name": "Freeze Assets",
+        "group": false,
+        "damage": [
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "accuracy": [
+          90,
+          90,
+          90,
+          90,
+          90
+        ],
+        "weight": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pound Key",
+        "group": false,
+        "damage": [
+          2,
+          2,
+          3,
+          4,
+          5
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Double Talk",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          6,
+          8
+        ],
+        "accuracy": [
+          50,
+          55,
+          60,
+          65,
+          70
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Hot Air",
+        "group": false,
+        "damage": [
+          3,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          45,
+          40,
+          35,
+          30,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Cold_Caller"
+  },
+  "Telemarketer": {
+    "department": "Sellbot",
+    "rank": 2,
+    "defense": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "attacks": [
+      {
+        "name": "Clip on Tie",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pick Pocket",
+        "group": false,
+        "damage": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "accuracy": [
+          75,
+          75,
+          75,
+          75,
+          75
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Rolodex",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          7,
+          9,
+          12
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Double Talk",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          7,
+          9,
+          12
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Telemarketer"
+  },
+  "Name Dropper": {
+    "department": "Sellbot",
+    "rank": 3,
+    "defense": [
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "attacks": [
+      {
+        "name": "Razzle Dazzle",
+        "group": false,
+        "damage": [
+          4,
+          5,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          75,
+          80,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Rolodex",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          7,
+          10,
+          14
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Synergy",
+        "group": true,
+        "damage": [
+          3,
+          4,
+          6,
+          9,
+          12
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Pick Pocket",
+        "group": false,
+        "damage": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ],
+        "accuracy": [
+          95,
+          95,
+          95,
+          95,
+          95
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Name_Dropper"
+  },
+  "Glad Hander": {
+    "department": "Sellbot",
+    "rank": 4,
+    "defense": [
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "attacks": [
+      {
+        "name": "Rubber Stamp",
+        "group": false,
+        "damage": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "accuracy": [
+          90,
+          70,
+          50,
+          30,
+          10
+        ],
+        "weight": [
+          40,
+          30,
+          20,
+          10,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Fountain Pen",
+        "group": false,
+        "damage": [
+          3,
+          5,
+          6,
+          8,
+          9
+        ],
+        "accuracy": [
+          70,
+          60,
+          50,
+          40,
+          30
+        ],
+        "weight": [
+          40,
+          30,
+          20,
+          10,
+          5
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Filibuster",
+        "group": false,
+        "damage": [
+          4,
+          6,
+          9,
+          12,
+          15
+        ],
+        "accuracy": [
+          30,
+          40,
+          50,
+          60,
+          70
+        ],
+        "weight": [
+          10,
+          20,
+          30,
+          40,
+          45
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Schmooze",
+        "group": false,
+        "damage": [
+          5,
+          7,
+          11,
+          15,
+          20
+        ],
+        "accuracy": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "weight": [
+          10,
+          20,
+          30,
+          40,
+          45
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Glad_Hander"
+  },
+  "Mover & Shaker": {
+    "department": "Sellbot",
+    "rank": 5,
+    "defense": [
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "attacks": [
+      {
+        "name": "Brain Storm",
+        "group": false,
+        "damage": [
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Half Windsor",
+        "group": false,
+        "damage": [
+          6,
+          9,
+          11,
+          13,
+          16
+        ],
+        "accuracy": [
+          50,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Quake",
+        "group": true,
+        "damage": [
+          9,
+          12,
+          15,
+          18,
+          21
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          80,
+          85
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Shake",
+        "group": true,
+        "damage": [
+          6,
+          8,
+          10,
+          12,
+          14
+        ],
+        "accuracy": [
+          70,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Tremor",
+        "group": true,
+        "damage": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "accuracy": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Mover_&_Shaker"
+  },
+  "Two-Face": {
+    "department": "Sellbot",
+    "rank": 6,
+    "defense": [
+      25,
+      30,
+      35,
+      40,
+      45
+    ],
+    "attacks": [
+      {
+        "name": "Evil Eye",
+        "group": false,
+        "damage": [
+          10,
+          12,
+          14,
+          16,
+          18
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Hang Up",
+        "group": false,
+        "damage": [
+          7,
+          8,
+          10,
+          12,
+          13
+        ],
+        "accuracy": [
+          50,
+          60,
+          70,
+          80,
+          90
+        ],
+        "weight": [
+          15,
+          15,
+          15,
+          15,
+          15
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Razzle Dazzle",
+        "group": false,
+        "damage": [
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "accuracy": [
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Red Tape",
+        "group": false,
+        "damage": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "accuracy": [
+          60,
+          65,
+          75,
+          85,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Two-Face"
+  },
+  "The Mingler": {
+    "department": "Sellbot",
+    "rank": 7,
+    "defense": [
+      30,
+      35,
+      40,
+      45,
+      50
+    ],
+    "attacks": [
+      {
+        "name": "Buzz Word",
+        "group": false,
+        "damage": [
+          10,
+          11,
+          13,
+          15,
+          16
+        ],
+        "accuracy": [
+          60,
+          75,
+          80,
+          85,
+          90
+        ],
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Paradigm Shift",
+        "group": true,
+        "damage": [
+          12,
+          15,
+          18,
+          21,
+          24
+        ],
+        "accuracy": [
+          60,
+          70,
+          75,
+          80,
+          90
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Schmooze",
+        "group": false,
+        "damage": [
+          7,
+          8,
+          12,
+          15,
+          16
+        ],
+        "accuracy": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Tee Off",
+        "group": false,
+        "damage": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "accuracy": [
+          70,
+          75,
+          80,
+          85,
+          95
+        ],
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/The_Mingler"
+  },
+  "Mr. Hollywood": {
+    "department": "Sellbot",
+    "rank": 8,
+    "defense": [
+      35,
+      40,
+      45,
+      50,
+      55
+    ],
+    "attacks": [
+      {
+        "name": "Power Trip",
+        "group": true,
+        "damage": [
+          10,
+          12,
+          15,
+          18,
+          20
+        ],
+        "accuracy": [
+          55,
+          65,
+          75,
+          85,
+          95
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Razzle Dazzle",
+        "group": false,
+        "damage": [
+          8,
+          11,
+          14,
+          17,
+          20
+        ],
+        "accuracy": [
+          70,
+          75,
+          85,
+          90,
+          95
+        ],
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "probability_source": "legacy OpenToontown",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Finger Wag",
+        "group": false,
+        "damage": [
+          7,
+          9,
+          12,
+          14,
+          17
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      },
+      {
+        "name": "Beguile",
+        "group": true,
+        "damage": [
+          11,
+          14,
+          17,
+          20,
+          22
+        ],
+        "accuracy": [
+          85,
+          85,
+          85,
+          85,
+          85
+        ],
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "probability_source": "simulator assumption: 85% / weight 25",
+        "current_ttr_probabilities_verified": false
+      }
+    ],
+    "source": "https://toontownrewritten.wiki/Mr._Hollywood"
+  }
+}
